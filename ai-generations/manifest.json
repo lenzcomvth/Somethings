@@ -743,6 +743,13 @@
   ],
   "Girl-And-Flower": [
     {
+      "timestamp": "2025-10-03T12-07-23-153Z",
+      "prompt": "A hyper-realistic 8K cinematic portrait of the same woman (keep the attached face 100% identical, no modifications).\nShe is wearing a short white tutu dress paired with a pastel lavender blazer and a delicate embroidered top. Her hair is styled in a loose bun with soft strands framing her face. She carries a pastel lavender Chanel shoulder bag and holds a bouquet of purple tulips.\nPose: standing gracefully, holding the bouquet close, looking softly ahead.\nScene: in front of a luxurious flower shop, fully decorated with pastel purple hydrangeas and roses, with a sign above that reads “You Deserve Flowers Today.”\nLighting: soft pastel tones, natural daylight, cinematic editorial photography.\nMood: romantic, feminine, dreamy, luxury magazine cover style.\nUltra-detailed, sharp focus, natural skin texture, breathtaking realism.\n\nNegative Prompt: distorted face, altered face, blurry, painting style, cartoon, extra fingers, oversaturated colors, messy background, text errors.",
+      "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-07-23-153Z.md",
+      "imagePath": "ai-generations/Girl-And-Flower/image-2025-10-03T12-07-23-153Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T12-05-49-170Z",
       "prompt": "A hyper-realistic 8K cinematic portrait of the same woman (keep the attached face 100% identical, no modifications).\nShe is wearing a short white tutu dress with a vibrant orange blazer. Her hair is styled half-up, half-down with natural waves. She carries a matching orange Chanel shoulder bag and wears orange high heels. She holds a bouquet of bright orange lilies.\nPose: standing gracefully, gazing softly at the bouquet with a gentle smile.\nScene: in front of a flower shop fully decorated with orange tulips, marigolds, daisies, and orchids, with a pastel orange sign above that reads “You Deserve Flowers Today.”\nLighting: warm golden daylight, vivid pastel orange tones, cinematic editorial photography.\nMood: feminine, romantic, energetic, luxury fashion magazine cover style.\nUltra-detailed, sharp focus, natural skin texture, breathtaking realism.\n\nNegative Prompt: distorted face, altered face, blurry, painting/cartoon style, low resolution, oversaturated colors, extra fingers, text errors.",
       "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-05-49-170Z.md",
