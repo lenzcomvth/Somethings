@@ -1,1 +1,11 @@
-
+{
+  "Normal": [
+    {
+      "timestamp": "2025-10-03T02-37-37-625Z",
+      "prompt": "Vertical portrait, 1080x1920. Keep the same facial features and hair. photo of a man about 20 years old, shirtless, 6-pack abs, nice skin, few tattoos, wearing black elastic pants, Calvin Klein underwear showing a little bit of the top of the elastic pants, posing professionally in a gym. Cinematic setting, detailed analysis of faces, makeup, hair and gestures, subtle emotions. Shot with a long lens (50–85mm), shallow depth of field, gentle camera movements. Overall tone is soft, melancholy and intimate. Color grading: cool shadows (teal/blue) with warm highlights (orange/yellow). Post-production includes cinematic film grain, slight Gaussian blur in the background, and some bokeh, optional lens flare. Classic Korean film style, with a somber tone of teal and amber.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-37-37-625Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T02-37-37-625Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    }
+  ]
+}
