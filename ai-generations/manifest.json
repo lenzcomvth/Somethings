@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T09-28-30-324Z",
+      "prompt": "Create an image of me without changing my face. I'm a young woman about to take a shower. Her hair is tied up in a big red hairpin. She sits by a large window with bright morning light shining in. She's loosely wrapped in a white towel. She sits with her legs up in a relaxed pose. The atmosphere is simple and modern, giving a feeling of warmth and relaxation. The natural light emphasizes the figure clearly. The shooting style is like a movie. The details are realistic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-28-30-324Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-28-30-324Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T09-21-46-710Z",
       "prompt": "Create a vertical frame-size 2160x3840 pixels (4K quality), divided into three equally sized horizontal images placed together.\nThe main character must keep the exact uploaded reference face (Face-Lock 100%) and hairstyle (Hair-Lock 100%). No changes or alterations to facial structure.\nThe outfit is a loose winter puffer set with wide-leg pants and a black scarf. The atmosphere is snowy, with a cold color palette that conveys solitude and melancholy.\nImage 1 (portrait):\nThe character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. Expression: subtle sadness, nostalgic aura. Background: snowy whiteness, softly blurred.\nImage 2 (full body):\nThe character stands alone in a vast snowy field, holding the umbrella. Camera angle from above, as if the character raises one hand to catch falling snowflakes. In the distance, leafless trees enhance the feeling of isolation.\nImage 3 (close-up):\nA zoomed-in shot of the character’s eyes. Keep the exact uploaded face (Face-Lock 100%), but the gaze conveys sorrow and longing. Snowflakes softly fall around.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-21-46-710Z.md",
