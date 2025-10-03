@@ -743,6 +743,13 @@
   ],
   "Girl-And-Flower": [
     {
+      "timestamp": "2025-10-03T12-09-29-281Z",
+      "prompt": "A hyper-realistic 8K cinematic portrait of the same woman (keep the attached face 100% identical, no modifications).\nShe is wearing a short white tutu dress with a vibrant red blazer. Her hair flows naturally with soft waves, slightly lifted by the wind. She carries a red Chanel shoulder bag and holds a large bouquet of red roses.\nPose: standing gracefully, smiling gently while gazing at the bouquet.\nScene: in front of a luxurious flower shop fully decorated with red roses, tulips, and carnations, with a sign above that reads “You Deserve Flowers Today.”\nLighting: warm natural daylight, deep red tones, cinematic editorial photography.\nMood: romantic, feminine, passionate, luxury fashion magazine cover aesthetic.\nUltra-detailed, sharp focus, natural skin texture, breathtaking realism.\n\nNegative Prompt: distorted face, altered face, blurry, painting/cartoon style, low resolution, extra fingers, oversaturated colors, text errors.",
+      "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-09-29-281Z.md",
+      "imagePath": "ai-generations/Girl-And-Flower/image-2025-10-03T12-09-29-281Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T12-07-23-153Z",
       "prompt": "A hyper-realistic 8K cinematic portrait of the same woman (keep the attached face 100% identical, no modifications).\nShe is wearing a short white tutu dress paired with a pastel lavender blazer and a delicate embroidered top. Her hair is styled in a loose bun with soft strands framing her face. She carries a pastel lavender Chanel shoulder bag and holds a bouquet of purple tulips.\nPose: standing gracefully, holding the bouquet close, looking softly ahead.\nScene: in front of a luxurious flower shop, fully decorated with pastel purple hydrangeas and roses, with a sign above that reads “You Deserve Flowers Today.”\nLighting: soft pastel tones, natural daylight, cinematic editorial photography.\nMood: romantic, feminine, dreamy, luxury magazine cover style.\nUltra-detailed, sharp focus, natural skin texture, breathtaking realism.\n\nNegative Prompt: distorted face, altered face, blurry, painting style, cartoon, extra fingers, oversaturated colors, messy background, text errors.",
       "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-07-23-153Z.md",
