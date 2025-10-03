@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-52-13-474Z",
+      "prompt": "Use the uploaded reference photo as the exact basis for the face — preserving all facial proportions and features without alteration. Create a moody, mysterious portrait with a 9:16 aspect ratio. The subject stands against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The overall tone is cinematic, atmospheric, and expressive, emphasizing depth, mystery, and elegance.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-52-13-474Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-52-13-474Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-50-25-938Z",
       "prompt": "Create a sharp, ultra high-resolution large format portrait (9:16 aspect ratio). Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions — eyes, nose, mouth, and overall structure — perfectly preserved without alteration. Change only the style according to the following description:\n\nA surreal, cinematic top-down angle photo that focuses on the character’s face and bare shoulders. She has flawless porcelain-white skin with a natural glow, subtle blush, and long, thin lashes framing her serene eyes. Her black hair is neatly tied back, with a few strands falling gracefully around her face. Soft sunlight filters down, casting artistic vertical or gridded shadows on her face and shoulders, highlighting her delicate features and creating a dreamy, graceful atmosphere. Her bare shoulders emphasize elegance, purity, and innocence. Rendered in cinematic style — gentle, expressive, photorealistic, masterpiece quality",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-50-25-938Z.md",
