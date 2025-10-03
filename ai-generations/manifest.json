@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-48-33-540Z",
+      "prompt": "Use the uploaded reference image as the basis for the face and preserve the exact facial structure, proportions, and natural features without alteration. Generate a photorealistic editorial beauty portrait of a beautiful young woman with porcelain skin and large, doll-like eyes, posing elegantly against a plain gray studio background. She has sleek black hair neatly tied back, with a few strands framing her face. She wears a simple strapless black dress that emphasizes her graceful shoulders and neckline. She gently rests her face on one hand, giving a refined and ethereal expression. Capture the scene in soft studio lighting, sharp focus, highly detailed, flawless skin, elegant and minimal aesthetic, masterpiece quality.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-48-33-540Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-48-33-540Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-46-31-482Z",
       "prompt": "Generate a cinematic photo of the uploaded reference person, keeping the exact real face, hair, and natural proportions from the uploaded image without any alteration. The person is leaning their back out of a car window on a dark, dreamy, windy vintage night. The atmosphere is slightly blurry with a nostalgic aesthetic. She is wearing an off-shoulder black knitted top. Her hairstyle is short, wavy hair with bangs, fluttering in the wind",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-46-31-482Z.md",
