@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-50-25-938Z",
+      "prompt": "Create a sharp, ultra high-resolution large format portrait (9:16 aspect ratio). Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions — eyes, nose, mouth, and overall structure — perfectly preserved without alteration. Change only the style according to the following description:\n\nA surreal, cinematic top-down angle photo that focuses on the character’s face and bare shoulders. She has flawless porcelain-white skin with a natural glow, subtle blush, and long, thin lashes framing her serene eyes. Her black hair is neatly tied back, with a few strands falling gracefully around her face. Soft sunlight filters down, casting artistic vertical or gridded shadows on her face and shoulders, highlighting her delicate features and creating a dreamy, graceful atmosphere. Her bare shoulders emphasize elegance, purity, and innocence. Rendered in cinematic style — gentle, expressive, photorealistic, masterpiece quality",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-50-25-938Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-50-25-938Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-48-33-540Z",
       "prompt": "Use the uploaded reference image as the basis for the face and preserve the exact facial structure, proportions, and natural features without alteration. Generate a photorealistic editorial beauty portrait of a beautiful young woman with porcelain skin and large, doll-like eyes, posing elegantly against a plain gray studio background. She has sleek black hair neatly tied back, with a few strands framing her face. She wears a simple strapless black dress that emphasizes her graceful shoulders and neckline. She gently rests her face on one hand, giving a refined and ethereal expression. Capture the scene in soft studio lighting, sharp focus, highly detailed, flawless skin, elegant and minimal aesthetic, masterpiece quality.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-48-33-540Z.md",
