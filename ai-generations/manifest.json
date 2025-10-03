@@ -922,6 +922,13 @@
   ],
   "Boy-HongKong": [
     {
+      "timestamp": "2025-10-03T15-40-29-587Z",
+      "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. Dynamic medium shot, capturing the subject in mid-turn, looking towards the viewer with a surprised yet intrigued expression. The subject wears a loose white shirt with the top button casually undone. Skin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers. Tungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
+      "markdownPath": "ai-generations/Boy-HongKong/prompt-2025-10-03T15-40-29-587Z.md",
+      "imagePath": "ai-generations/Boy-HongKong/image-2025-10-03T15-40-29-587Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+    },
+    {
       "timestamp": "2025-10-03T15-39-48-411Z",
       "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. From a medium distance, the subject is seen half-body, reaching up to adjust a loose corner of a newspaper on the wall. The subject wears a loose white shirt with the top button casually undone. Skin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers. Tungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
       "markdownPath": "ai-generations/Boy-HongKong/prompt-2025-10-03T15-39-48-411Z.md",
