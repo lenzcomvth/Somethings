@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T18-36-15-138Z",
+      "prompt": "A hyper-realistic medium close-up portrait of the uploaded person (preserve identity, facial features, and likeness exactly, do not alter the face). Framed from the waist up at a slightly high angle with a subtle Dutch tilt, the subject sits at a rustic dark-stained wooden bar, torso angled slightly away with the left shoulder closer to the camera, head turned toward the lens with a gentle, friendly smile. The right forearm rests casually on the wooden surface while the left hand is raised, fingers lightly touching the hair near the face, gaze directed straight into the camera. Lighting is soft, diffused artificial indoor light from the front-left, creating subtle shadows that define contours, giving a warm peach-orange skin tone with healthy highlights and cool undertones in the shadows. Style: vintage film aesthetic with fine grain, slightly muted colors, shallow depth of field, soft background blur, and light vignette.Outfit: fitted dusty blue/teal spaghetti strap tank top with dark blue denim jeans (metal rivets/buttons visible). Accessories: thin black elastic bracelet on left wrist, vibrant red nail polish. Background: dusty blue/teal textured wall with two framed abstract floral artworks in muted reds, browns, creams, and blues. Table details: clear glass with liquid, a small potted succulent, and wrapped chopsticks placed diagonally. Mood: casual, warm, inviting, subtly nostalgic, cinematic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T18-36-15-138Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T18-36-15-138Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T12-00-30-684Z",
       "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. Use the attached image as a facial reference. Half-body composition. The subject leans against a wall covered with old newspapers, wearing a loose white shirt with the top button casually undone.\nSkin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers.\nTungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T12-00-30-684Z.md",
