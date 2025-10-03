@@ -1,262 +1,115 @@
 {
   "Normal": [
     {
-      "timestamp": "2025-10-03T18-36-15-138Z",
-      "prompt": "A hyper-realistic medium close-up portrait of the uploaded person (preserve identity, facial features, and likeness exactly, do not alter the face). Framed from the waist up at a slightly high angle with a subtle Dutch tilt, the subject sits at a rustic dark-stained wooden bar, torso angled slightly away with the left shoulder closer to the camera, head turned toward the lens with a gentle, friendly smile. The right forearm rests casually on the wooden surface while the left hand is raised, fingers lightly touching the hair near the face, gaze directed straight into the camera. Lighting is soft, diffused artificial indoor light from the front-left, creating subtle shadows that define contours, giving a warm peach-orange skin tone with healthy highlights and cool undertones in the shadows. Style: vintage film aesthetic with fine grain, slightly muted colors, shallow depth of field, soft background blur, and light vignette.Outfit: fitted dusty blue/teal spaghetti strap tank top with dark blue denim jeans (metal rivets/buttons visible). Accessories: thin black elastic bracelet on left wrist, vibrant red nail polish. Background: dusty blue/teal textured wall with two framed abstract floral artworks in muted reds, browns, creams, and blues. Table details: clear glass with liquid, a small potted succulent, and wrapped chopsticks placed diagonally. Mood: casual, warm, inviting, subtly nostalgic, cinematic.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T18-36-15-138Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T18-36-15-138Z.png",
+      "timestamp": "2025-10-03T00-29-20-973Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo \\u2014 100% locked facial structure. A beautiful Asian woman in her early 20s, with a serene and elegant expression, soft full lips, delicate nose, and long dark wavy hair flowing over her left shoulder. She has subtle eye makeup and glowing, dewy skin. She wears a long, elegant, light brown sleeveless gown with a sweetheart neckline, adorned with delicate lace and subtle sequins, creating a shimmering, textured effect. She has a thin gold necklace with a small pendant and a simple silver ring on her right hand. N/A. She is gracefully seated on a wide white window sill of an old, rustic building with stone and brick walls below. The open white window frames her, revealing a warmly lit, slightly blurred interior with greenery and a terracotta pot in the background. Outside, below the sill, green foliage and a small purple flower are visible. Her body is slightly turned, and her head is tilted down. Soft, warm, golden hour artificial light from inside, casting a gentle glow on her skin and dress, with soft diffused fill light emphasizing her features. Elegant, romantic, high fashion portrait, dreamlike atmosphere, shallow depth of field, natural aesthetic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-29-20-973Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-29-20-973Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T12-00-30-684Z",
-      "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. Use the attached image as a facial reference. Half-body composition. The subject leans against a wall covered with old newspapers, wearing a loose white shirt with the top button casually undone.\nSkin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers.\nTungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T12-00-30-684Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T12-00-30-684Z.png",
+      "timestamp": "2025-10-03T00-33-04-380Z",
+      "prompt": "Một cô gái Việt Nam trẻ trung, hiện đại, đứng trước ngôi chùa truyền thống vào mùa đông tuyết trắng. Cô mặc áo khoác len đỏ dài phủ ngoài váy len màu kem, kết hợp quần legging đen và đôi bốt cổ ngắn lót lông ấm áp. Chiếc khăn len đỏ và tai chụp lông cùng tông làm nổi bật vẻ duyên dáng trong trang phục mùa đông. Tuyết rơi nhẹ nhàng quanh khuôn viên chùa, khung cảnh cổng gỗ đỏ và kiến trúc chùa truyền thống tạo nên một bức chân dung thời trang giàu bản sắc văn hoá và không khí mùa lễ hội. Ảnh siêu chi tiết, phong cách nhiếp ảnh mùa đông điện ảnh, gam màu ấm và lạnh tương phản.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-33-04-380Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-33-04-380Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T11-58-19-996Z",
-      "prompt": "A stunning Asian woman with a graceful and refined face (keep face vector consistency). She is dressed in a glamorous black off-shoulder velvet gown, the fabric flowing smoothly with every curve. A pearl-diamond choker with a single large pearl drop enhances her neckline, while pearl earrings add to the elegance.\nHer makeup is natural yet sophisticated: glossy lips, well-defined eyes, and a matte glow. She wears a wide-brimmed black fashion hat, giving her a mysterious and captivating aura. Her pose is elegant, poised, and statuesque, like a professional supermodel captured in a luxury fashion campaign.\nBackground: Parisian-inspired high-end interior, soft daylight entering through tall arched windows, adding refinement and charm.\nStyle: ultra realistic, 8K, cinematic light, luxury fine-art portrait, fashion magazine cover, face consistency.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T11-58-19-996Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T11-58-19-996Z.png",
+      "timestamp": "2025-10-03T00-34-28-772Z",
+      "prompt": "Một cô gái Việt Nam trẻ trung, hiện đại, đứng trước ngôi chùa truyền thống vào mùa đông tuyết trắng. Cô mặc áo khoác len đỏ dài phủ ngoài váy len màu kem, kết hợp quần legging đen và đôi bốt cổ ngắn lót lông ấm áp. Chiếc khăn len đỏ và tai chụp lông cùng tông làm nổi bật vẻ duyên dáng trong trang phục mùa đông. Tuyết rơi nhẹ nhàng quanh khuôn viên chùa, khung cảnh cổng gỗ đỏ và kiến trúc chùa truyền thống tạo nên một bức chân dung thời trang giàu bản sắc văn hoá và không khí mùa lễ hội. Ảnh siêu chi tiết, phong cách nhiếp ảnh mùa đông điện ảnh, gam màu ấm và lạnh tương phản.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-34-28-772Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-34-28-772Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-45-27-688Z",
-      "prompt": "Ultra photorealistic fashion portrait of the same woman from the reference photo, identity locked (do not alter facial features). A young woman sitting casually inside a cozy modern café with wooden interior and shelves filled with drinks and decorations in the background. She is sitting sideways on a cushioned bench, one leg folded onto the seat and the other relaxed, leaning her left arm on the wooden table beside her. She has long, wavy, dark brown hair parted to the side, flowing naturally over her shoulders. Her face is softly lit, showing smooth skin, gentle makeup, and a warm, cheerful smile with a calm and relaxed expression.\nShe is wearing a fitted beige spaghetti strap tank top, paired with high-waisted loose brown trousers and a white belt with black square patterns. On her wrist, she wears a gold bracelet, and she also has small, elegant earrings. She has white sneakers on her feet, slightly visible under the loose trousers. On the table next to her, there is a transparent plastic cup with iced chocolate drink and a red straw, along with a brown handbag and a bright red tissue box. The lighting is natural and soft, highlighting her skin tone and creating a warm, welcoming café atmosphere. The camera angle is eye-level, capturing her upper body and surroundings in a natural, candid style. The background is simple with soft neutral tones, resembling a lifestyle magazine shoot. Ultra realistic, photorealistic details, 9:16 aspect ratio, 8K resolution, highly detailed, masterpiece",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-45-27-688Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-45-27-688Z.png",
+      "timestamp": "2025-10-03T00-36-21-144Z",
+      "prompt": "A hyper-realistic black and white high-fashion editorial portrait of the user (KEEP FACE FEATURES ORIGINAL, hairstyle, and body proportions exactly).\nHe is wearing an oversized white dress shirt, unbuttoned halfway to reveal his chest, paired with wide-leg black trousers in a relaxed fit. The fabric flows elegantly, giving a sensual yet luxurious vibe. His pose is confident and slightly provocative: leaning back against a minimalist wall, one hand casually in his pocket while the other grazes his collar.\nPut the title of the magazine VOGUE at the top of the picture together with a caption of number 1 Sexiest men alive. Provide five different shots and postures for the photo, maintaining the VOGUE cover style:\nThe lighting is dramatic and moody, with high contrast — deep shadows carve out his jawline and cheekbones, while soft highlights trace the folds of the oversized shirt. The atmosphere is sexy, mysterious, and fashion-forward, like a cover photo for a luxury magazine campaign.\nShot in 8K Leica-style monochrome, with sharp textures, cinematic depth, subtle grain, and a timeless noir aesthetic. The mood: seductive, bold, and effortlessly stylish.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-36-21-144Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-36-21-144Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-43-49-517Z",
-      "prompt": "Ultra photorealistic fashion portrait of the same woman from the reference photo, identity locked (do not alter facial features). A young woman sitting by the window in a modern café, posing with a slightly surprised and playful expression, her index finger gently touching her lips. She has long, wavy, dark brown hair styled naturally, flowing over her shoulders. Her face is delicate with fair skin, soft makeup, and a light pink blush on her cheeks, giving her a fresh and youthful look. She wears a sleeveless, fitted white blouse with lace details and a tied front, paired with short dark green high-waisted shorts. The camera angle is at eye level, capturing her in a side-profile pose, slightly turning her head towards the camera, emphasizing her expressive eyes. Natural daylight streams in through the large glass window beside her, casting soft, even lighting on her face and body. On the wooden table in front of her, there is a clear glass of iced green drink with a straw, a small plate with a pastry, and a bouquet of fresh white flowers wrapped in transparent plastic with a purple ribbon. Behind her, the café interior is modern and minimalistic with grey tiled flooring, stylish hanging lamps, black chairs, and a clean, bright atmosphere. Outside the window, a small alley with old buildings and air conditioning units is visible, adding contrast to the cozy indoor setting. Photo-realistic, high detail, natural light, candid and intimate atmosphere. The background is simple with soft neutral tones, resembling a lifestyle magazine shoot. Ultra realistic, photorealistic details, 9:16 aspect ratio, 8K resolution, highly detailed, masterpiece. ",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-43-49-517Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-43-49-517Z.png",
+      "timestamp": "2025-10-03T00-38-38-863Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman in her early twenties, with delicate features, clear smooth skin, and long, wavy dark brown hair styled loose over her shoulders. She has natural, soft makeup including defined brows, subtle eyeliner, a hint of pink blush, and nude pink lips. Her eyes are dark and expressive. She is wearing an oversized, loose-fitting crisp white collared shirt, deeply unbuttoned at the front, covering her upper thighs. The shirt has long sleeves. Seated elegantly in a classic style armchair with cream-colored upholstered seat and back, and a dark polished wooden frame with carved details. She is posed in a medium shot, seated, with her legs gracefully crossed and her hands gently resting on her knee. She makes soft, direct eye contact with the viewer, exhibiting a serene and gentle expression. The background is a soft, warm-toned blurred interior, suggesting a cozy room with a hint of a light-colored curtain on the left side, providing a subtle bokeh effect. Soft, natural, warm daylight illuminating her from the left side, creating gentle highlights and delicate shadows, enhancing her skin texture and hair. Elegant, intimate, high-fashion portraiture, evoking a sense of calm and allure, with a focus on natural beauty and sophisticated simplicity.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-38-38-863Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-38-38-863Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-42-41-980Z",
-      "prompt": "Create a photo-realistic image of this person in the above image wearing a traditional Indonesian kebaya outfit with a modern twist ,\nin a colorful flower garden, holding a butterfly gently on her hand. \nThe scene is bright and dreamy, with flowers of orange, yellow, pink, and purple in the background. \nThe focus is on the woman face and the butterfly, capturing a peaceful and magical atmosphere. \nPhoto-realistic bright and clean professional lighting",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-42-41-980Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-42-41-980Z.png",
+      "timestamp": "2025-10-03T00-43-18-016Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16, high detail, natural skin texture. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful East Asian woman, in her early 20s, with a gentle, neutral expression and a direct gaze. She has a symmetrical face, high cheekbones, a defined jawline, and full lips. Her long, straight, black hair, appearing slightly wet or shiny, is parted slightly to the side, with some strands falling over her shoulders and intricate hair details visible. She wears subtle brown winged eyeliner, minimal eyeshadow, neatly shaped eyebrows, and matte terracotta red lipstick. She is wearing a fitted, short-sleeved top in a dusty rose or terracotta red color, featuring a subtle vertical ribbed texture. None. The woman is positioned in a corner against light beige or cream-colored tiled walls with subtle marble-like patterns and visible grout lines. The background is slightly soft but still detailed enough to show the textures of the tiles. The composition is a close-up portrait, focusing on her face and upper body. Strong, natural direct sunlight from an overhead or side source creates bright highlights on her forehead and hair, forming a distinct elongated glow on her head. The lighting is warm, casting subtle shadows that define her features and hair strands. High-fashion editorial portrait, natural light photography, clean aesthetic, vibrant colors, stunning detail.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-43-18-016Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-43-18-016Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-41-27-288Z",
-      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman in her early 20s, with fair skin, delicate features, large dark eyes with long eyelashes and subtle eyeliner, natural eyebrows, a small nose, and full red lips. Her long, wavy, lustrous black hair flows over her shoulders, with one hand elegantly twirling a strand of hair. She has dark red nail polish. She wears a sleek black strapless mini-dress, an open glossy black patent leather trench coat, and sheer black thigh-high stockings. She accessorizes with a delicate silver chain necklace and small stud earrings. She holds a vintage-style black Canon film camera (or mirrorless) with a prime lens in both hands, resting it on her lap/thighs. She is seated elegantly on a plush black leather sofa. The background is a soft, minimalistic, light pale grey gradient with a subtle bokeh effect. Medium shot, capturing her from the waist up. Soft, diffused studio lighting from the front and slightly above, creating subtle highlights on the patent leather coat and illuminating her face gently. Neutral color temperature. Fashion photography, editorial portrait, alluring, confident, sophisticated, modern, high-quality, elegant aesthetic.\n\n",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-41-27-288Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-41-27-288Z.png",
+      "timestamp": "2025-10-03T00-46-20-496Z",
+      "prompt": "Ultra-photorealistic cinematic digital painting, 8K sharpness, intricate detail, epic fantasy art, dark fantasy style, highly detailed. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman, ethereal features, fair skin, light makeup, full lips, long dark brown hair styled in a loose low ponytail with wispy strands framing her face, one delicate long chain earring. Her eyes glow intensely red, adding a mystical aura. Wearing a dark teal traditional kimono-style top with wide sleeves, a visible white undergarment, and a thick braided rope sash across her chest. A small red ribbon detail adorns her left arm. She holds a large, luminous red crystal gemstone in her open left palm, suspended by a delicate chain, radiating a powerful crimson glow. Head and shoulders portrait, centered, with her head gently tilted and a contemplative expression. The background is a dark, mysterious void with two large, subtly blurred, glowing red eyes mirroring hers in the upper corners, enhancing the supernatural atmosphere. Dramatic chiaroscuro lighting, with the primary light source originating from the glowing red crystal, casting a strong, warm red luminosity upwards onto her face and attire. Subtle rim lighting accents her hair and shoulders against the dark backdrop. Mystical, enchanting, magical, dark fantasy, cinematic, glowing effects, soft ambient lighting.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-46-20-496Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-46-20-496Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-38-47-131Z",
-      "prompt": "Vertical portrait, portrait-ratio frame, cropped from waist-up. Subject is a young man, face looking straight into the lens with a serious, confident expression, lips closed. Body slightly turned 3/4 but head and eyes straight ahead. Wearing a black tailored suit, white shirt with a standard collar, black tie with a neat knot (four-in-hand or equivalent). White pocket square folded straight (presidential fold) in the left breast pocket. Arms crossed: left hand placed across the right arm, left fingers straight and clearly visible; right hand slightly hidden under the left hand. Silver metal wrist watch on the left wrist, linked eye chain, clear round face. Black hair, neatly combed, slightly puffed at the top, modern style. Light skin, neutral tone. Rich crimson background, soft, diffused, even light highlighting the face and the texture of the suit fabric, slight realistic shine. 85mm equivalent lens angle, low aperture for background blur, photorealistic, ultra-realistic, high-detail, 8k, RAW",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-38-47-131Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-38-47-131Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
-    },
-    {
-      "timestamp": "2025-10-03T09-33-38-642Z",
-      "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-33-38-642Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-33-38-642Z.png",
+      "timestamp": "2025-10-03T00-53-46-430Z",
+      "prompt": "A hyper-realistic black and white high-fashion editorial portrait of the user (KEEP FACE FEATURES ORIGINAL, hairstyle, and body proportions exactly). He is wearing an oversized white dress shirt, unbuttoned halfway to reveal his chest, paired with wide-leg black trousers in a relaxed fit. The fabric flows elegantly, giving a sensual yet luxurious vibe. His pose is confident and slightly provocative: leaning back against a minimalist wall, one hand casually in his pocket while the other grazes his collar. Put the title of the magazine VOGUE at the top of the picture together with a caption of number 1 Sexiest men alive. Provide five different shots and postures for the photo, maintaining the VOGUE cover style: The lighting is dramatic and moody, with high contrast — deep shadows carve out his jawline and cheekbones, while soft highlights trace the folds of the oversized shirt. The atmosphere is sexy, mysterious, and fashion-forward, like a cover photo for a luxury magazine campaign. Shot in 8K Leica-style monochrome, with sharp textures, cinematic depth, subtle grain, and a timeless noir aesthetic. The mood: seductive, bold, and effortlessly stylish.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-53-46-430Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-53-46-430Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-31-55-333Z",
-      "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-31-55-333Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-31-55-333Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
-    },
-    {
-      "timestamp": "2025-10-03T09-28-30-324Z",
-      "prompt": "Create an image of me without changing my face. I'm a young woman about to take a shower. Her hair is tied up in a big red hairpin. She sits by a large window with bright morning light shining in. She's loosely wrapped in a white towel. She sits with her legs up in a relaxed pose. The atmosphere is simple and modern, giving a feeling of warmth and relaxation. The natural light emphasizes the figure clearly. The shooting style is like a movie. The details are realistic.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-28-30-324Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-28-30-324Z.png",
+      "timestamp": "2025-10-03T00-58-32-499Z",
+      "prompt": "A photorealistic cinematic image of me in the photo I uploaded. Keep my real face exactly as in the uploaded photo; do not alter my facial features. I am dressed in a striking, elegant red áo dài with golden embroidery along the collar, symbolizing refinement and tradition. The flowing silk fabric drapes gracefully, emphasizing both modern elegance and timeless cultural beauty. In my hands, I hold an ornate red hand fan with delicate golden details, positioned gracefully in front of me as I sit poised on an intricately carved wooden bench. My expression is calm, confident, and regal, framed by long, wavy black hair cascading over my shoulders.\nThe background is set in a grand traditional courtyard, evoking the splendor of imperial architecture. Rows of glowing red lanterns hang overhead, creating a mesmerizing canopy of warm light that illuminates the scene with a festive yet majestic aura. The lanterns glow vividly against the dark night sky, where a radiant full moon shines at the center, enhancing the symmetry and grandeur of the composition. The carved wooden details of the courtyard add richness and depth, symbolizing cultural heritage and elegance.\nLighting is cinematic, high-contrast, and ultra-detailed. The red lanterns cast a soft golden-red glow across my áo dài, fan, and face, while the moonlight provides a silvery backlight, creating a balance of warmth and cool tones. Depth of field ensures I remain in sharp, vivid focus, while the lanterns and architecture gently blur in the distance, enhancing a sense of immersion and timelessness.\nDetails: (Cinematic, High-Contrast, ultra-detailed, 8K, depth of field, cinematic lighting, glowing red lanterns, imperial courtyard, carved wooden bench, áo dài elegance, red silk, golden embroidery, full moon atmosphere, cultural heritage, regal presence).",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T00-58-32-499Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T00-58-32-499Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T09-21-46-710Z",
-      "prompt": "Create a vertical frame-size 2160x3840 pixels (4K quality), divided into three equally sized horizontal images placed together.\nThe main character must keep the exact uploaded reference face (Face-Lock 100%) and hairstyle (Hair-Lock 100%). No changes or alterations to facial structure.\nThe outfit is a loose winter puffer set with wide-leg pants and a black scarf. The atmosphere is snowy, with a cold color palette that conveys solitude and melancholy.\nImage 1 (portrait):\nThe character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. Expression: subtle sadness, nostalgic aura. Background: snowy whiteness, softly blurred.\nImage 2 (full body):\nThe character stands alone in a vast snowy field, holding the umbrella. Camera angle from above, as if the character raises one hand to catch falling snowflakes. In the distance, leafless trees enhance the feeling of isolation.\nImage 3 (close-up):\nA zoomed-in shot of the character’s eyes. Keep the exact uploaded face (Face-Lock 100%), but the gaze conveys sorrow and longing. Snowflakes softly fall around.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-21-46-710Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T09-21-46-710Z.png",
+      "timestamp": "2025-10-03T01-12-16-121Z",
+      "prompt": "Chân dung điện ảnh siêu thực, độ sắc nét 8K, tỷ lệ dọc 9:16. Giữ nguyên chính xác nhận diện khuôn mặt từ ảnh tham chiếu đã tải lên — cấu trúc khuôn mặt được khóa 100%. Một người phụ nữ trẻ châu Á xinh đẹp ở độ tuổi đầu 20, đường nét khuôn mặt thanh tú, làn da trắng sáng, lông mày được định hình rõ nét, kẻ mắt cánh nhẹ nhàng tinh tế và đôi môi đỏ đậm. Cô ấy có mái tóc đen dài, bồng bềnh gợn sóng buông xõa qua vai. Mặc một chiếc váy hai dây màu đỏ nhung ôm sát cơ thể. Cô ấy đeo đôi bông tai nhỏ màu vàng và một chiếc đồng hồ đeo tay analog cổ điển với dây đeo màu vàng và bạc ở cổ tay trái. Đang cầm một ly bia vàng óng với lớp bọt dày trong tay phải. Cô ấy đang duyên dáng tựa vào quầy bar bằng đá cẩm thạch tối màu, bóng loáng trong một quán bar sang trọng, ánh sáng mờ ảo. Phía sau là những chai rượu mờ ảo trên kệ, tạo hiệu ứng bokeh mềm mại. Bố cục là một cảnh trung hấp dẫn, chụp từ eo trở lên, cô ấy nhìn thẳng vào máy ảnh với ánh mắt quyến rũ. Ánh sáng nhân tạo mềm mại, ấm áp từ phía trước và phía trên, làm nổi bật các đường nét trên khuôn mặt và tạo bóng mờ tinh tế, tăng thêm không khí thân mật. Phong cách tinh tế, thanh lịch, thân mật, quyến rũ, chân dung thời trang, nhiếp ảnh glamour, điện ảnh.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T01-12-16-121Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T01-12-16-121Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T08-38-36-450Z",
-      "prompt": "(Preserve the facial expression and face from the uploaded photo.)\n\nA fine art bridal portrait titled “Fairy Forest Bride.”\n\nFraming: Cinematic close-up portrait, focusing on the bride’s face, upper body, and delicate details of her attire and accessories.\n\nBackground: A mystical forest shrouded in soft mist. Shafts of golden sunlight filter through leaves behind her, blurred into a dreamy bokeh effect, creating a magical and ethereal backdrop.\n\nOutfit & Styling: The bride wears a delicate sheer lace gown visible at the neckline and shoulders. Her head is crowned with a wreath of intertwined green leaves and sparkling butterflies, enhancing her fairy-like elegance.\n\nPose: She gazes softly at the camera, barefoot serenity implied, her expression tender and enchanting. Her hand gently touches the wreath or her gown’s lace strap, adding intimacy to the portrait.\n\nAtmosphere: Dreamy, poetic, and ethereal. Mist and warm light glow around her silhouette, suggesting she is a mystical forest fairy bride.\n\nStyle: Ultra realistic, cinematic lighting, high detail, fine art editorial photography with fantasy and fairytale aesthetics.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T08-38-36-450Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T08-38-36-450Z.png",
+      "timestamp": "2025-10-03T01-19-03-915Z",
+      "prompt": "preserve face / identity locked — preserve BOTH faces exactly from the uploaded photo, do NOT alter facial structure, proportions, expression, hairline, brows, or lip shape. NO UI overlays/watermarks.\n\nUltra-photorealistic editorial couple portrait — 1:1 recreation of the provided reference. Vertical aspect ratio matching original (approx 9:19). Frame: full-body-to-mid-thigh with both heads centered as in reference.\n\nCamera: focal length ≈ 50mm (FF), aperture f/3.2–f/4, distance ~1.4–2.0m, camera slightly tilted downward (~5–12°) relative to subjects (to match original framing).\n\nExact subject poses (copy 1:1):\n- MALE (behind, slightly higher): seated/raised; torso leaning forward. LEFT arm wraps around female's lower jaw/neck area — thumb resting near female's left cheekbone, fingers curling under her chin; visible silver chain-bracelet on his wrist. Right arm relaxed. Head yaw slightly turned (~+10° to his right), chin mildly raised. Gaze: slightly off-center (not straight at camera), detached.\n- FEMALE (foreground, lower): seated, leaning back into male; head tilted back (chin slightly lifted) and rotated almost straight to camera. Eyes: half-open (sleepy/sultry), gaze directed at camera with a slight upward vector (~5° up). Mouth: lips slightly parted (~2–4 mm), strong cupid's bow, lower lip fuller. Expression: sultry / detached, not smiling.\n\nFace & facial-detail constraints (MANDATORY):\n- Keep EXACT proportions of both faces: eye spacing, nose width, mouth shape, jawline angles. Do not thin/widen lips or change eyebrow shape.\n- Keep female eye make-up: dark upper eyeliner, smoky under-eye smudge, heavy lashes. Keep lip color: warm brick/terracotta matte. Preserve skin texture (pores), subtle highlights on cheekbones and nose.\n\nHair (exact):\n- Male: textured, slightly wet-look fringe; strands fall over forehead.\n- Female: BLACK, very full, dense ringlet curls / textured waves, center-to-slightly-offset part, many tendrils falling across forehead and cheeks. High volume—do not replace with straight hair.\n\nClothing & props (exact):\n- Male: light-blue oversized denim jacket (visible seam detail), black crew-neck shirt, thin silver chain necklace, headphones around neck visible.\n- Female: black slip/tank top (thin straps), matte fabric; bare legs visible in lower frame.\n- Bracelet: male wrist chain visible where hand cups female jaw.\n\nLighting & color (match reference):\n- Key: large softbox camera-left/front (~30–45°) slightly above head creating soft directional shadows on right side of faces.\n- Fill: light reflector front-right to reduce but not remove shadows (key:fill ≈ 3:1).\n- Rim: subtle back-right hair light to separate curls.\n- Grade: cinematic — warm skin highlights, cool/teal shadows; slightly desaturated midtones, lift blacks a bit; subtle vignette and light film grain.\n- Keep visible shadow cast on background consistent with short subject-to-wall distance.\n\nPost-processing:\n- Retouch minimal: remove major blemishes but preserve pores, sharpen eyes & hair, enhance denim texture. Keep natural texture of lips and eyelashes. Do NOT alter facial geometry.\n\nOutput: photorealistic, editorial magazine quality, high resolution (4k+). Strict: preserve identity of both faces EXACTLY from upload.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T01-19-03-915Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T01-19-03-915Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T07-10-21-489Z",
-      "prompt": "Giữ nguyên vecter khuôn mặt của người mẫu cho tôi . Chân dung studio 8K siêu sắc nét của một người phụ nữ Đông Á trẻ trung xinh đẹp, có thể là tuổi thiếu niên hoặc đầu đôi mươi, với mái tóc dài, đen, sóng. Lông mày mỏng, nhạt.\nTạo dáng/Biểu cảm: Cô ấy trông hơi ra khỏi ống kính với biểu cảm thanh thản, có thể là đắt tiền hoặc hơi u sầu. Đầu cô ấy hơi nghiêng. Đôi vai của cô ấy trần trụi, gợi ý vẻ ngoài không áo hoặc trễ vai, thu hút sự chú ý đến khuôn mặt và mái tóc của cô ấy.\nTóc: dài, đen, và chảy. Tóc được tạo kiểu một cách tự nhiên, hơi bị gió hoặc thả, với các sợi riêng lẻ bắt ánh sáng và một số xuất hiện bồng bềnh quanh khuôn mặt và đầu của cô ấy.\nTrang điểm: Tự nhiên và tinh tế, làm nổi bật nét tự nhiên của nàng.\nNền: Rất tối, gần như đen, và hoàn toàn mất tập trung, cách ly đối tượng và nhấn mạnh ánh sáng kịch tính.\nÁnh sáng: Tông màu xanh tạo cảm giác cô đơn lạnh. Ánh sáng làm nổi bật khuôn mặt cô ấy. Kịch tính và nghệ thuật. Nguồn ánh sáng chính đến từ trên cao và hơi phía sau cô bé, tạo hiệu ứng hào quang trên mái tóc và điểm nhấn mạnh mẽ trên trán, cầu mũi và gò má. Khuôn mặt của cô ấy cũng sáng nhẹ nhàng, nhưng ấn tượng tổng thể là một sự thiết lập ánh sáng dịu dàng, đầy ắp. Ánh sáng khiến mái tóc của cô ấy trông như nó có một ánh sáng mềm mại và một vài sợi tóc dường như đang bồng bềnh.\nAmbiance/Tâm trạng: Tinh tế, mơ mộng, bí ẩn, tinh tế và thanh lịch.\nSáng tác: Chân dung cận cảnh, tập trung vào khuôn mặt, tóc và vai. Khung khung chặt chẽ, nhấn mạnh sự gần gũi.\nPhong cách: chân dung người đẹp mang chút tưởng tượng hoặc chủ nghĩa siêu thực.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-10-21-489Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-10-21-489Z.png",
+      "timestamp": "2025-10-03T01-29-17-031Z",
+      "prompt": "A realistic passport-style ID photo of a Vietnamese woman, facing the camera directly with a neutral expression and a soft, natural smile.\nKeep her face 100% identical to the uploaded photo — preserve her exact facial features and authentic natural expression without any alteration.\nStudio-style setting with a plain light-blue background, evenly lit with soft professional lighting that eliminates harsh shadows on the face.\nOutfit: a premium deep-blue tailored blazer jacket layered over a crisp high-quality white collared shirt.\nHigh-resolution, ultra-detailed, professional ID-photo style with realistic skin texture, natural proportions, and subtle true-to-life color tones.\n3:4 ratio, professional ID portrait framing.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T01-29-17-031Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T01-29-17-031Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T07-08-53-973Z",
-      "prompt": "Keep the real face exactly as in the uploaded photo, without altering any facial features. Create a high-fashion editorial style portrait of a stunning young woman, 1m70 tall, with a perfectly sculpted, alluring figure—one of the most attractive on the planet. She is wearing a chic grey plaid suit set crafted from luxurious Chanel and Dior signature fabrics, consisting of a pleated mini skirt and a tailored fitted vest. She pairs it with a sleek black tie and elegant long black gloves. The woman strikes a sophisticated, stylish pose while holding a retro telephone, standing beside a modern glass desk decorated with books, fashion magazines, and a small cute dog dressed in a matching designer outfit. The background is a minimalist white studio, captured in sharp lighting with ultra-high detail for a glamorous, editorial-quality photograph.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-08-53-973Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-08-53-973Z.png",
+      "timestamp": "2025-10-03T02-03-20-911Z",
+      "prompt": "Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy black hair. She wears a black oversized blazer layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-03-20-911Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T02-03-20-911Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T07-07-20-591Z",
-      "prompt": "A young woman (use upload photo) sitting casually in a studio, wearing a crisp oversized white shirt tucked into light blue jeans. She rests her chin gently on her hand, looking confidently into the camera. Soft studio lighting enhances her natural makeup and long wavy hairstyle. Minimalist gray background, cinematic fashion portrait style, ultra-detailed. Keep everything the same, only replace the woman’s face with the uploaded photo.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-07-20-591Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-07-20-591Z.png",
+      "timestamp": "2025-10-03T02-06-21-646Z",
+      "prompt": "Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy black hair. She wears a black oversized blazer layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-06-21-646Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T02-06-21-646Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T07-05-12-836Z",
-      "prompt": "Preserve the face and expression from the uploaded photo. A stunning young woman, 1.70m tall with a perfect, world-class figure, sitting gracefully in a dreamy flower garden, surrounded by blooming roses, peonies, and lush greenery. She has long wavy dark hair, adorned with delicate pink flower accessories. She wears a flowing, strapless white gown crafted from luxurious Chanel and Dior fabrics, layered with chiffon and tulle, elegant and fairy-like. Her skin is fair and flawless, with subtle, delicate makeup enhancing her natural beauty. She poses gracefully with one hand resting on her face, radiating elegance, softness, and sophistication. The background is bright, filled with sunlight and vibrant flowers, creating a magical, romantic fairytale atmosphere. Ultra-realistic, high-resolution, cinematic lighting, soft focus, dreamy photography style.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-05-12-836Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-05-12-836Z.png",
+      "timestamp": "2025-10-03T02-18-31-065Z",
+      "prompt": "Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy black hair. She wears a black oversized blazer layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-18-31-065Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T02-18-31-065Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T07-03-58-961Z",
-      "prompt": "Use the provided reference photo to preserve 100% of the face identity and vector details. Generate an ultra-luxurious portrait of a woman wearing a ruby red sheer couture gown crafted from exclusive Chanel and Dior fabric, entirely embellished with shimmering red crystals, sequins, and 3D roses. The shoulders are adorned with intricate ruby floral appliqués, while elegant beaded red tassels cascade gracefully from both sleeves. Her black hair falls in sophisticated side-parted waves, crowned with a dazzling ruby crown, and she wears sparkling diamond earrings. The model stands at 1m70, with a flawless, perfectly proportioned and irresistibly alluring figure — the most captivating beauty on earth. Background: a grand royal crimson palace hall bathed in warm red glow. Ultra-detailed, cinematic style, 8K resolution, 9:16 vertical composition.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-03-58-961Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-03-58-961Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T07-02-48-336Z",
-      "prompt": "Create an ultra-realistic fashion photoshoot of the woman from the reference photo. She has long, slightly messy hair framing her delicate face, smooth fair skin, and sharp natural features. She is wearing an oversized white long-sleeve top, crafted from luxurious fabric by Chanel and Dior, slipping gracefully off one shoulder to reveal subtle elegance. Her body is tall (170 cm), perfectly shaped, sensual yet sophisticated. Accessories: statement jewelry from Chanel and Dior including earrings, a necklace, and bracelets that highlight her refined aura. Pose: sitting, slightly turned to show her back, looking at the camera with a calm, thoughtful expression. Studio setting with a plain grey backdrop, soft cinematic lighting, minimalistic yet luxurious composition, highlighting textures and high-fashion details.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-02-48-336Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T07-02-48-336Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-58-47-687Z",
-      "prompt": "Using my uploaded photo, create A hyper realistic 8K photo of a woman with aewy freckles and wet, slightly wet messy loose hair. Her sun-kissed skin glows with a natural warmth, and vivid coral blush enhances her cheeks. She has a fresh, natural expression with minimal makeup, captured in a beauty editorial style. The scene is lit by golden hour sunlight, casting warm, diffused highlights and soft shadows across her face. Shes wearing spaghetti strap white sun dress. Copy face 100%.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-58-47-687Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-58-47-687Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-57-30-918Z",
-      "prompt": "Using my uploaded photo, create A hyper realistic 8K photo of a woman with aewy freckles and wet, slightly wet messy loose hair. Her sun-kissed skin glows with a natural warmth, and vivid coral blush enhances her cheeks. She has a fresh, natural expression with minimal makeup, captured in a beauty editorial style. The scene is lit by golden hour sunlight, casting warm, diffused highlights and soft shadows across her face. Shes wearing spaghetti strap white sun dress. Copy face 100%.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-57-30-918Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-57-30-918Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-56-10-154Z",
-      "prompt": "Create a moody, mysterious portrait in 9:16 aspect ratio. Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions and features unchanged. The subject is set against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The atmosphere is cinematic, expressive, and atmospheric, emphasizing depth, elegance, and mystery.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-56-10-154Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-56-10-154Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-53-31-009Z",
-      "prompt": "Use the uploaded reference photo as the exact basis for the face — preserving all facial proportions and features without alteration. Create a moody, mysterious portrait with a 9:16 aspect ratio. The subject stands against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The overall tone is cinematic, atmospheric, and expressive, emphasizing depth, mystery, and elegance.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-53-31-009Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-53-31-009Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-52-13-474Z",
-      "prompt": "Use the uploaded reference photo as the exact basis for the face — preserving all facial proportions and features without alteration. Create a moody, mysterious portrait with a 9:16 aspect ratio. The subject stands against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The overall tone is cinematic, atmospheric, and expressive, emphasizing depth, mystery, and elegance.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-52-13-474Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-52-13-474Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-50-25-938Z",
-      "prompt": "Create a sharp, ultra high-resolution large format portrait (9:16 aspect ratio). Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions — eyes, nose, mouth, and overall structure — perfectly preserved without alteration. Change only the style according to the following description:\n\nA surreal, cinematic top-down angle photo that focuses on the character’s face and bare shoulders. She has flawless porcelain-white skin with a natural glow, subtle blush, and long, thin lashes framing her serene eyes. Her black hair is neatly tied back, with a few strands falling gracefully around her face. Soft sunlight filters down, casting artistic vertical or gridded shadows on her face and shoulders, highlighting her delicate features and creating a dreamy, graceful atmosphere. Her bare shoulders emphasize elegance, purity, and innocence. Rendered in cinematic style — gentle, expressive, photorealistic, masterpiece quality",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-50-25-938Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-50-25-938Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-48-33-540Z",
-      "prompt": "Use the uploaded reference image as the basis for the face and preserve the exact facial structure, proportions, and natural features without alteration. Generate a photorealistic editorial beauty portrait of a beautiful young woman with porcelain skin and large, doll-like eyes, posing elegantly against a plain gray studio background. She has sleek black hair neatly tied back, with a few strands framing her face. She wears a simple strapless black dress that emphasizes her graceful shoulders and neckline. She gently rests her face on one hand, giving a refined and ethereal expression. Capture the scene in soft studio lighting, sharp focus, highly detailed, flawless skin, elegant and minimal aesthetic, masterpiece quality.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-48-33-540Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-48-33-540Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-46-31-482Z",
-      "prompt": "Generate a cinematic photo of the uploaded reference person, keeping the exact real face, hair, and natural proportions from the uploaded image without any alteration. The person is leaning their back out of a car window on a dark, dreamy, windy vintage night. The atmosphere is slightly blurry with a nostalgic aesthetic. She is wearing an off-shoulder black knitted top. Her hairstyle is short, wavy hair with bangs, fluttering in the wind",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-46-31-482Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-46-31-482Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-43-39-111Z",
-      "prompt": "Create a photo of me leaning my back out the window car like a dark dreamy blurry vintage windy night wearing a off shoulder black knitted top. With long wavy hair with bangs.\n",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-43-39-111Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-43-39-111Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-42-25-122Z",
-      "prompt": "A FLASH-LIT DIGITAL PHOTO CAPTURED AT NIGHT WITH A VINTAGE Y2K AESTHETIC, TIMESTAMP GLOWING RED IN THE POWER CORNER, A YOUNG WOMAN STANDS AT A PUBLIC PAYPHONE, HER BODY TURNED AWAY BUT HER FACE GLANCING BACK TOWARD THE LENS WITH A COOL, DETACHED EXPRESSION, SHE WEARS A TIGHTLY LACED CORSET TOP AND LOOSE-FITTING CARGO JEANS, HER HANDS TUCKED INTO THE BACK POCKETS IN A RELAXED, SELF-ASSURED STANCE, THE AMBIENT LIGHTING CASTS LONG SHADOWS ACROSS THE SIDEWALK, WHILE TRAFFIC LIGHTS ANDPASSING CAR HEADLIGHTS BLUR IN THE DISTANT BACKGROUND, THE SATURATED FLASH FLATTENS THE FOREGROUND AND INTENSIFIES THE CONTRAST, LENDING THE IMAGE A RAW, CANDID ENERGY REMINISCENT OF EARLY-2000S PAPARAZZI SHOTS, URBAN AND NOSTALGIC, THE SCENE CAPTURES THE INTERSECTION OF REBELLION, FEMININITY, AND A DISTINCTLY ANALOG KIND OF INTIMACY.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-42-25-122Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-42-25-122Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-40-42-265Z",
-      "prompt": "Prompted Create a photorealistic Hong Kong retro portrait with authentic 1990s film look, like a moody movie still. No cartoonization or face reshaping.Vertical portrait,mid-thigh to head. With black sleeveless dress standing, leaning slightly toward camera with both hands resting on a small wooden cabinet behind her; shoulders relaxed. Chin slightly down, gaze up toward camera.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-40-42-265Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-40-42-265Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-39-21-707Z",
-      "prompt": " Create a hyper realistic photo of a soft and dreamy portrait of a young woman sitting in warm natural sunlight, with rays gently casting shadows across her face. She has long, straight, light brown hair that falls naturally over her shoulders. Her fair skin glows with a delicate blush, and her lips are softly parted, giving her an innocent yet thoughtful expression. She is wearing a cozy cream-colored knitted sweater, adding warmth and softness to the scene",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-39-21-707Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-39-21-707Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-37-25-436Z",
-      "prompt": "Prompted Using this image create stylish young woman takes a mirror selfie indoors against a warm wooden background. She has long, sleek black hair with full straight bangs framing her face. Her skin is flawless and glowing, highlighted by the soft lighting of the room. She wears slim black rectangular sunglasses that give her a chic, mysterious look. Her outfit is a simple yet elegant white spaghetti strap top, showing her toned shoulders and arms. Gold jewelry accents her look: hoop earrings, a delicate chain necklace, and multiple rings on her fingers. She holds her phone gracefully, capturing the shot at a flattering angle. The overall aesthetic is modern, confident, and glamorous, with a touch of luxury.\n",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-37-25-436Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-37-25-436Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-34-39-684Z",
-      "prompt": "Prompted Copy my face in the photo, eyes, nose, smile, create a photo of a young slim woman standing at a rustic wooden beach bar under a thatched roof hut, with palm trees and the ocean in the background. Glowing skin, bright, and white. She has an alluring expression with a sweet smile. She has long, natural black hair draped over one shoulder, with soft thin curtain bangs, She wears a yellow floral bikini set: a strapless ruched bandeau top with a front tie and matching bikini bottoms. She accessorizes with a colorful beaded necklace and a woven straw shoulder bag.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-34-39-684Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-34-39-684Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-32-37-500Z",
-      "prompt": "Prompted Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy brown hair. She wears a black oversized layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-32-37-500Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-32-37-500Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T06-30-55-362Z",
-      "prompt": "Prompted Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy brown hair. She wears a black oversized layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-30-55-362Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T06-30-55-362Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T04-28-43-709Z",
-      "prompt": "Reproduce based on the uploaded reference photo, keeping the real face, hair, natural feeling, and exact proportions from the reference. A charming Vietnamese girl is wearing a traditional white silk Ao Dai, gently placing a conical hat on her lap. Her natural black hair and light makeup exude the poetic beauty of a Hue girl. She sits gracefully on the ancient mossy stone steps in front of Phuoc Duyen Tower at Thien Mu Pagoda, shown in a full-body posture with a graceful appearance. Her head is slightly tilted with a dreamy, calm facial expression, eyes gazing far away.\n\nThe scene is captured in a wide-angle cinematic frame with a 2:3 vertical ratio, following the rule of thirds: the subject positioned in the left third of the frame. Foreground shows mossy stone steps, while the background reveals Phuoc Duyen Tower with its charming ancient brick walls, pine trees, and a delicate view of the Perfume River. The composition balances the character with the architectural and natural context, creating depth and atmosphere.\n\nLighting is gentle golden sunlight of early morning, naturally diffused through pine needles, creating soft highlights on the Ao Dai fabric and natural shadows, evoking a spiritual, romantic, and dreamy Hue atmosphere.\n\nTechnical style: ultra-realistic 8K resolution with cinematic quality. Shallow depth of field (f/2.0–f/2.8) with soft natural bokeh. Realistic textures of rocks, silk, and leaves. Natural pastel tones and high detail, delivering a film-like aesthetic.\n\nOutput: a high-quality full-body portrait in 2:3 vertical ratio, presenting a dreamy, cultural, and poetic image of a Hue young woman at Thien Mu Pagoda, seated on ancient steps in an elegant and balanced cinematic composition.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T04-28-43-709Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T04-28-43-709Z.png",
-      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
-    },
-    {
-      "timestamp": "2025-10-03T04-05-55-974Z",
-      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16, shallow depth of field. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young woman in her early 20s, with clear skin, soft natural makeup, subtle pink lips, and dark brown eyes. Her long, straight, black hair is slightly dishevelled, with strands falling gently across the right side of her face, some loose strands of windblown hair subtly drifting and partially veiling her face in a natural, effortless way. Wearing a simple black sleeveless top or dress, revealing her smooth shoulder.  Captured at night outdoors, urban setting, with a mesmerizing bokeh background of blurred, colorful city lights (orange, white, green). The woman is positioned in a medium close-up, looking over her right shoulder directly at the viewer, a gentle gaze, with the composition focusing on her face and upper torso. Soft, ambient artificial light with a cool, bluish cast illuminating her face, creating subtle highlights and shadows, contrasting with the warm, glowing bokeh lights behind her.  Intimate, atmospheric, naturalistic night photography, cinematic aesthetic, enigmatic mood, with a touch of wind-swept realism.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T04-05-55-974Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T04-05-55-974Z.png",
+      "timestamp": "2025-10-03T02-37-37-625Z",
+      "prompt": "Vertical portrait, 1080x1920. Keep the same facial features and hair. photo of a man about 20 years old, shirtless, 6-pack abs, nice skin, few tattoos, wearing black elastic pants, Calvin Klein underwear showing a little bit of the top of the elastic pants, posing professionally in a gym. Cinematic setting, detailed analysis of faces, makeup, hair and gestures, subtle emotions. Shot with a long lens (50–85mm), shallow depth of field, gentle camera movements. Overall tone is soft, melancholy and intimate. Color grading: cool shadows (teal/blue) with warm highlights (orange/yellow). Post-production includes cinematic film grain, slight Gaussian blur in the background, and some bokeh, optional lens flare. Classic Korean film style, with a somber tone of teal and amber.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-37-37-625Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T02-37-37-625Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
@@ -267,10 +120,262 @@
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     },
     {
-      "timestamp": "2025-10-03T02-37-37-625Z",
-      "prompt": "Vertical portrait, 1080x1920. Keep the same facial features and hair. photo of a man about 20 years old, shirtless, 6-pack abs, nice skin, few tattoos, wearing black elastic pants, Calvin Klein underwear showing a little bit of the top of the elastic pants, posing professionally in a gym. Cinematic setting, detailed analysis of faces, makeup, hair and gestures, subtle emotions. Shot with a long lens (50–85mm), shallow depth of field, gentle camera movements. Overall tone is soft, melancholy and intimate. Color grading: cool shadows (teal/blue) with warm highlights (orange/yellow). Post-production includes cinematic film grain, slight Gaussian blur in the background, and some bokeh, optional lens flare. Classic Korean film style, with a somber tone of teal and amber.",
-      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T02-37-37-625Z.md",
-      "imagePath": "ai-generations/Normal/image-2025-10-03T02-37-37-625Z.png",
+      "timestamp": "2025-10-03T04-05-55-974Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16, shallow depth of field. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young woman in her early 20s, with clear skin, soft natural makeup, subtle pink lips, and dark brown eyes. Her long, straight, black hair is slightly dishevelled, with strands falling gently across the right side of her face, some loose strands of windblown hair subtly drifting and partially veiling her face in a natural, effortless way. Wearing a simple black sleeveless top or dress, revealing her smooth shoulder.  Captured at night outdoors, urban setting, with a mesmerizing bokeh background of blurred, colorful city lights (orange, white, green). The woman is positioned in a medium close-up, looking over her right shoulder directly at the viewer, a gentle gaze, with the composition focusing on her face and upper torso. Soft, ambient artificial light with a cool, bluish cast illuminating her face, creating subtle highlights and shadows, contrasting with the warm, glowing bokeh lights behind her.  Intimate, atmospheric, naturalistic night photography, cinematic aesthetic, enigmatic mood, with a touch of wind-swept realism.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T04-05-55-974Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T04-05-55-974Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T04-28-43-709Z",
+      "prompt": "Reproduce based on the uploaded reference photo, keeping the real face, hair, natural feeling, and exact proportions from the reference. A charming Vietnamese girl is wearing a traditional white silk Ao Dai, gently placing a conical hat on her lap. Her natural black hair and light makeup exude the poetic beauty of a Hue girl. She sits gracefully on the ancient mossy stone steps in front of Phuoc Duyen Tower at Thien Mu Pagoda, shown in a full-body posture with a graceful appearance. Her head is slightly tilted with a dreamy, calm facial expression, eyes gazing far away.\n\nThe scene is captured in a wide-angle cinematic frame with a 2:3 vertical ratio, following the rule of thirds: the subject positioned in the left third of the frame. Foreground shows mossy stone steps, while the background reveals Phuoc Duyen Tower with its charming ancient brick walls, pine trees, and a delicate view of the Perfume River. The composition balances the character with the architectural and natural context, creating depth and atmosphere.\n\nLighting is gentle golden sunlight of early morning, naturally diffused through pine needles, creating soft highlights on the Ao Dai fabric and natural shadows, evoking a spiritual, romantic, and dreamy Hue atmosphere.\n\nTechnical style: ultra-realistic 8K resolution with cinematic quality. Shallow depth of field (f/2.0–f/2.8) with soft natural bokeh. Realistic textures of rocks, silk, and leaves. Natural pastel tones and high detail, delivering a film-like aesthetic.\n\nOutput: a high-quality full-body portrait in 2:3 vertical ratio, presenting a dreamy, cultural, and poetic image of a Hue young woman at Thien Mu Pagoda, seated on ancient steps in an elegant and balanced cinematic composition.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T04-28-43-709Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T04-28-43-709Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-30-55-362Z",
+      "prompt": "Prompted Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy brown hair. She wears a black oversized layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-30-55-362Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-30-55-362Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-32-37-500Z",
+      "prompt": "Prompted Create a photo of me, see the reference photo in a a high-fashion studio same skin in the photo and long messy brown hair. She wears a black oversized layered over a white tube top, with a sheer white ribbon tied in a bow around her neck. She poses with her head tilted slightly to the side, gazing softly at the camera with a dreamy, calm expression. A loose strand of hair falls across her face, adding elegance. Soft diffused lighting against a plain white background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-32-37-500Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-32-37-500Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-34-39-684Z",
+      "prompt": "Prompted Copy my face in the photo, eyes, nose, smile, create a photo of a young slim woman standing at a rustic wooden beach bar under a thatched roof hut, with palm trees and the ocean in the background. Glowing skin, bright, and white. She has an alluring expression with a sweet smile. She has long, natural black hair draped over one shoulder, with soft thin curtain bangs, She wears a yellow floral bikini set: a strapless ruched bandeau top with a front tie and matching bikini bottoms. She accessorizes with a colorful beaded necklace and a woven straw shoulder bag.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-34-39-684Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-34-39-684Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-37-25-436Z",
+      "prompt": "Prompted Using this image create stylish young woman takes a mirror selfie indoors against a warm wooden background. She has long, sleek black hair with full straight bangs framing her face. Her skin is flawless and glowing, highlighted by the soft lighting of the room. She wears slim black rectangular sunglasses that give her a chic, mysterious look. Her outfit is a simple yet elegant white spaghetti strap top, showing her toned shoulders and arms. Gold jewelry accents her look: hoop earrings, a delicate chain necklace, and multiple rings on her fingers. She holds her phone gracefully, capturing the shot at a flattering angle. The overall aesthetic is modern, confident, and glamorous, with a touch of luxury.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-37-25-436Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-37-25-436Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-39-21-707Z",
+      "prompt": "Create a hyper realistic photo of a soft and dreamy portrait of a young woman sitting in warm natural sunlight, with rays gently casting shadows across her face. She has long, straight, light brown hair that falls naturally over her shoulders. Her fair skin glows with a delicate blush, and her lips are softly parted, giving her an innocent yet thoughtful expression. She is wearing a cozy cream-colored knitted sweater, adding warmth and softness to the scene",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-39-21-707Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-39-21-707Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-40-42-265Z",
+      "prompt": "Prompted Create a photorealistic Hong Kong retro portrait with authentic 1990s film look, like a moody movie still. No cartoonization or face reshaping.Vertical portrait,mid-thigh to head. With black sleeveless dress standing, leaning slightly toward camera with both hands resting on a small wooden cabinet behind her; shoulders relaxed. Chin slightly down, gaze up toward camera.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-40-42-265Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-40-42-265Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-42-25-122Z",
+      "prompt": "A FLASH-LIT DIGITAL PHOTO CAPTURED AT NIGHT WITH A VINTAGE Y2K AESTHETIC, TIMESTAMP GLOWING RED IN THE POWER CORNER, A YOUNG WOMAN STANDS AT A PUBLIC PAYPHONE, HER BODY TURNED AWAY BUT HER FACE GLANCING BACK TOWARD THE LENS WITH A COOL, DETACHED EXPRESSION, SHE WEARS A TIGHTLY LACED CORSET TOP AND LOOSE-FITTING CARGO JEANS, HER HANDS TUCKED INTO THE BACK POCKETS IN A RELAXED, SELF-ASSURED STANCE, THE AMBIENT LIGHTING CASTS LONG SHADOWS ACROSS THE SIDEWALK, WHILE TRAFFIC LIGHTS ANDPASSING CAR HEADLIGHTS BLUR IN THE DISTANT BACKGROUND, THE SATURATED FLASH FLATTENS THE FOREGROUND AND INTENSIFIES THE CONTRAST, LENDING THE IMAGE A RAW, CANDID ENERGY REMINISCENT OF EARLY-2000S PAPARAZZI SHOTS, URBAN AND NOSTALGIC, THE SCENE CAPTURES THE INTERSECTION OF REBELLION, FEMININITY, AND A DISTINCTLY ANALOG KIND OF INTIMACY.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-42-25-122Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-42-25-122Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-43-39-111Z",
+      "prompt": "Create a photo of me leaning my back out the window car like a dark dreamy blurry vintage windy night wearing a off shoulder black knitted top. With long wavy hair with bangs.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-43-39-111Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-43-39-111Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-46-31-482Z",
+      "prompt": "Generate a cinematic photo of the uploaded reference person, keeping the exact real face, hair, and natural proportions from the uploaded image without any alteration. The person is leaning their back out of a car window on a dark, dreamy, windy vintage night. The atmosphere is slightly blurry with a nostalgic aesthetic. She is wearing an off-shoulder black knitted top. Her hairstyle is short, wavy hair with bangs, fluttering in the wind",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-46-31-482Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-46-31-482Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-48-33-540Z",
+      "prompt": "Use the uploaded reference image as the basis for the face and preserve the exact facial structure, proportions, and natural features without alteration. Generate a photorealistic editorial beauty portrait of a beautiful young woman with porcelain skin and large, doll-like eyes, posing elegantly against a plain gray studio background. She has sleek black hair neatly tied back, with a few strands framing her face. She wears a simple strapless black dress that emphasizes her graceful shoulders and neckline. She gently rests her face on one hand, giving a refined and ethereal expression. Capture the scene in soft studio lighting, sharp focus, highly detailed, flawless skin, elegant and minimal aesthetic, masterpiece quality.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-48-33-540Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-48-33-540Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-50-25-938Z",
+      "prompt": "Create a sharp, ultra high-resolution large format portrait (9:16 aspect ratio). Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions — eyes, nose, mouth, and overall structure — perfectly preserved without alteration. Change only the style according to the following description:\n\nA surreal, cinematic top-down angle photo that focuses on the character’s face and bare shoulders. She has flawless porcelain-white skin with a natural glow, subtle blush, and long, thin lashes framing her serene eyes. Her black hair is neatly tied back, with a few strands falling gracefully around her face. Soft sunlight filters down, casting artistic vertical or gridded shadows on her face and shoulders, highlighting her delicate features and creating a dreamy, graceful atmosphere. Her bare shoulders emphasize elegance, purity, and innocence. Rendered in cinematic style — gentle, expressive, photorealistic, masterpiece quality",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-50-25-938Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-50-25-938Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-52-13-474Z",
+      "prompt": "Use the uploaded reference photo as the exact basis for the face — preserving all facial proportions and features without alteration. Create a moody, mysterious portrait with a 9:16 aspect ratio. The subject stands against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The overall tone is cinematic, atmospheric, and expressive, emphasizing depth, mystery, and elegance.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-52-13-474Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-52-13-474Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-53-31-009Z",
+      "prompt": "Use the uploaded reference photo as the exact basis for the face — preserving all facial proportions and features without alteration. Create a moody, mysterious portrait with a 9:16 aspect ratio. The subject stands against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The overall tone is cinematic, atmospheric, and expressive, emphasizing depth, mystery, and elegance.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-53-31-009Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-53-31-009Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-56-10-154Z",
+      "prompt": "Create a moody, mysterious portrait in 9:16 aspect ratio. Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions and features unchanged. The subject is set against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The atmosphere is cinematic, expressive, and atmospheric, emphasizing depth, elegance, and mystery.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-56-10-154Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-56-10-154Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-57-30-918Z",
+      "prompt": "Using my uploaded photo, create A hyper realistic 8K photo of a woman with aewy freckles and wet, slightly wet messy loose hair. Her sun-kissed skin glows with a natural warmth, and vivid coral blush enhances her cheeks. She has a fresh, natural expression with minimal makeup, captured in a beauty editorial style. The scene is lit by golden hour sunlight, casting warm, diffused highlights and soft shadows across her face. Shes wearing spaghetti strap white sun dress. Copy face 100%.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-57-30-918Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-57-30-918Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T06-58-47-687Z",
+      "prompt": "Using my uploaded photo, create A hyper realistic 8K photo of a woman with aewy freckles and wet, slightly wet messy loose hair. Her sun-kissed skin glows with a natural warmth, and vivid coral blush enhances her cheeks. She has a fresh, natural expression with minimal makeup, captured in a beauty editorial style. The scene is lit by golden hour sunlight, casting warm, diffused highlights and soft shadows across her face. Shes wearing spaghetti strap white sun dress. Copy face 100%.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-58-47-687Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-58-47-687Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-02-48-336Z",
+      "prompt": "Create an ultra-realistic fashion photoshoot of the woman from the reference photo. She has long, slightly messy hair framing her delicate face, smooth fair skin, and sharp natural features. She is wearing an oversized white long-sleeve top, crafted from luxurious fabric by Chanel and Dior, slipping gracefully off one shoulder to reveal subtle elegance. Her body is tall (170 cm), perfectly shaped, sensual yet sophisticated. Accessories: statement jewelry from Chanel and Dior including earrings, a necklace, and bracelets that highlight her refined aura. Pose: sitting, slightly turned to show her back, looking at the camera with a calm, thoughtful expression. Studio setting with a plain grey backdrop, soft cinematic lighting, minimalistic yet luxurious composition, highlighting textures and high-fashion details.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-02-48-336Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-02-48-336Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-03-58-961Z",
+      "prompt": "Use the provided reference photo to preserve 100% of the face identity and vector details. Generate an ultra-luxurious portrait of a woman wearing a ruby red sheer couture gown crafted from exclusive Chanel and Dior fabric, entirely embellished with shimmering red crystals, sequins, and 3D roses. The shoulders are adorned with intricate ruby floral appliqués, while elegant beaded red tassels cascade gracefully from both sleeves. Her black hair falls in sophisticated side-parted waves, crowned with a dazzling ruby crown, and she wears sparkling diamond earrings. The model stands at 1m70, with a flawless, perfectly proportioned and irresistibly alluring figure — the most captivating beauty on earth. Background: a grand royal crimson palace hall bathed in warm red glow. Ultra-detailed, cinematic style, 8K resolution, 9:16 vertical composition.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-03-58-961Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-03-58-961Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-05-12-836Z",
+      "prompt": "Preserve the face and expression from the uploaded photo. A stunning young woman, 1.70m tall with a perfect, world-class figure, sitting gracefully in a dreamy flower garden, surrounded by blooming roses, peonies, and lush greenery. She has long wavy dark hair, adorned with delicate pink flower accessories. She wears a flowing, strapless white gown crafted from luxurious Chanel and Dior fabrics, layered with chiffon and tulle, elegant and fairy-like. Her skin is fair and flawless, with subtle, delicate makeup enhancing her natural beauty. She poses gracefully with one hand resting on her face, radiating elegance, softness, and sophistication. The background is bright, filled with sunlight and vibrant flowers, creating a magical, romantic fairytale atmosphere. Ultra-realistic, high-resolution, cinematic lighting, soft focus, dreamy photography style.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-05-12-836Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-05-12-836Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-07-20-591Z",
+      "prompt": "A young woman (use upload photo) sitting casually in a studio, wearing a crisp oversized white shirt tucked into light blue jeans. She rests her chin gently on her hand, looking confidently into the camera. Soft studio lighting enhances her natural makeup and long wavy hairstyle. Minimalist gray background, cinematic fashion portrait style, ultra-detailed. Keep everything the same, only replace the woman’s face with the uploaded photo.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-07-20-591Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-07-20-591Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-08-53-973Z",
+      "prompt": "Keep the real face exactly as in the uploaded photo, without altering any facial features. Create a high-fashion editorial style portrait of a stunning young woman, 1m70 tall, with a perfectly sculpted, alluring figure—one of the most attractive on the planet. She is wearing a chic grey plaid suit set crafted from luxurious Chanel and Dior signature fabrics, consisting of a pleated mini skirt and a tailored fitted vest. She pairs it with a sleek black tie and elegant long black gloves. The woman strikes a sophisticated, stylish pose while holding a retro telephone, standing beside a modern glass desk decorated with books, fashion magazines, and a small cute dog dressed in a matching designer outfit. The background is a minimalist white studio, captured in sharp lighting with ultra-high detail for a glamorous, editorial-quality photograph.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-08-53-973Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-08-53-973Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T07-10-21-489Z",
+      "prompt": "Giữ nguyên vecter khuôn mặt của người mẫu cho tôi . Chân dung studio 8K siêu sắc nét của một người phụ nữ Đông Á trẻ trung xinh đẹp, có thể là tuổi thiếu niên hoặc đầu đôi mươi, với mái tóc dài, đen, sóng. Lông mày mỏng, nhạt.\nTạo dáng/Biểu cảm: Cô ấy trông hơi ra khỏi ống kính với biểu cảm thanh thản, có thể là đắt tiền hoặc hơi u sầu. Đầu cô ấy hơi nghiêng. Đôi vai của cô ấy trần trụi, gợi ý vẻ ngoài không áo hoặc trễ vai, thu hút sự chú ý đến khuôn mặt và mái tóc của cô ấy.\nTóc: dài, đen, và chảy. Tóc được tạo kiểu một cách tự nhiên, hơi bị gió hoặc thả, với các sợi riêng lẻ bắt ánh sáng và một số xuất hiện bồng bềnh quanh khuôn mặt và đầu của cô ấy.\nTrang điểm: Tự nhiên và tinh tế, làm nổi bật nét tự nhiên của nàng.\nNền: Rất tối, gần như đen, và hoàn toàn mất tập trung, cách ly đối tượng và nhấn mạnh ánh sáng kịch tính.\nÁnh sáng: Tông màu xanh tạo cảm giác cô đơn lạnh. Ánh sáng làm nổi bật khuôn mặt cô ấy. Kịch tính và nghệ thuật. Nguồn ánh sáng chính đến từ trên cao và hơi phía sau cô bé, tạo hiệu ứng hào quang trên mái tóc và điểm nhấn mạnh mẽ trên trán, cầu mũi và gò má. Khuôn mặt của cô ấy cũng sáng nhẹ nhàng, nhưng ấn tượng tổng thể là một sự thiết lập ánh sáng dịu dàng, đầy ắp. Ánh sáng khiến mái tóc của cô ấy trông như nó có một ánh sáng mềm mại và một vài sợi tóc dường như đang bồng bềnh.\nAmbiance/Tâm trạng: Tinh tế, mơ mộng, bí ẩn, tinh tế và thanh lịch.\nSáng tác: Chân dung cận cảnh, tập trung vào khuôn mặt, tóc và vai. Khung khung chặt chẽ, nhấn mạnh sự gần gũi.\nPhong cách: chân dung người đẹp mang chút tưởng tượng hoặc chủ nghĩa siêu thực.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-10-21-489Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-10-21-489Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T08-38-36-450Z",
+      "prompt": "(Preserve the facial expression and face from the uploaded photo.)\n\nA fine art bridal portrait titled “Fairy Forest Bride.”\n\nFraming: Cinematic close-up portrait, focusing on the bride’s face, upper body, and delicate details of her attire and accessories.\n\nBackground: A mystical forest shrouded in soft mist. Shafts of golden sunlight filter through leaves behind her, blurred into a dreamy bokeh effect, creating a magical and ethereal backdrop.\n\nOutfit & Styling: The bride wears a delicate sheer lace gown visible at the neckline and shoulders. Her head is crowned with a wreath of intertwined green leaves and sparkling butterflies, enhancing her fairy-like elegance.\n\nPose: She gazes softly at the camera, barefoot serenity implied, her expression tender and enchanting. Her hand gently touches the wreath or her gown’s lace strap, adding intimacy to the portrait.\n\nAtmosphere: Dreamy, poetic, and ethereal. Mist and warm light glow around her silhouette, suggesting she is a mystical forest fairy bride.\n\nStyle: Ultra realistic, cinematic lighting, high detail, fine art editorial photography with fantasy and fairytale aesthetics.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T08-38-36-450Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T08-38-36-450Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-21-46-710Z",
+      "prompt": "Create a vertical frame-size 2160x3840 pixels (4K quality), divided into three equally sized horizontal images placed together.\nThe main character must keep the exact uploaded reference face (Face-Lock 100%) and hairstyle (Hair-Lock 100%). No changes or alterations to facial structure.\nThe outfit is a loose winter puffer set with wide-leg pants and a black scarf. The atmosphere is snowy, with a cold color palette that conveys solitude and melancholy.\nImage 1 (portrait):\nThe character holds a transparent umbrella, turning their head slightly back while looking directly at the frame. Expression: subtle sadness, nostalgic aura. Background: snowy whiteness, softly blurred.\nImage 2 (full body):\nThe character stands alone in a vast snowy field, holding the umbrella. Camera angle from above, as if the character raises one hand to catch falling snowflakes. In the distance, leafless trees enhance the feeling of isolation.\nImage 3 (close-up):\nA zoomed-in shot of the character’s eyes. Keep the exact uploaded face (Face-Lock 100%), but the gaze conveys sorrow and longing. Snowflakes softly fall around.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-21-46-710Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-21-46-710Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-28-30-324Z",
+      "prompt": "Create an image of me without changing my face. I'm a young woman about to take a shower. Her hair is tied up in a big red hairpin. She sits by a large window with bright morning light shining in. She's loosely wrapped in a white towel. She sits with her legs up in a relaxed pose. The atmosphere is simple and modern, giving a feeling of warmth and relaxation. The natural light emphasizes the figure clearly. The shooting style is like a movie. The details are realistic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-28-30-324Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-28-30-324Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-31-55-333Z",
+      "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-31-55-333Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-31-55-333Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-33-38-642Z",
+      "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-33-38-642Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-33-38-642Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-38-47-131Z",
+      "prompt": "Vertical portrait, portrait-ratio frame, cropped from waist-up. Subject is a young man, face looking straight into the lens with a serious, confident expression, lips closed. Body slightly turned 3/4 but head and eyes straight ahead. Wearing a black tailored suit, white shirt with a standard collar, black tie with a neat knot (four-in-hand or equivalent). White pocket square folded straight (presidential fold) in the left breast pocket. Arms crossed: left hand placed across the right arm, left fingers straight and clearly visible; right hand slightly hidden under the left hand. Silver metal wrist watch on the left wrist, linked eye chain, clear round face. Black hair, neatly combed, slightly puffed at the top, modern style. Light skin, neutral tone. Rich crimson background, soft, diffused, even light highlighting the face and the texture of the suit fabric, slight realistic shine. 85mm equivalent lens angle, low aperture for background blur, photorealistic, ultra-realistic, high-detail, 8k, RAW",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-38-47-131Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-38-47-131Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-41-27-288Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman in her early 20s, with fair skin, delicate features, large dark eyes with long eyelashes and subtle eyeliner, natural eyebrows, a small nose, and full red lips. Her long, wavy, lustrous black hair flows over her shoulders, with one hand elegantly twirling a strand of hair. She has dark red nail polish. She wears a sleek black strapless mini-dress, an open glossy black patent leather trench coat, and sheer black thigh-high stockings. She accessorizes with a delicate silver chain necklace and small stud earrings. She holds a vintage-style black Canon film camera (or mirrorless) with a prime lens in both hands, resting it on her lap/thighs. She is seated elegantly on a plush black leather sofa. The background is a soft, minimalistic, light pale grey gradient with a subtle bokeh effect. Medium shot, capturing her from the waist up. Soft, diffused studio lighting from the front and slightly above, creating subtle highlights on the patent leather coat and illuminating her face gently. Neutral color temperature. Fashion photography, editorial portrait, alluring, confident, sophisticated, modern, high-quality, elegant aesthetic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-41-27-288Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-41-27-288Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-42-41-980Z",
+      "prompt": "Create a photo-realistic image of this person in the above image wearing a traditional Indonesian kebaya outfit with a modern twist ,\nin a colorful flower garden, holding a butterfly gently on her hand. \nThe scene is bright and dreamy, with flowers of orange, yellow, pink, and purple in the background. \nThe focus is on the woman face and the butterfly, capturing a peaceful and magical atmosphere. \nPhoto-realistic bright and clean professional lighting",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-42-41-980Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-42-41-980Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-43-49-517Z",
+      "prompt": "Ultra photorealistic fashion portrait of the same woman from the reference photo, identity locked (do not alter facial features). A young woman sitting by the window in a modern café, posing with a slightly surprised and playful expression, her index finger gently touching her lips. She has long, wavy, dark brown hair styled naturally, flowing over her shoulders. Her face is delicate with fair skin, soft makeup, and a light pink blush on her cheeks, giving her a fresh and youthful look. She wears a sleeveless, fitted white blouse with lace details and a tied front, paired with short dark green high-waisted shorts. The camera angle is at eye level, capturing her in a side-profile pose, slightly turning her head towards the camera, emphasizing her expressive eyes. Natural daylight streams in through the large glass window beside her, casting soft, even lighting on her face and body. On the wooden table in front of her, there is a clear glass of iced green drink with a straw, a small plate with a pastry, and a bouquet of fresh white flowers wrapped in transparent plastic with a purple ribbon. Behind her, the café interior is modern and minimalistic with grey tiled flooring, stylish hanging lamps, black chairs, and a clean, bright atmosphere. Outside the window, a small alley with old buildings and air conditioning units is visible, adding contrast to the cozy indoor setting. Photo-realistic, high detail, natural light, candid and intimate atmosphere. The background is simple with soft neutral tones, resembling a lifestyle magazine shoot. Ultra realistic, photorealistic details, 9:16 aspect ratio, 8K resolution, highly detailed, masterpiece.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-43-49-517Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-43-49-517Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T09-45-27-688Z",
+      "prompt": "Ultra photorealistic fashion portrait of the same woman from the reference photo, identity locked (do not alter facial features). A young woman sitting casually inside a cozy modern café with wooden interior and shelves filled with drinks and decorations in the background. She is sitting sideways on a cushioned bench, one leg folded onto the seat and the other relaxed, leaning her left arm on the wooden table beside her. She has long, wavy, dark brown hair parted to the side, flowing naturally over her shoulders. Her face is softly lit, showing smooth skin, gentle makeup, and a warm, cheerful smile with a calm and relaxed expression.\nShe is wearing a fitted beige spaghetti strap tank top, paired with high-waisted loose brown trousers and a white belt with black square patterns. On her wrist, she wears a gold bracelet, and she also has small, elegant earrings. She has white sneakers on her feet, slightly visible under the loose trousers. On the table next to her, there is a transparent plastic cup with iced chocolate drink and a red straw, along with a brown handbag and a bright red tissue box. The lighting is natural and soft, highlighting her skin tone and creating a warm, welcoming café atmosphere. The camera angle is eye-level, capturing her upper body and surroundings in a natural, candid style. The background is simple with soft neutral tones, resembling a lifestyle magazine shoot. Ultra realistic, photorealistic details, 9:16 aspect ratio, 8K resolution, highly detailed, masterpiece",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-45-27-688Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-45-27-688Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T11-58-19-996Z",
+      "prompt": "A stunning Asian woman with a graceful and refined face (keep face vector consistency). She is dressed in a glamorous black off-shoulder velvet gown, the fabric flowing smoothly with every curve. A pearl-diamond choker with a single large pearl drop enhances her neckline, while pearl earrings add to the elegance.\nHer makeup is natural yet sophisticated: glossy lips, well-defined eyes, and a matte glow. She wears a wide-brimmed black fashion hat, giving her a mysterious and captivating aura. Her pose is elegant, poised, and statuesque, like a professional supermodel captured in a luxury fashion campaign.\nBackground: Parisian-inspired high-end interior, soft daylight entering through tall arched windows, adding refinement and charm.\nStyle: ultra realistic, 8K, cinematic light, luxury fine-art portrait, fashion magazine cover, face consistency.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T11-58-19-996Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T11-58-19-996Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T12-00-30-684Z",
+      "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. Use the attached image as a facial reference. Half-body composition. The subject leans against a wall covered with old newspapers, wearing a loose white shirt with the top button casually undone.\nSkin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers.\nTungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T12-00-30-684Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T12-00-30-684Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
+      "timestamp": "2025-10-03T18-36-15-138Z",
+      "prompt": "A hyper-realistic medium close-up portrait of the uploaded person (preserve identity, facial features, and likeness exactly, do not alter the face). Framed from the waist up at a slightly high angle with a subtle Dutch tilt, the subject sits at a rustic dark-stained wooden bar, torso angled slightly away with the left shoulder closer to the camera, head turned toward the lens with a gentle, friendly smile. The right forearm rests casually on the wooden surface while the left hand is raised, fingers lightly touching the hair near the face, gaze directed straight into the camera. Lighting is soft, diffused artificial indoor light from the front-left, creating subtle shadows that define contours, giving a warm peach-orange skin tone with healthy highlights and cool undertones in the shadows. Style: vintage film aesthetic with fine grain, slightly muted colors, shallow depth of field, soft background blur, and light vignette.Outfit: fitted dusty blue/teal spaghetti strap tank top with dark blue denim jeans (metal rivets/buttons visible). Accessories: thin black elastic bracelet on left wrist, vibrant red nail polish. Background: dusty blue/teal textured wall with two framed abstract floral artworks in muted reds, browns, creams, and blues. Table details: clear glass with liquid, a small potted succulent, and wrapped chopsticks placed diagonally. Mood: casual, warm, inviting, subtly nostalgic, cinematic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T18-36-15-138Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T18-36-15-138Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     }
   ],
