@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T07-07-20-591Z",
+      "prompt": "A young woman (use upload photo) sitting casually in a studio, wearing a crisp oversized white shirt tucked into light blue jeans. She rests her chin gently on her hand, looking confidently into the camera. Soft studio lighting enhances her natural makeup and long wavy hairstyle. Minimalist gray background, cinematic fashion portrait style, ultra-detailed. Keep everything the same, only replace the woman’s face with the uploaded photo.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-07-20-591Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-07-20-591Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T07-05-12-836Z",
       "prompt": "Preserve the face and expression from the uploaded photo. A stunning young woman, 1.70m tall with a perfect, world-class figure, sitting gracefully in a dreamy flower garden, surrounded by blooming roses, peonies, and lush greenery. She has long wavy dark hair, adorned with delicate pink flower accessories. She wears a flowing, strapless white gown crafted from luxurious Chanel and Dior fabrics, layered with chiffon and tulle, elegant and fairy-like. Her skin is fair and flawless, with subtle, delicate makeup enhancing her natural beauty. She poses gracefully with one hand resting on her face, radiating elegance, softness, and sophistication. The background is bright, filled with sunlight and vibrant flowers, creating a magical, romantic fairytale atmosphere. Ultra-realistic, high-resolution, cinematic lighting, soft focus, dreamy photography style.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-05-12-836Z.md",
