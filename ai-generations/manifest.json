@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T09-33-38-642Z",
+      "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-33-38-642Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-33-38-642Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T09-31-55-333Z",
       "prompt": "Create a photorealistic cinematic portrait using the uploaded photo.\nKeep my real face exactly as in the uploaded photo; do not alter my facial features.\nScene: A retro 1930s Shanghai street at night with neon Chinese signs glowing, cobblestone road, and people in vintage attire.\nOutfit: I am wearing a dark vintage three-piece suit with long overcoat, white shirt, and tie.\nPose: Leaning casually against a classic 1930s black car, holding a cigarette with smoke rising.\nStyle: cinematic, noir-inspired, moody atmosphere, with warm streetlights and filmic color grading.\nUltra-HD, realistic, stylish, resembling a historical movie still.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-31-55-333Z.md",
