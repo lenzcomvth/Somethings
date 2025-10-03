@@ -393,5 +393,14 @@
       "imagePath": "ai-generations/Black-Girl-China/image-2025-10-03T05-14-27-048Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     }
+  ],
+  "Girl-Trung-Thu": [
+    {
+      "timestamp": "2025-10-03T07-15-42-687Z",
+      "prompt": "Ultra-realistic fashion editorial portrait of the uploaded character, \nwearing a short green fusion-style dress with koi fish patterns, black corset belt, \nred sunglasses, braided hairstyle with pearl strands, \nholding a black feather fan, \nstanding next to a vibrant red lion dance costume, \nsurrounded by colorful hanging paper lanterns, \nset against a rich red studio background with cinematic fashion lighting. \nHigh-resolution photo, photorealistic skin and fabric textures, sharp focus, \nprofessional studio photography style.",
+      "markdownPath": "ai-generations/Girl-Trung-Thu/prompt-2025-10-03T07-15-42-687Z.md",
+      "imagePath": "ai-generations/Girl-Trung-Thu/image-2025-10-03T07-15-42-687Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    }
   ]
 }
