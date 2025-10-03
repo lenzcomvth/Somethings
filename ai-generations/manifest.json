@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-57-30-918Z",
+      "prompt": "Using my uploaded photo, create A hyper realistic 8K photo of a woman with aewy freckles and wet, slightly wet messy loose hair. Her sun-kissed skin glows with a natural warmth, and vivid coral blush enhances her cheeks. She has a fresh, natural expression with minimal makeup, captured in a beauty editorial style. The scene is lit by golden hour sunlight, casting warm, diffused highlights and soft shadows across her face. Shes wearing spaghetti strap white sun dress. Copy face 100%.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-57-30-918Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-57-30-918Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-56-10-154Z",
       "prompt": "Create a moody, mysterious portrait in 9:16 aspect ratio. Use the uploaded reference photo as the exact basis for the face, keeping all facial proportions and features unchanged. The subject is set against a plain background, illuminated by warm golden-hour sunlight. The light casts dramatic, elongated shadows on the plain wall, with the strong shadow of the face clearly visible. The atmosphere is cinematic, expressive, and atmospheric, emphasizing depth, elegance, and mystery.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-56-10-154Z.md",
