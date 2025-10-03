@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-40-42-265Z",
+      "prompt": "Prompted Create a photorealistic Hong Kong retro portrait with authentic 1990s film look, like a moody movie still. No cartoonization or face reshaping.Vertical portrait,mid-thigh to head. With black sleeveless dress standing, leaning slightly toward camera with both hands resting on a small wooden cabinet behind her; shoulders relaxed. Chin slightly down, gaze up toward camera.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-40-42-265Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-40-42-265Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-39-21-707Z",
       "prompt": " Create a hyper realistic photo of a soft and dreamy portrait of a young woman sitting in warm natural sunlight, with rays gently casting shadows across her face. She has long, straight, light brown hair that falls naturally over her shoulders. Her fair skin glows with a delicate blush, and her lips are softly parted, giving her an innocent yet thoughtful expression. She is wearing a cozy cream-colored knitted sweater, adding warmth and softness to the scene",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-39-21-707Z.md",
