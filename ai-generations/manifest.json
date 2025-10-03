@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T12-00-30-684Z",
+      "prompt": "Create a retro Hong Kong–style portrait with an authentic 1990s film aesthetic. Use the attached image as a facial reference. Half-body composition. The subject leans against a wall covered with old newspapers, wearing a loose white shirt with the top button casually undone.\nSkin appears dewy and luminous. The setting is a small Hong Kong room, with walls covered in aged, yellowing English newspapers.\nTungsten lighting casts a soft golden glow mixed with a hint of green, creating deep shadows and bright highlights.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T12-00-30-684Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T12-00-30-684Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T11-58-19-996Z",
       "prompt": "A stunning Asian woman with a graceful and refined face (keep face vector consistency). She is dressed in a glamorous black off-shoulder velvet gown, the fabric flowing smoothly with every curve. A pearl-diamond choker with a single large pearl drop enhances her neckline, while pearl earrings add to the elegance.\nHer makeup is natural yet sophisticated: glossy lips, well-defined eyes, and a matte glow. She wears a wide-brimmed black fashion hat, giving her a mysterious and captivating aura. Her pose is elegant, poised, and statuesque, like a professional supermodel captured in a luxury fashion campaign.\nBackground: Parisian-inspired high-end interior, soft daylight entering through tall arched windows, adding refinement and charm.\nStyle: ultra realistic, 8K, cinematic light, luxury fine-art portrait, fashion magazine cover, face consistency.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T11-58-19-996Z.md",
