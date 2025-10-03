@@ -743,6 +743,13 @@
   ],
   "Girl-And-Flower": [
     {
+      "timestamp": "2025-10-03T12-14-21-300Z",
+      "prompt": "A hyper-realistic 8K cinematic portrait of the same woman (keep the attached face 100% identical, no modifications).\nShe is wearing a short white tutu dress layered with a pastel green blazer. Her hair is styled in long soft waves with a delicate braid accent. She carries a pastel green Chanel shoulder bag and holds a large bouquet of green carnations.\nPose: standing gracefully in front of the shop, holding the bouquet with both arms, eyes gently closed in a serene expression.\nScene: in front of a flower shop fully decorated with fresh green and white flowers (green carnations, daisies), with a matching green sign that reads “You Deserve Flowers Today.”\nLighting: natural soft daylight, pastel green tones, cinematic editorial photography style.\nMood: romantic, feminine, fresh, luxury magazine vibe.\nUltra-detailed, sharp focus, natural skin texture, breathtaking realism.\n\nNegative Prompt: distorted face, changed face, blurry, painting/cartoon style, low resolution, extra fingers, oversaturated colors, text errors",
+      "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-14-21-300Z.md",
+      "imagePath": "ai-generations/Girl-And-Flower/image-2025-10-03T12-14-21-300Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T12-12-41-372Z",
       "prompt": "A young Vietnamese woman with a clean oval face and smooth, bright skin. She has long, straight black hair parted neatly in the center, falling just below her shoulders. Her eyes are almond-shaped, confident and focused, with slightly arched natural eyebrows. She has a small silver nose piercing on the right side. Her lips are full with a soft coral-red tint, gently closed. Her expression is calm, professional, and composed. She wears a crisp white button-up shirt with a classic collar, suitable for an ID photo. The background is a solid blue color, with even studio lighting that highlights her symmetrical facial features. Overall aura: confident, polished, and elegant.",
       "markdownPath": "ai-generations/Girl-And-Flower/prompt-2025-10-03T12-12-41-372Z.md",
