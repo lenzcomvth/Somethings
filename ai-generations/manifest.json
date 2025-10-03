@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T07-08-53-973Z",
+      "prompt": "Keep the real face exactly as in the uploaded photo, without altering any facial features. Create a high-fashion editorial style portrait of a stunning young woman, 1m70 tall, with a perfectly sculpted, alluring figure—one of the most attractive on the planet. She is wearing a chic grey plaid suit set crafted from luxurious Chanel and Dior signature fabrics, consisting of a pleated mini skirt and a tailored fitted vest. She pairs it with a sleek black tie and elegant long black gloves. The woman strikes a sophisticated, stylish pose while holding a retro telephone, standing beside a modern glass desk decorated with books, fashion magazines, and a small cute dog dressed in a matching designer outfit. The background is a minimalist white studio, captured in sharp lighting with ultra-high detail for a glamorous, editorial-quality photograph.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-08-53-973Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-08-53-973Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T07-07-20-591Z",
       "prompt": "A young woman (use upload photo) sitting casually in a studio, wearing a crisp oversized white shirt tucked into light blue jeans. She rests her chin gently on her hand, looking confidently into the camera. Soft studio lighting enhances her natural makeup and long wavy hairstyle. Minimalist gray background, cinematic fashion portrait style, ultra-detailed. Keep everything the same, only replace the woman’s face with the uploaded photo.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-07-20-591Z.md",
