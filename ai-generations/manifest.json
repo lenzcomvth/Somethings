@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T06-46-31-482Z",
+      "prompt": "Generate a cinematic photo of the uploaded reference person, keeping the exact real face, hair, and natural proportions from the uploaded image without any alteration. The person is leaning their back out of a car window on a dark, dreamy, windy vintage night. The atmosphere is slightly blurry with a nostalgic aesthetic. She is wearing an off-shoulder black knitted top. Her hairstyle is short, wavy hair with bangs, fluttering in the wind",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-46-31-482Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T06-46-31-482Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T06-43-39-111Z",
       "prompt": "Create a photo of me leaning my back out the window car like a dark dreamy blurry vintage windy night wearing a off shoulder black knitted top. With long wavy hair with bangs.\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T06-43-39-111Z.md",
