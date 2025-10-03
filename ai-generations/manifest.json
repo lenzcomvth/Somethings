@@ -482,6 +482,13 @@
   ],
   "Girl-Wedding": [
     {
+      "timestamp": "2025-10-03T08-45-05-446Z",
+      "prompt": "A full-body editorial bridal portrait in a luxurious vintage room. The ceiling is filled with hundreds of delicate paper butterflies, gently floating in the air, glowing under golden light. The bride wears an extravagant ball gown, haute couture style, intricately embellished with shimmering butterfly motifs. Her long veil flows dramatically, blending with the swarm of butterflies around her. She stands gracefully in the center of the room, her pose elegant yet dreamy, as if becoming one with the butterflies. Ethereal atmosphere, cinematic lighting, high-fashion photography style, ultra-detailed, high resolution. ",
+      "markdownPath": "ai-generations/Girl-Wedding/prompt-2025-10-03T08-45-05-446Z.md",
+      "imagePath": "ai-generations/Girl-Wedding/image-2025-10-03T08-45-05-446Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T08-44-46-727Z",
       "prompt": "(Preserve the facial expression and face from the uploaded photo.)\n\nA breathtaking bridal portrait set inside a grand marble palace. The vast hall is adorned with towering white marble columns, polished stone floors, and golden sunlight streaming down through the domed ceiling, casting a divine glow across the scene.\n\nThe bride wears a bold cut-out wedding gown, encrusted with sparkling crystals that cascade like radiant beams of light. The fabric shimmers with every reflection, creating a celestial, goddess-like aura.\n\nPose: She stands gracefully in the center of the marble hall, arms outstretched wide, head tilted slightly upward with confidence and elegance — embodying the spirit of a Greek goddess. Her long veil flows dramatically behind her, catching the golden light.\n\nAtmosphere: Majestic, ethereal, and divine. The fusion of architectural grandeur and radiant bridal fashion creates a sense of timeless elegance and powerful femininity.\n\nStyle: Ultra realistic, high-fashion editorial photography. Cinematic golden lighting, dramatic composition, with fine art details capturing both the marble textures and the dazzling crystal reflections. ",
       "markdownPath": "ai-generations/Girl-Wedding/prompt-2025-10-03T08-44-46-727Z.md",
