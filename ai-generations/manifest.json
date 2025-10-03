@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T09-42-41-980Z",
+      "prompt": "Create a photo-realistic image of this person in the above image wearing a traditional Indonesian kebaya outfit with a modern twist ,\nin a colorful flower garden, holding a butterfly gently on her hand. \nThe scene is bright and dreamy, with flowers of orange, yellow, pink, and purple in the background. \nThe focus is on the woman face and the butterfly, capturing a peaceful and magical atmosphere. \nPhoto-realistic bright and clean professional lighting",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-42-41-980Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T09-42-41-980Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T09-41-27-288Z",
       "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman in her early 20s, with fair skin, delicate features, large dark eyes with long eyelashes and subtle eyeliner, natural eyebrows, a small nose, and full red lips. Her long, wavy, lustrous black hair flows over her shoulders, with one hand elegantly twirling a strand of hair. She has dark red nail polish. She wears a sleek black strapless mini-dress, an open glossy black patent leather trench coat, and sheer black thigh-high stockings. She accessorizes with a delicate silver chain necklace and small stud earrings. She holds a vintage-style black Canon film camera (or mirrorless) with a prime lens in both hands, resting it on her lap/thighs. She is seated elegantly on a plush black leather sofa. The background is a soft, minimalistic, light pale grey gradient with a subtle bokeh effect. Medium shot, capturing her from the waist up. Soft, diffused studio lighting from the front and slightly above, creating subtle highlights on the patent leather coat and illuminating her face gently. Neutral color temperature. Fashion photography, editorial portrait, alluring, confident, sophisticated, modern, high-quality, elegant aesthetic.\n\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T09-41-27-288Z.md",
