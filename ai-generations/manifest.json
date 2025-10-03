@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-03T07-05-12-836Z",
+      "prompt": "Preserve the face and expression from the uploaded photo. A stunning young woman, 1.70m tall with a perfect, world-class figure, sitting gracefully in a dreamy flower garden, surrounded by blooming roses, peonies, and lush greenery. She has long wavy dark hair, adorned with delicate pink flower accessories. She wears a flowing, strapless white gown crafted from luxurious Chanel and Dior fabrics, layered with chiffon and tulle, elegant and fairy-like. Her skin is fair and flawless, with subtle, delicate makeup enhancing her natural beauty. She poses gracefully with one hand resting on her face, radiating elegance, softness, and sophistication. The background is bright, filled with sunlight and vibrant flowers, creating a magical, romantic fairytale atmosphere. Ultra-realistic, high-resolution, cinematic lighting, soft focus, dreamy photography style.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-05-12-836Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-03T07-05-12-836Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-03T07-03-58-961Z",
       "prompt": "Use the provided reference photo to preserve 100% of the face identity and vector details. Generate an ultra-luxurious portrait of a woman wearing a ruby red sheer couture gown crafted from exclusive Chanel and Dior fabric, entirely embellished with shimmering red crystals, sequins, and 3D roses. The shoulders are adorned with intricate ruby floral appliqués, while elegant beaded red tassels cascade gracefully from both sleeves. Her black hair falls in sophisticated side-parted waves, crowned with a dazzling ruby crown, and she wears sparkling diamond earrings. The model stands at 1m70, with a flawless, perfectly proportioned and irresistibly alluring figure — the most captivating beauty on earth. Background: a grand royal crimson palace hall bathed in warm red glow. Ultra-detailed, cinematic style, 8K resolution, 9:16 vertical composition.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-03T07-03-58-961Z.md",
