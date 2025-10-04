@@ -1136,5 +1136,14 @@
       "imagePath": "ai-generations/City-Girl/image-2025-10-04T08-00-59-349Z.png",
       "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
     }
+  ],
+  "Girl-Ao-Dai": [
+    {
+      "timestamp": "2025-10-04T12-29-48-113Z",
+      "prompt": "A young girl in a traditional Asian festive setting, sitting gracefully beside a red-covered table with mooncakes and fruits. She wears a flowing layered red halter dress with floral patterns, styled with elegant fabric layers. Her makeup is refined with bold red lips and soft blush, and her hair is styled in vintage-inspired buns. Keep the face and expression from the uploaded photo . She holds a large, decorative red fish lantern with golden edges in both hands. Around her are colorful lanterns shaped like fish and rabbits, glowing warmly. The whole scene is rich in red and gold tones, festive, and reminiscent of Mid-Autumn Festival. Her skin is fair and smooth, glowing under soft warm light, adding contrast to the vibrant background",
+      "markdownPath": "ai-generations/Girl-Ao-Dai/prompt-2025-10-04T12-29-48-113Z.md",
+      "imagePath": "ai-generations/Girl-Ao-Dai/image-2025-10-04T12-29-48-113Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    }
   ]
 }
