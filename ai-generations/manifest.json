@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-04T12-51-53-530Z",
+      "prompt": "A beautiful young woman with porcelain skin and large doll-like eyes posing elegantly against a plain gray studio background. She has sleek black hair neatly tied back, with a few strands framing her face. She wears a simple strapless black dress that emphasizes her graceful shoulders and neckline. She rests her face gently on one hand, giving a refined and ethereal expression. Editorial beauty photography, soft studio lighting, highly detailed, sharp focus, flawless skin, masterpiece, elegant and minimal aesthetic.\nMake the first photo as basis for the face and do not change the facial structure so that it will look the first photo i upload\n",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-04T12-51-53-530Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-04T12-51-53-530Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-04T12-27-30-973Z",
       "prompt": "A youthful Vietnamese woman (using the reference face from the uploaded image) with a slender figure, her hair neatly tied in a bun adorned with red jewelry pieces. She wears elegant makeup with soft pink lipstick and a gentle blush, creating a fresh and natural look. She is dressed in a traditional youthful red áo yếm made from luxurious high-quality fabric with exquisite embroidery, paired with a flowing red robe and black silk trousers. Around her neck are traditional silver necklaces, radiating a blend of tradition and modernity.\nShe sits gracefully beside a low bamboo tea table, pouring tea from a brown ceramic teapot into small cups. The scene is decorated with a pomegranate tree heavy with fruit, a bamboo folding screen painted with birds and flowers, and colorful Mid-Autumn Festival lanterns illuminating the space. On the tea table lie traditional mooncakes, symbolizing reunion.\nThe atmosphere harmoniously blends the youthful elegance of a Vietnamese maiden with the warm, festive spirit of the Mid-Autumn Festiva",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-04T12-27-30-973Z.md",
