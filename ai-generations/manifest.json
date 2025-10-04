@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-04T12-25-12-226Z",
+      "prompt": "Hyperrealistic black and white editorial portrait of a young woman with the same facial features as the reference photo. She kneels dramatically under a single intense spotlight in a minimalist cinematic setting.\nHer long, wavy red hair frames her face. Makeup: bold black eyeliner, voluminous eyelashes, sculpted eyebrows, luminous and defined skin, and dark, glossy lips. Long, pointy black nails. She wears an oversized black blazer over a floor-length, sheer black tulle skirt, sheer fringed gloves, and high-heeled sandals.\nAround her, dozens of broken mirror shards float in the air, reflecting fragments of her face, eyes, lips, and hands. Some fragments appear blurry in the foreground, others sharp near her silhouette, creating a surreal, dreamlike composition.\nThe lighting is dramatic chiaroscuro: bright flashes at the edges of the glass, deep shadows elsewhere. The atmosphere is symbolic, surreal, and editorial-like. Ultra-detailed cinematic focus, 8K hyperrealism",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-04T12-25-12-226Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-04T12-25-12-226Z.png",
+      "sourceImageUrl": "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+    },
+    {
       "timestamp": "2025-10-04T04-15-44-093Z",
       "prompt": "Create young woman (don’t change original face) an editorial-style cinematic portrait of a young woman with long, tousled black hair flowing naturally, slightly messy yet effortlessly chic. She wears a fitted grey ribbed tank top. The lighting is dramatic, with golden sunlight streaming in from the side, casting bold highlights and deep shadows across her face and shoulders, creating a moody chiaroscuro effect.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-04T04-15-44-093Z.md",
