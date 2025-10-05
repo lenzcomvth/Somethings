@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-05T04-36-52-390Z",
+      "prompt": "Ultra-photorealistic cinematic portrait, 8K sharpness, vertical 9:16. Preserve the exact face identity from the uploaded reference photo — 100% locked facial structure. A beautiful young East Asian woman with fair skin, serene expression, and eyes gently closed, a delicate red bindi on her forehead. Her dark brown hair is elaborately styled into a high bun with intricate braids, adorned with delicate silver chain headpieces and small floral pins. She wears subtle peach-toned makeup with soft lips. She is wearing a flowing, traditional Chinese/fantasy-inspired outfit. The top is a black sheer V-neck crop top with wide, translucent bell sleeves (featuring light beige/cream sections) and golden butterfly appliques and intricate gold web-like embroidery on the bodice. Her high-waisted skirt has a golden inner layer with elaborate patterns, covered by a sheer, light grey/silver tulle outer layer. A black and gold patterned belt with a black ribbon bow and white and black tassels cinches her waist. She wears multiple delicate silver necklaces and long black tassel earrings. A white folding fan with intricate red floral designs rests on the moss-covered log beside her. In a lush, verdant forest. The background features deep green foliage with a soft, dreamy bokeh effect. She is standing near the log, holding the white folding fan open partially in front of her face, obscuring her eyes, a hint of her serene expression visible. Head and shoulders shot, portrait orientation. Soft, warm, diffused golden hour sunlight filtering through the trees, creating a gentle backlit glow around her hair and shoulders, illuminating her face softly. Ethereal, mystical, tranquil, fine art portraiture, cinematic, fantasy fashion aesthetic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-05T04-36-52-390Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-05T04-36-52-390Z.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-05T04-35-09-901Z",
       "prompt": "Create a 4K HD realistic image in a gym set up that looks as if a person [image 1] spotting his friend [image 2] doing full barbell squat. The guy supports his friend by spotting her. It is casual, slightly blurred and imperfectly lit as if a real human took it. Volumetric lighting streaks across the scene with a subtle lens flare. They training in gym while the girl is determined and focused. Keep the faces unchanged, add slight blur and natural color and consistent lighting, in a gym background",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-05T04-35-09-901Z.md",
