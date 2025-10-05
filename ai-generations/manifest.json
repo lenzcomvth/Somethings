@@ -1,6 +1,16 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-05T04-19-04-856Z",
+      "prompt": "Create a 4K HD realistic image in a gym set up that looks as if a person [image 1] spotting his friend [image 2] doing full barbell squat. The guy supports his friend by spotting her. It is casual, slightly blurred and imperfectly lit as if a real human took it. Volumetric lighting streaks across the scene with a subtle lens flare. They training in gym while the girl is determined and focused. Keep the faces unchanged, add slight blur and natural color and consistent lighting, in a gym background",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-05T04-19-04-856Z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-05T04-19-04-856Z.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png",
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-05T04-16-12-628Z",
       "prompt": "Create a 4K HD realistic image in a gym set up that looks as if a person [image 1] spotting his friend [image 2] doing full barbell squat. The guy supports his friend by spotting her. It is casual, slightly blurred and imperfectly lit as if a real human took it. Volumetric lighting streaks across the scene with a subtle lens flare. They training in gym while the girl is determined and focused. Keep the faces unchanged, add slight blur and natural color and consistent lighting, in a gym background",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-05T04-16-12-628Z.md",
