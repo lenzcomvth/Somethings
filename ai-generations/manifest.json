@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-05T05-39-47-611Z",
+      "prompt": "Preserve the face from the uploaded image. An ultra-sharp 8K studio portrait of an elegant and sophisticated East Asian bride. She sits gracefully with a gentle side tilt, her expression calm and serene, exuding refined elegance and artistic charm. She wears a strapless white ball gown made of high-quality satin, delicately pleated and spreading widely around her. She wears no tiara, keeping the look minimalist and modern. Her long black hair is neatly styled in a low bun, revealing her facial features and creating a pure, graceful impression. The background is a bright, minimalist white studio, featuring a classical Greek sculpture and a golden picture frame beside her, adding an artistic and luxurious touch. Strong white light shines from the side, casting soft shadows and well-defined contours that highlight the texture of the satin gown and the curves of her face. The overall mood is elegant, artistic, refined, and poetic. The style reflects fine art wedding photography — a harmoni",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-05T05-39-47-611Z-n052l.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-05T05-39-47-611Z-n052l.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-05T05-27-34-410Z",
       "prompt": "full-body portrait of an elegant Asian woman standing in a misty flower garden at dawn, soft blue-grey fog, rows of lush pink peonies and violet lavender framing the foreground, cinematic soft lighting with gentle rim light, shallow depth of field, pastel color palette; she wears a gradient pink mermaid evening gown (light blush bodice crossing/pleated V-neck, sleeveless, fitted waist, ombré to deep rose skirt with long flowing train touching the ground), gold pointed-toe heels peeking out; hair in a low messy bun with a single red rose on the right side; refined makeup with rosy lips; poised posture with both hands lightly clasped at the lower chest/waist; luxurious gold jewelry set (pendant necklace with round medallion, drop earrings, bracelet/watch on right wrist); photorealistic, high detail, smooth skin tones and fabric texture, fashion editorial, rule of thirds, eye-level, prime 50mm f/2.8 ISO100 1/250s, soft diffusion, 4k",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-05T05-27-34-410Z-5dzfr.md",
