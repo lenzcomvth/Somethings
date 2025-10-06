@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-06T05-28-16-916Z",
+      "prompt": "Transform the uploaded image (preserving the exact facial details) into a surreal conceptual portrait of a young man with a serious expression, holding fragments of broken mirrors floating in midair. Each shard reflects a different emotion — calmness, anger, sadness, contemplation, and joy — all portrayed by the same person. The background should be moody and somber, with cinematic lighting emphasizing the facial features, emotional depth, and psychology, symbolizing fractured identity and inner conflict. Surreal, soft shadows.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-06T05-28-16-916Z-lloo1.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-06T05-28-16-916Z-lloo1.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-05T05-47-47-420Z",
       "prompt": "Portrait of a young woman in modern traditional attire. She sits gracefully on a wooden chair, holding a red folding fan in her hands. She wears a silk halter top with classic floral patterns, paired with a flowing bright red skirt. Her long black hair is braided neatly, and her delicate face retains the same gentle expression as the reference photo.\n\nThe background is set in a traditional Lunar New Year atmosphere, featuring a large vase of red peach blossoms, classic decorative paintings, and a few ornamental red carp figures. The scene is lit with soft studio lighting, in the style of festive New Year artistic photography. Ultra-detailed, 8K quality, realistic and vibrant.\n\nIMPORTANT: Preserve the exact face, identity, and expression from the uploaded reference photo. The face\nMust match perfectly and not be altered”",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-05T05-47-47-420Z-hkwzx.md",
