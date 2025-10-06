@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-06T22-00-11-432Z",
+      "prompt": "Face-Lock: 100% | Outfit-Lock: 100% | Hair-Lock: 100%\nCreate a chest-up, classic studio portrait in monochrome, low-key lighting. Place the subject to the left side of the frame in a 3/4 pose, head slightly turned toward camera, eyes to lens, neutral expression, mouth closed.\nLighting: one large softbox at camera-left 45° slightly above eye level; negative fill on camera-right; deep falloff so the right half of the face and torso fade into shadow, forming a subtle Rembrandt triangle on the shadowed cheek; no rim or background light.\nBackground & mood: seamless black background; add a faint foreground haze/blur on the right edge to create a soft vignette and cinematic atmosphere; high-contrast black-and-white, deep blacks, luminous highlights, fine film grain, gentle bloom on the shirt collar.\nWardrobe: white silk/satin dress shirt with a crisp wide collar, dark textured jacket, and a decorative metallic brooch on the lapel; no tie, no eyeglasses.\nHair: neat hair with soft side-swept bangs (keep style locked).\nFraming & camera: 85mm portrait look at around f/2, eye-level, chest-up crop, negative space to the right.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-06T22-00-11-432Z-zkoyo.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-06T22-00-11-432Z-zkoyo.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-06T21-29-22-401Z",
       "prompt": "A surreal portrait of a young woman dressed in black and white, with a serious, composed expression as she gazes directly at the camera. She is wearing a dark-colored hoodie, with a slightly lighter inner collar visible. The entire image is in grayscale, except for the eyes: a torn paper effect reveals the color around the eyes, showcasing her natural skin tone and vibrant blue eyes. The torn edges of the paper appear realistic, with a slight outward curl. The lighting is soft, studio-like, balanced with no harsh shadows, enhancing the structure of the face. The background is blurred, monochromatic, neutral, and minimal. The mood is mysterious and introspective. High resolution, detailed, and artistic photo manipulation style.\"",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-06T21-29-22-401Z-fyr64.md",
