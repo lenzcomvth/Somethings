@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-06T05-40-41-832Z",
+      "prompt": "A hyper-realistic cinematic editorial portrait of a young man. He stands tall in a dark moody studio,surrounded by soft drifting smoke under a dramatic spotlight.Outfit:Oversized slate-blue luxury suit with wide-leg trousers, paired with a slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-06T05-40-41-832Z-t94ly.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-06T05-40-41-832Z-t94ly.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-06T05-37-56-384Z",
       "prompt": "A cinematic close-up studio portrait of a young man using the exact face and hairstyle from the reference photo. He is wearing a perfectly tailored black suit with a crisp white shirt. He tilts his head slightly upward, eyes lifted toward the light with a thoughtful expression. A single overhead spotlight from above creates a glowing circular pool of light around him. Dramatic god rays fall diagonally from the top left through a thin haze of smoke, softly illuminating his face and highlighting his jawline, while the right side of his face fades into gentle shadow. The background remains completely dark, evoking a mysterious film noir atmosphere. Ultra-detailed, HDR, soft film grain",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-06T05-37-56-384Z-0f6sv.md",
