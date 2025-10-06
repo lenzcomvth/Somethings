@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-06T22-04-25-232Z",
+      "prompt": "Phố đêm, đèn mờ giăng giăng lối\nCảm xúc mở đầu: Cô gái cô đơn bước trong ánh đèn vàng nhòe, lạnh lùng giữa thành phố xa lạ.\n(likeness fidelity 99%, no modification, no beautify/retouch, no mask/veil; nét nhấn vào mặt, ánh sáng điện ảnh)\nMột cô gái hiện đại mang vẻ bất cần, bước một mình giữa con phố đêm sau cơn mưa, ánh đèn đường vàng nhòe phản chiếu trên mặt đường ướt. Mái tóc đuôi ngựa hơi rối, gương mặt lạnh lùng, ánh mắt nhìn xa xăm, vai trần khẽ run trong làn gió đêm. Cô mặc váy lụa đen ôm dáng xẻ tà, khoác nhẹ áo da, giày cao gót mũi nhọn phản sáng dưới đèn. Bên đường là hàng quán khuya mờ ảo, bảng hiệu neon xanh lam và hồng phấn loé sáng. Một tấm biển “Phố Đêm” nhấp nháy giữa sương khói mỏng. Khung cảnh gợi sự lạc lõng giữa vẻ đẹp hào nhoáng.\n\nCamera settings:\n\n{\n\"lens\": \"50mm\",\n\"aperture\": \"f/1.4\",\n\"ratio\": \"16:9\",\n\"focus\": \"sharp on face, shallow DOF\",\n\"lighting\": \"soft yellow streetlights blended with neon blue haze\"\n}\n\nStyle:\n\n{\n\"quality\": \"8K cinematic realism\",\n\"mood\": \"lonely, reflective, sensual, cool-warm contrast\",\n\"color_palette\": [\"amber\", \"blue\", \"black\", \"silver reflections\"],\n\"render\": \"hyperrealistic with cinematic lighting diffusion and bokeh reflections\"\n}",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-06T22-04-25-232Z-06xhf.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-06T22-04-25-232Z-06xhf.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-06T22-02-51-541Z",
       "prompt": "Using my picture in a glamorous\nwoman with long, sleek brunette hair poses\nconfidently against a neutral studio background. She wears a deep-cut black blazer without a shirt, styled in a bold and elegant fashion. Her makeup is striking, with\nflawless skin, defined eyeliner, and dark red\nlipstick. She accessorizes with delicate silver\njewelry: a thin necklace with a drop pendant, a bracelet, and a ring. Her expression is fierce and confident, exuding\nsophistication and power. Professional fashion photography, high resolution, soft studio lighting, editorial style.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-06T22-02-51-541Z-ctzc8.md",
