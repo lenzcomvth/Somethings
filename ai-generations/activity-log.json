@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2025-10-06T20:49:02.427Z",
+    "type": "DELETE",
+    "details": {
+      "albumName": "Normal",
+      "count": 3,
+      "deletedPrompts": [
+        "Using the attached image as a reference for the woman’s face and appearance, create a scene where she is standing in a modern art gallery, viewed from behind, looking at a large oil portrait of herself on the wall. The painting should depict the same woman in a realistic expressive oil style, showing her face and upper body with textured brushstrokes and soft colors. The gallery wall should be clean and white, with gentle spotlighting illuminating the artwork, creating a professional exhibition atmosphere.",
+        "A close-up portrait of a young man standing on the beach, keeping 100% of his original face. He is wearing a simple white shirt with sunglasses tucked onto the collar as a subtle highlight. Behind him, the blue ocean stretches out with gentle waves and sparkling white foam. In the distance along the horizon, faint silhouettes of ships can be seen, while the orange-red sun slowly sets. The sunset light washes over his face, accentuating his features and natural, captivating expression.",
+        "Prompt 1:A cinematic scene inside a bright, modern art studio with white walls and fluorescent lights. A young man is sitting on a wooden chair, holding a paintbrush, painting on a large canvas placed on an easel. The canvas shows a hyper-realistic portrait of the same man who is painting. Use the uploaded portrait photo as reference for his face, hairstyle, and outfit, keeping them exactly the same as in the reference image. The painting on the easel should clearly depict his own portrait — the same face, hairstyle, and outfit as the man outside the canvas. Around him are scattered brushes, vivid paint palettes, and art supplies, creating an authentic artistic atmosphere. The mood is serene, elegant, and creative, with soft cinematic lighting emphasizing the poetic harmony between the painter and his. Prompt 2:A cinematic scene inside a bright, modern art studio with white walls and fluorescent lights. A young woman is sitting on a wooden chair, holding a paintbrush, deeply focused on painting on a large canvas placed on an easel. On the canvas is a hyper-realistic portrait of the same young woman with the paintbrush. Use the uploaded portrait photo as a reference for her face, hairstyle, and outfit; she is wearing stylish white women’s shoes. The painting on the easel must clearly depict her portrait — with the same face, hairstyle, and outfit as the woman painting it. Scattered around are brushes, a vibrant palette, and painting tools, creating an authentic artistic atmosphere. The overall mood is calm, elegant, and creative, with soft cinematic lighting highlighting the poetic harmony between the artist and her self-portrait."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-06T20:47:32.348Z",
     "type": "DELETE",
     "details": {
