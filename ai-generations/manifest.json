@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-06T05-37-56-384Z",
+      "prompt": "A cinematic close-up studio portrait of a young man using the exact face and hairstyle from the reference photo. He is wearing a perfectly tailored black suit with a crisp white shirt. He tilts his head slightly upward, eyes lifted toward the light with a thoughtful expression. A single overhead spotlight from above creates a glowing circular pool of light around him. Dramatic god rays fall diagonally from the top left through a thin haze of smoke, softly illuminating his face and highlighting his jawline, while the right side of his face fades into gentle shadow. The background remains completely dark, evoking a mysterious film noir atmosphere. Ultra-detailed, HDR, soft film grain",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-06T05-37-56-384Z-0f6sv.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-06T05-37-56-384Z-0f6sv.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-06T05-36-29-517Z",
       "prompt": "A cinematic close-up studio portrait of a young man using the exact face and hairstyle from the reference photo. He is wearing a perfectly tailored black suit with a crisp white shirt. He tilts his head slightly upward, eyes lifted toward the light with a thoughtful expression. A single overhead spotlight from above creates a glowing circular pool of light around him. Dramatic god rays fall diagonally from the top left through a thin haze of smoke, softly illuminating his face and highlighting his jawline, while the right side of his face fades into gentle shadow. The background remains completely dark, evoking a mysterious film noir atmosphere. Ultra-detailed, HDR, soft film grain",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-06T05-36-29-517Z-0xo7i.md",
