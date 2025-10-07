@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-07T16-12-02-828Z",
+      "prompt": "Using my photo uploaded, copy face 100%, create a high-fashion magazine cover portrait of a radiant Filipina woman exuding grace, intelligence, and national pride. She stands confidently in a minimalist studio, her long wavy dark hair cascading naturally, her expression calm yet empowering. She wears a couture-style modern Filipiniana blouse made of sheer ivory organza with dramatic puff sleeves and intricate embroidery inspired by the Philippine flag — sweeping rays of red, blue, and gold forming a sunburst motif across her chest, accented with delicate stars. The outfit pairs with tailored satin trousers that emphasize modern femininity and strength. The lighting is soft and luminous, with golden highlights that sculpt her face and bring out the texture of the organza fabric. Background is clean light gray with subtle depth, evoking sophistication and timeless beauty. Elegant, empowering, cinematic tone. Keywords: ultra-realistic, 8K, editorial lighting, filipino pride, heritage meets modernity, soft contrast, perfection in detail.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-12-02-828Z-wskfj.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-07T16-12-02-828Z-wskfj.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-07T16-10-39-094Z",
       "prompt": "\"suggestion\": \"A beautiful young girl (with face, hair similar to my reference image) sits at an outdoor cafe on a European-style cobblestone street, surrounded by warm yellow stone walls and window frames decorated with large roses. She wears a delicate white long-sleeved lace dress, elegant and luxurious style. Natural daylight shines from the street corner, creating a commercial application effect on the skin. The background is a peaceful old street, a few pedestrians in the distance, small signs and French street lamps create a romantic atmosphere. Artistic portrait style, warm light, high detail, natural tones of cream, pastel pink and beige.\",\n\"camera settings\": {\n\"lens\": \"50mm portrait lens\",\n\"aperture\": \"f/2.0\",\n\"ratio\": \"3:2 vertical\",\n\"focus\": \"sharpen the face and upper body of the character, blur the background smooth\",\n\"light\": \"natural daylight, soft warm tones, subtle reflections from stone walls and marble tables\"\n},\n\"style\": {\n\"quality\": \"ultra-realistic 8K\",\n\"mood\": \"romantic, elegant, serene\",\n\"color_palette\": [\"creamy white\", \"light pink\", \"warm beige\", \"light yellow\"],\n\"composition\": \"medium shot from eye level, depth from narrow perspective of European streets\",\n\"render\": \"realistic cinematic style\"\n}\n}",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-10-39-094Z-c58c2.md",
