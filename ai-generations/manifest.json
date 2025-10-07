@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-07T16-10-39-094Z",
+      "prompt": "\"suggestion\": \"A beautiful young girl (with face, hair similar to my reference image) sits at an outdoor cafe on a European-style cobblestone street, surrounded by warm yellow stone walls and window frames decorated with large roses. She wears a delicate white long-sleeved lace dress, elegant and luxurious style. Natural daylight shines from the street corner, creating a commercial application effect on the skin. The background is a peaceful old street, a few pedestrians in the distance, small signs and French street lamps create a romantic atmosphere. Artistic portrait style, warm light, high detail, natural tones of cream, pastel pink and beige.\",\n\"camera settings\": {\n\"lens\": \"50mm portrait lens\",\n\"aperture\": \"f/2.0\",\n\"ratio\": \"3:2 vertical\",\n\"focus\": \"sharpen the face and upper body of the character, blur the background smooth\",\n\"light\": \"natural daylight, soft warm tones, subtle reflections from stone walls and marble tables\"\n},\n\"style\": {\n\"quality\": \"ultra-realistic 8K\",\n\"mood\": \"romantic, elegant, serene\",\n\"color_palette\": [\"creamy white\", \"light pink\", \"warm beige\", \"light yellow\"],\n\"composition\": \"medium shot from eye level, depth from narrow perspective of European streets\",\n\"render\": \"realistic cinematic style\"\n}\n}",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-10-39-094Z-c58c2.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-07T16-10-39-094Z-c58c2.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-07T16-05-29-248Z",
       "prompt": "สร้างภาพถ่ายจากต้นฉบับให้ใบหน้า\nเหมือนรูปที่แนบไปที่สุด ใบหน้าเหมือนต้นฉบับ100% ห้ามเปลี่ยนแปลง\nใบหน้าแต่งจัดเต็ม เพิ่มเสน่ห์แบบธรรมชาติ\nผมยาวสีน้ำตาลลอนบางๆใส่เดรสเกาะอกขนนกยาวสีดำสุดอลัง โชว์ผิวขาวเนียนละเอียด เรียวขายาวสวยงาม\nพร็อบ ต่างหูเพชรเม็ดเล็กๆ สร้อยคองูเพชร ใสแหวนเพชร รองเพชรหรูหรา กระเป๋าlouis vuitton บนโต๊ะ แฟชั่นเก๋ๆไฮคลาสหรูหรา ลักชัวรี่ ข้อมือประดับด้วยกำไลเพชร ในท่ายืนโพสท่าแบบสวยๆ แบล็คกราวน์อยู่ท่ามกลางหอไอเฟล ฝรั่งเศส ตอนกลาง คืน มีแสงไฟอบอุ่นสวยงาม ให้ความรู้สึกละมุน กับแสงและเงาที่สมจริงที่สุด โฟกัสคมที่ใบหน้า ภาพชัดรายละเอียดสูงระดับภาพยนตร์",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-05-29-248Z-xgm8n.md",
