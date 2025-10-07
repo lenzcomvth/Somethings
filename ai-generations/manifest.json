@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-07T00-17-32-693Z",
+      "prompt": "A hyper-realistic photo of a 25-year-old Southeast Asian man sitting calmly on a wooden staircase in the middle of an autumn forest during early morning. The sunlight gently filters through golden and orange leaves, creating a soft, warm glow. He holds a steaming cup of coffee in a travel mug with both hands, close to his chest, enjoying the comforting warmth. He wears a cream sweater, blue jeans, white sneakers, and a black cap. His face shows peaceful contentment as morning mist lingers around the forest. Cinematic composition, soft light rays, shallow depth of field, bokeh background, 8K ultra-realistic photography.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-07T00-17-32-693Z-uizp6.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-07T00-17-32-693Z-uizp6.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-06T22-07-22-793Z",
       "prompt": "Phố vẫn hoang vu, phố buồn người lặng lẽ\nCảm xúc khép lại – cô gái đứng lại nhìn phố, ánh nhìn bất cần nhưng sâu trong là trống trải.\n(likeness fidelity 99%, no modification, no beautify/retouch, no mask/veil; nét nhấn vào mặt, ánh sáng điện ảnh)\n\nPrompt: Cô gái đứng giữa ngã ba khuya, sau lưng là dãy nhà cũ ánh đèn vàng hiu hắt. Ánh sáng từ bảng hiệu ‘Bar Midnight’ phản chiếu trên làn da sáng mịn và đôi môi khẽ mím. Cô cầm chiếc ly rượu nhỏ, ánh đỏ phản lên gò má, ánh mắt lạnh, bất cần, như thách thức cả thế giới. Xung quanh vắng tanh, chỉ còn khói thuốc, mưa bụi, và tiếng nhạc văng vẳng từ xa. Váy da, cổ V khoét sâu ôm dáng màu đen, găng tay da nửa bàn, boots cao cổ bóng. Tư thế nghiêng người, vai trần khẽ hất ra sau, gương mặt rọi sáng giữa không gian trống.\n\nCamera settings:\n\n{\n\"lens\": \"50mm\",\n\"aperture\": \"f/1.4\",\n\"ratio\": \"16:9\",\n\"focus\": \"sharp on face and glass reflection\",\n\"lighting\": \"red bar neon mixed with cool streetlight tones, rim light on hair\"\n}\n\nStyle:\n\n{\n\"quality\": \"8K ultra photorealistic\",\n\"mood\": \"rebellious, cinematic, cold elegance\",\n\"color_palette\": [\"red\", \"black\", \"silver\", \"neon blue\"],\n\"render\": \"high contrast cinematic look, reflections on wet ground, smoke haze diffusion\"\n}",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-06T22-07-22-793Z-uye2c.md",
