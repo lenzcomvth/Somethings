@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-07T16-05-29-248Z",
+      "prompt": "สร้างภาพถ่ายจากต้นฉบับให้ใบหน้า\nเหมือนรูปที่แนบไปที่สุด ใบหน้าเหมือนต้นฉบับ100% ห้ามเปลี่ยนแปลง\nใบหน้าแต่งจัดเต็ม เพิ่มเสน่ห์แบบธรรมชาติ\nผมยาวสีน้ำตาลลอนบางๆใส่เดรสเกาะอกขนนกยาวสีดำสุดอลัง โชว์ผิวขาวเนียนละเอียด เรียวขายาวสวยงาม\nพร็อบ ต่างหูเพชรเม็ดเล็กๆ สร้อยคองูเพชร ใสแหวนเพชร รองเพชรหรูหรา กระเป๋าlouis vuitton บนโต๊ะ แฟชั่นเก๋ๆไฮคลาสหรูหรา ลักชัวรี่ ข้อมือประดับด้วยกำไลเพชร ในท่ายืนโพสท่าแบบสวยๆ แบล็คกราวน์อยู่ท่ามกลางหอไอเฟล ฝรั่งเศส ตอนกลาง คืน มีแสงไฟอบอุ่นสวยงาม ให้ความรู้สึกละมุน กับแสงและเงาที่สมจริงที่สุด โฟกัสคมที่ใบหน้า ภาพชัดรายละเอียดสูงระดับภาพยนตร์",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-05-29-248Z-xgm8n.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-07T16-05-29-248Z-xgm8n.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-07T02-44-29-063Z",
       "prompt": "A mega ultra-realistic, high-range, and cozy portrait, preserving as much as possible the physiognomy and details of the person in the photo, without altering skin tone or age. An elegant and seductive woman is in a luxurious hotel corridor. She is wearing a long, form-fitting burgundy dress that enhances her figure. Her makeup is striking with a glossy finish. The dress has a subtle neckline and a cut that exposes one shoulder. Her medium-length, dark brown hair is wavy, cascading down.\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-07T02-44-29-063Z-cdgev.md",
