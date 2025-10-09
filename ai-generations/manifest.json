@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-09T11-18-06-732Z",
+      "prompt": "Change the style of the uploaded subject and keep the face, create crazy messy hair, 3/4 angle with natural water droplets on the face and bare shoulders showing artistic sun rays.\nHalf of the subject's face is in deep shadow, the other half is brightly lit. Deep black eyes, expressive, intense atmosphere. Cinematic composition, dark background with high contrast between light and dark. Shot in ultra high resolution makes for a dramatic and striking portrait",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-09T11-18-06-732Z-su82m.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-09T11-18-06-732Z-su82m.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-07T16-24-16-545Z",
       "prompt": "Using my photo uploaded, copy face 100%, create a cinematic, ultra-realistic photo of a woman hand-washing clothes outdoors in a peaceful philippine barrio setting. She stands beside a large metal wash basin on a small wooden stand, scrubbing a fabric with her hands. She wears old denim overalls over a old beige long-sleeve shirt, with her hair tied back high in a ponytail. A wicker basket full of laundry sits beside her. Around her, several clotheslines are hung with various garments drying in the sun. The background reveals a landscape of rice fields, nipa hut, etc., under a partly cloudy blue sky. The lighting is soft and natural, evoking a calm, nostalgic, rural atmosphere — reminiscent of a simpler life in the mountains.\nStyle: Cinematic, natural light, 8K detail, depth of field, soft focus background, timeless countryside realism.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-07T16-24-16-545Z-iu2h0.md",

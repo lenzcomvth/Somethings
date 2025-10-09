@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-09T11:18:15.330Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Change the style of the uploaded subject and keep the face, create crazy messy hair, 3/4 angle with natural water droplets on the face and bare shoulders showing artistic sun rays.\nHalf of the subject's face is in deep shadow, the other half is brightly lit. Deep black eyes, expressive, intense atmosphere. Cinematic composition, dark background with high contrast between light and dark. Shot in ultra high resolution makes for a dramatic and striking portrait"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-07T16:24:28.659Z",
     "type": "CREATE",
     "details": {
