@@ -1,12 +1,12 @@
 [
   {
-    "timestamp": "2025-10-10T04:18:19.989Z",
-    "type": "CREATE",
+    "timestamp": "2025-10-10T04:19:09.808Z",
+    "type": "DELETE",
     "details": {
       "albumName": "Normal",
       "count": 1,
-      "prompts": [
-        "a fantasy ethereal goddess walking gracefully against the wind, viewed from a dramatic low angle emphasizing her tall divine presence, wearing a flowing white and gold translucent gown with intricate golden embroidery, the fabric billowing backward in the strong wind, long silvery-white hair flowing and partly covering her face creating a mysterious aura, soft volumetric lighting, realistic reflections and shadows, cinematic atmosphere, glowing highlights, detailed fabric motion, ethereal mist swirling around her, golden particles in the air, delicate jewelry, standing before a massive dark ancient stone wall background, moody contrast lighting, highly detailed realistic texture, (replace face with reference portrait).(deformed, bad anatomy, distorted face, bad proportions, messy fabric, low detail, blurry, watermark, artifacts, broken hands, mutated hands, extra limbs, unrealistic lighting, flat background, bad shadows, overexposed, underexposed, cartoonish, low contrast, fake depth)\n\n"
+      "deletedPrompts": [
+        "Using my photo uploaded, copy face 100%, create a Portrait of a woman with long, wavy golden brown hair and subtle front braids, wearing a soft pink halter dress. Makeup is fresh and luminous — dewy skin, rosy blush, natural pink lips, and softly defined eyes. Lighting is bright and even, creating a smooth, polished look with gentle highlights. Background is softly blurred in neutral pastel tones for a clean, elegant, and feminine beauty editorial style.Take note, copy her face eyes nose lips and mouth."
       ]
     }
   },
