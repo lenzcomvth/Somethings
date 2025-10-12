@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-12T10:56:02.494Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Chân dung studio siêu thực, tỷ lệ 3:4. Một phụ nữ trẻ (khuôn mặt, tóc như ảnh kèm theo) với mái tóc đen rối bù, vài lọn tóc rủ xuống trán. Khuôn mặt cô hơi cúi xuống, ánh mắt nhìn thẳng vào máy ảnh, tạo nên vẻ bí ẩn, mạnh mẽ. Cô mặc một chiếc áo len cổ cao màu đen với những đường gân nổi rõ. cô kéo cổ áo len lên bằng một tay để che một phần khuôn mặt, chỉ để lộ đôi mắt biểu cảm. Ánh sáng studio ấm áp, dịu nhẹ tạo ra bóng mờ nhẹ ở một bên khuôn mặt."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-12T10:39:21.186Z",
     "type": "DELETE",
     "details": {

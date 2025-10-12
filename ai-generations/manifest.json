@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-12T10-55-54-758Z",
+      "prompt": "Chân dung studio siêu thực, tỷ lệ 3:4. Một phụ nữ trẻ (khuôn mặt, tóc như ảnh kèm theo) với mái tóc đen rối bù, vài lọn tóc rủ xuống trán. Khuôn mặt cô hơi cúi xuống, ánh mắt nhìn thẳng vào máy ảnh, tạo nên vẻ bí ẩn, mạnh mẽ. Cô mặc một chiếc áo len cổ cao màu đen với những đường gân nổi rõ. cô kéo cổ áo len lên bằng một tay để che một phần khuôn mặt, chỉ để lộ đôi mắt biểu cảm. Ánh sáng studio ấm áp, dịu nhẹ tạo ra bóng mờ nhẹ ở một bên khuôn mặt.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-12T10-55-54-758Z-u2i3z.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-12T10-55-54-758Z-u2i3z.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-12T04-42-45-676Z",
       "prompt": "Create a rough self-portrait of a young woman, using an uploaded photo as a reference for her face and hair. She holds her ragdoll cat close to her face but still leaves her face exposed. She wears an elegant pale pink silk nightgown with white lace cuffs. She has dark hair, the frame looks messy and imperfect. Natural light from a nearby window creates soft shadows. It feels like disposable film.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-12T04-42-45-676Z-glxcf.md",
