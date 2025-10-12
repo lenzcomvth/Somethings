@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-12T10-59-55-405Z",
+      "prompt": "Belajar Buat Miniatur Yang Baru Kawan2.Walaupun hasilnya tidak sebagus buatan kawan-kawan semunya.\nGunakan foto orang yang diunggah sebagai referensi. Biarkan wajah, gaya rambut, dan identitas keseluruhan asli tidak berubah. Buat render 3D isometrik hiper-realistis dari orang ini sebagai figur miniatur yang duduk di dalam penutup tombol keyboard mekanis transparan, khususnya pada tombol ESC pada keyboard mekanis asli dengan lapisan matte. Miniatur tersebut menghadap kamera, mengenakan hoodie bertekstur yang nyaman, dengan wajah yang disinari lembut oleh layar komputer yang bersinar di depannya. Kelilingi figur tersebut dengan aksesori teknologi miniatur realistis seperti lampu, monitor, kabel, dan cangkir keramik. Bagian dasar penutup tombol berisi tanah, lumut, dan bebatuan dengan tekstur yang detail. Pencahayaan di dalam tutupnya meniru cahaya matahari pagi alami, sementara pantulan dari luar bernuansa dingin. Tulisan \"ESC\" terukir halus di bagian atas tutup tombol yang tembus cahaya. Diambil seolah-olah menggunakan kamera ponsel kelas atas, dengan kedalaman bidang yang dangkal dan tone sinematik.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-12T10-59-55-405Z-o305u.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-12T10-59-55-405Z-o305u.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-12T10-55-54-758Z",
       "prompt": "Chân dung studio siêu thực, tỷ lệ 3:4. Một phụ nữ trẻ (khuôn mặt, tóc như ảnh kèm theo) với mái tóc đen rối bù, vài lọn tóc rủ xuống trán. Khuôn mặt cô hơi cúi xuống, ánh mắt nhìn thẳng vào máy ảnh, tạo nên vẻ bí ẩn, mạnh mẽ. Cô mặc một chiếc áo len cổ cao màu đen với những đường gân nổi rõ. cô kéo cổ áo len lên bằng một tay để che một phần khuôn mặt, chỉ để lộ đôi mắt biểu cảm. Ánh sáng studio ấm áp, dịu nhẹ tạo ra bóng mờ nhẹ ở một bên khuôn mặt.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-12T10-55-54-758Z-u2i3z.md",
