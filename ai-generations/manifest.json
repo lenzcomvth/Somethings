@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-12T04-42-45-676Z",
+      "prompt": "Create a rough self-portrait of a young woman, using an uploaded photo as a reference for her face and hair. She holds her ragdoll cat close to her face but still leaves her face exposed. She wears an elegant pale pink silk nightgown with white lace cuffs. She has dark hair, the frame looks messy and imperfect. Natural light from a nearby window creates soft shadows. It feels like disposable film.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-12T04-42-45-676Z-glxcf.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-12T04-42-45-676Z-glxcf.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-10T04-18-10-645Z",
       "prompt": "a fantasy ethereal goddess walking gracefully against the wind, viewed from a dramatic low angle emphasizing her tall divine presence, wearing a flowing white and gold translucent gown with intricate golden embroidery, the fabric billowing backward in the strong wind, long silvery-white hair flowing and partly covering her face creating a mysterious aura, soft volumetric lighting, realistic reflections and shadows, cinematic atmosphere, glowing highlights, detailed fabric motion, ethereal mist swirling around her, golden particles in the air, delicate jewelry, standing before a massive dark ancient stone wall background, moody contrast lighting, highly detailed realistic texture, (replace face with reference portrait).(deformed, bad anatomy, distorted face, bad proportions, messy fabric, low detail, blurry, watermark, artifacts, broken hands, mutated hands, extra limbs, unrealistic lighting, flat background, bad shadows, overexposed, underexposed, cartoonish, low contrast, fake depth)\n\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-10T04-18-10-645Z-4medo.md",
