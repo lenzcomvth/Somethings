@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-12T12-15-33-500Z",
+      "prompt": "Ultra-realistic cinematic close-up of the same young man from the provided images (keep face 100% identical, no changes) standing confidently in front of a gigantic glowing smartphone screen displaying the Facebook profile upload interface. The screen clearly shows a photo of the same man being uploaded to his Facebook account, with all interface text perfectly spelled and accurate, including profile name and upload details.\nHe is pointing directly at his Facebook account on the massive screen while looking at it attentively, highlighting the “Professional Dashboard” section. Outfit: white t-shirt, black trousers, black shoes, and small gold accessories (watch, chain, or bracelet).\nLighting: cinematic, soft highlights with realistic reflections from the phone screen, slightly moody atmosphere with high dynamic range. Depth of field focused on the man and the phone screen, with gentle background blur.\nStyle: 8K hyper-realism, perfect color tones, crisp detail, lifelike textures, professional photo aesthetic.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-12T12-15-33-500Z-nvbzb.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-12T12-15-33-500Z-nvbzb.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-12T10-59-55-405Z",
       "prompt": "Belajar Buat Miniatur Yang Baru Kawan2.Walaupun hasilnya tidak sebagus buatan kawan-kawan semunya.\nGunakan foto orang yang diunggah sebagai referensi. Biarkan wajah, gaya rambut, dan identitas keseluruhan asli tidak berubah. Buat render 3D isometrik hiper-realistis dari orang ini sebagai figur miniatur yang duduk di dalam penutup tombol keyboard mekanis transparan, khususnya pada tombol ESC pada keyboard mekanis asli dengan lapisan matte. Miniatur tersebut menghadap kamera, mengenakan hoodie bertekstur yang nyaman, dengan wajah yang disinari lembut oleh layar komputer yang bersinar di depannya. Kelilingi figur tersebut dengan aksesori teknologi miniatur realistis seperti lampu, monitor, kabel, dan cangkir keramik. Bagian dasar penutup tombol berisi tanah, lumut, dan bebatuan dengan tekstur yang detail. Pencahayaan di dalam tutupnya meniru cahaya matahari pagi alami, sementara pantulan dari luar bernuansa dingin. Tulisan \"ESC\" terukir halus di bagian atas tutup tombol yang tembus cahaya. Diambil seolah-olah menggunakan kamera ponsel kelas atas, dengan kedalaman bidang yang dangkal dan tone sinematik.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-12T10-59-55-405Z-o305u.md",
