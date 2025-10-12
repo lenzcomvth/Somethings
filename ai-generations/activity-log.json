@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-12T12:23:15.134Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Sử dụng 100% khuôn mặt, màu da và kiểu tóc của hai nhân vật trong ảnh đã tải lên làm tham chiếu danh tính, giữ nguyên hoàn toàn đặc điểm khuôn mặt, không thay đổi cấu trúc, biểu cảm tự nhiên hay tông da.\nThiết kế ảnh chia thành 4 khung hình đều nhau (bố cục 2x2). Trong mỗi khung hình là hai nhân vật nam và nữ trong cùng một khung cảnh ngoài trời trên bãi cỏ xanh, ánh sáng tự nhiên mềm mại, nhưng mỗi khung hình thể hiện biểu cảm vui vẻ khác nhau — tươi cười, ôm nhau, cười lớn, nhìn nhau hạnh phúc — không trùng lặp cảm xúc giữa các khung hình.\n\nBối cảnh: Cảnh ngoài trời buổi chiều, ánh sáng golden hour vàng nhẹ chiếu từ phía sau, nền là bãi cỏ xanh mượt và hàng cây mờ xa, tạo cảm giác lãng mạn và tự nhiên.\nTrang phục:\nNữ: mặc đầm trắng đơn giản dáng midi, chất liệu lụa hoặc cotton, phong cách nhẹ nhàng, tóc buông tự nhiên hoặc cài băng đô trắng, cầm máy ảnh cổ điển nhỏ.\nNam: mặc vest trắng kết hợp áo sơ mi trắng, không đeo cà vạt, phong cách tự nhiên và tinh tế, tay choàng nhẹ quanh eo bạn nữ.\nTư thế và biểu cảm mỗi khung hình:\n\n1️⃣ Cả hai cùng cười lớn khi cô gái giơ máy ảnh lên chụp.\n\n2️⃣ Cô gái cười rạng rỡ, chú rể ôm nhẹ từ phía sau.\n\n3️⃣ Cả hai nghiêng đầu cười, nhìn nhau đầy tình cảm.\n\n4️⃣ Cô gái nắm máy ảnh, chú rể cười nhìn cô, ánh mắt hạnh phúc.\nPhong cách ảnh: Ảnh couple pre-wedding phong cách Hàn Quốc, ánh sáng tự nhiên, trong trẻo, nắng chiều nhẹ, tông màu xanh – trắng – vàng pastel, ánh sáng bokeh mềm, dịu, chân thực, photorealistic, 8K, cinematic lighting, thể hiện cảm xúc vui tươi, năng động, lãng mạn của cặp đôi trong khung cảnh tự nhiên mùa hè."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-12T12:16:43.916Z",
     "type": "CREATE",
     "details": {
