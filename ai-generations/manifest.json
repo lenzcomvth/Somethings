@@ -1,6 +1,16 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-12T12-16-35-253Z",
+      "prompt": "Sử dụng 100% khuôn mặt, màu da và kiểu tóc của hai nhân vật trong ảnh đã tải lên làm tham chiếu danh tính, giữ nguyên đặc điểm tự nhiên, không thay đổi cấu trúc khuôn mặt hay biểu cảm gốc.\nThiết kế ảnh chia thành 4 khung hình đều nhau (bố cục 2x2), trong mỗi khung là cặp đôi nam – nữ người châu Á với biểu cảm khác nhau ở từng khung, thể hiện cảm xúc tự nhiên và vui vẻ: cười tươi, nhìn nhau, chụp ảnh, trêu đùa.\n\nBối cảnh: Ngoài trời, cạnh con suối nhỏ, dưới tán cây xanh mát, ánh sáng nhẹ nhàng buổi sáng hoặc chiều, tạo cảm giác thơ mộng và yên bình.\nTrang phục:\nNam: mặc vest trắng, áo sơ mi trắng, quần tây đen, giày nâu, tay cầm máy ảnh film có dây đeo đỏ.\nNữ: mặc váy trắng tinh khôi, tóc xõa tự nhiên, tay cầm bó hoa nhỏ màu trắng, giày boot đen ngắn cổ.\nCảm xúc: Mỗi khung thể hiện cảm xúc riêng —\n\n1️⃣ Cười nhìn nhau.\n\n2️⃣ Cùng chụp ảnh.\n\n3️⃣ Cô gái nhìn máy ảnh, chàng trai ngắm cô.\n\n4️⃣ Cả hai cùng cười hạnh phúc, ánh sáng vàng nhẹ phủ lên khuôn mặt.\nPhong cách ảnh: concept couple Hàn Quốc ngoài trời, ánh sáng tự nhiên golden hour, tông màu trắng – xanh pastel nhẹ, ánh sáng mềm, bokeh tự nhiên, photorealistic, 8K, cinematic lighting, thể hiện không khí trong trẻo, ấm áp và lãng mạn của một buổi hẹn hò nhẹ nhàng.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-12T12-16-35-253Z-tferg.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-12T12-16-35-253Z-tferg.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Male.png",
+        "https://raw.githubusercontent.com/lenzcomvth/ImageLibrary/main/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-12T12-15-33-500Z",
       "prompt": "Ultra-realistic cinematic close-up of the same young man from the provided images (keep face 100% identical, no changes) standing confidently in front of a gigantic glowing smartphone screen displaying the Facebook profile upload interface. The screen clearly shows a photo of the same man being uploaded to his Facebook account, with all interface text perfectly spelled and accurate, including profile name and upload details.\nHe is pointing directly at his Facebook account on the massive screen while looking at it attentively, highlighting the “Professional Dashboard” section. Outfit: white t-shirt, black trousers, black shoes, and small gold accessories (watch, chain, or bracelet).\nLighting: cinematic, soft highlights with realistic reflections from the phone screen, slightly moody atmosphere with high dynamic range. Depth of field focused on the man and the phone screen, with gentle background blur.\nStyle: 8K hyper-realism, perfect color tones, crisp detail, lifelike textures, professional photo aesthetic.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-12T12-15-33-500Z-nvbzb.md",
