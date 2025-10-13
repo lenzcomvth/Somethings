@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2025-10-13T14:55:49.501Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Lonely-on-the-sofa",
+      "count": 4,
+      "prompts": [
+        "8K surreal cinematic horizontal portrait, wide-angle, 100% face lock. Full-body view of a woman reclining on a soft pastel sofa, pillow under head, holding a book, looking directly at the viewer. Cream camisole, loose natural hair. Sunlight streams through a window, illuminating her face, body, and sofa, casting soft shadows. Wide composition shows full sofa, cushions, room décor, blurred pastel background, golden morning glow, subtle film grain, intimate and cozy lifestyle scene.",
+        "8K surreal cinematic horizontal portrait, wide-angle, 100% face lock. Woman reclining on pastel sofa, pillow supporting head, reading a book, looking directly at the camera. Cream camisole, natural loose hair, sunlight streaming through window, softly highlighting her facial features and shoulders. Composition includes sofa, cushions, blurred pastel room background, warm golden tones, subtle film grain, serene and cozy morning vibe.\n",
+        "8K cinematic surreal horizontal portrait, wide-angle, 100% face lock. Woman on pastel sofa with pillows, reading a book, making direct eye contact with the viewer. Cream camisole, loose hair catching sunlight. Wide view includes sofa, small side table with cup of coffee, leafy window background softly blurred, warm golden cinematic lighting, film grain, relaxed morning lifestyle vibe.\n",
+        "8K surreal cinematic horizontal wide-angle portrait, 100% face lock. Woman lying on a soft pastel sofa, pillow under head, holding an open book, looking straight at the viewer. Cream camisole, loose hair, sunlight streaming through window. Wide composition captures surrounding books, small potted plants, pastel décor, blurred background, golden morning light, subtle film grain, intimate and spacious cinematic vibe.\n"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-12T19:14:57.041Z",
     "type": "CREATE",
     "details": {
