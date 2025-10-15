@@ -1,5 +1,17 @@
 [
   {
+    "timestamp": "2025-10-15T06:32:09.794Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 2,
+      "prompts": [
+        "สร้างภาพผู้หญิงคนนี้จากไฟล์ที่แนบมา ใช้เฉพาะใบหน้า ดวงตา จมูก ปากเหมือนเดิม 100% ให้เธอใส่ชุด มีท่าทางและมีแบ็คกราวน์ตามพร้อมท์คำสั่งนี้\nClose up. A beautiful, fair-skinned bohemian woman with an oval face and long, wavy brown hair flowing in the wind. She is happily dancing in a sunlit forest, barefoot, holding a tambourine. She is wearing It resembles a belly dancing, a beige-brown crop top with hanging beads and accessories all over her body with a beige- brown flowing with a ruffled edge skirt that is twirling around her and a decorated top with intricate jewelry. Her expression is joyful and carefree. The background is a serene forest with a dirt path and dappled sunlight filtering through the trees. The art style is hyper-realistic and highly detailed, with vibrant colors and a magical, ethereal atmosphere, best photograph --ar 9:16\nNagative prompt: pants",
+        "Use the exact real face from the attached photo, 100% unchanged. A vertical, medium-close-up shot of a beautiful mermaid emerging from the sea. The subject looks directly into the lens with an intense, captivating expression, as seawater splashes around. White foam and dynamic, splashing waves surge, covering the lower body and creating countless sparkling droplets in the air and on the skin. The mermaid's long, vibrant fiery red hair is tousled by the wind and water, creating a strong contrast with the cool slate gray and jade green tones of the ocean. Natural lighting is overcast/stormy daylight, evenly illuminating the face while maintaining depth and drama. Soft shadows contour the body's curves, highlighting the scale texture on the bra top and lower body. The color palette is dominated by the stark contrast between the hot tone of the hair and the cool tones of the environment. [The mermaid wears a scale-shaped bra top in deep jade green, with a dark green tail. The fiery red hair is long, messy, and soaking wet]. The photographic style is surreal mythological photography with a dramatic, action-packed element. Shot on a Canon EOS 1D X Mark III camera with a Canon EF 85mm f/1.2L III USM lens, using a high shutter speed to freeze the water splash. 2:3 aspect ratio, 8K quality, photorealistic, ultra detail."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-15T06:27:08.975Z",
     "type": "CREATE",
     "details": {
