@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T11-21-14-271Z",
+      "prompt": "Generate an image of beautiful woman [exactly look like me on the reference photo] with long flowing hair wearing a strapless dress made entirely of autumn leaves in rich orange, rust, and gold hues. She is sitting on a wooden bench under an umbrella covered in large autumn leaves. The background is a softly blurred autumn park with fall foliage. Hyperrealistic style, dramatic lighting.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T11-21-14-271Z-1f0da.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T11-21-14-271Z-1f0da.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female2.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T10-28-46-340Z",
       "prompt": "Medium shot of an Asian man (use reference face 100%, same facial structure and expression as the uploaded image), wearing a black wool coat, standing still in thick fog while looking upward.\nA murder of crows flies overhead in dark silhouettes across a pale grey-green sky.\nCaptured from a low angle using a 50mm lens, medium depth of field — the man’s face is softly focused against the blurred mist and moving birds.\nLighting is soft and diffused through the fog, creating a cool, desaturated (−50%) color tone.\nThe atmosphere is moody, cinematic, and dark fantasy — evoking loneliness and quiet strength within a haunting, ethereal world.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-28-46-340Z-oce7s.md",
