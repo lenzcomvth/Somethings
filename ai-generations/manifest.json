@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T10-02-23-060Z",
+      "prompt": "Create a highly realistic full-body portrait of a beautiful woman standing confidently in a modern minimalist kitchen with natural morning light coming through large windows.\nShe is wearing a black string bikini, a wide-brimmed black hat, and knee-high black leather boots with gold buckles.\nHer pose is elegant and confident — one hand resting lightly on the kitchen counter, the other hand touching her waist.\nHer facial expression is calm yet alluring, with a soft natural gaze.\nThe lighting should highlight her skin tone and create subtle warm reflections on the wooden kitchen furniture.\nThe background shows a bright, modern kitchen with built-in cabinets, a cup on the counter, and neutral beige and wood tones.\nComposition — cinematic style, realistic 8K photography, soft focus background, shallow depth of field, natural shadows, warm color grading.\nStyle — ultra-realistic, fashion editorial, elegant and classy mood, 50mm lens, f/4, photography.\nKeywords: ultra-realistic, cinematic light, natural morning light, minimalist interior, elegant woman, soft shadows, depth of field, high detail skin texture, realistic proportions, modern lifestyle.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-02-23-060Z-x24y6.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T10-02-23-060Z-x24y6.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female2.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T09-43-36-035Z",
       "prompt": "Create a hyper-realistic daytime image of me holding a beer mug together with Avril Lavigne and Angelina Jolie, both of us chatting and facing the camera with relaxed smiles. The scene takes place on a lively Philippine street, with sari-sari stores, colorful jeepneys, and parked tricycles in the background. The street is bathed in natural sunlight, with warm, bright colors, pedestrians casually passing by, and details like hanging wires, signboards, and street vendors visible. Capture realistic skin textures, natural clothing folds, and crisp street details to make it feel truly authentic to Filipino street culture.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T09-43-36-035Z-0hbya.md",
