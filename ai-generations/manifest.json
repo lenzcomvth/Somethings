@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T05-36-25-294Z",
+      "prompt": "Create an ultra-photorealistic portrait of a stunningly attractive, powerful, and muscular man, standing confidently indoors.\nUse the uploaded face reference exactly — preserve 100% of facial likeness, including skin tone, bone structure, expression, and lighting direction. Do not modify or stylize the face.\n\nScene Description:\nThe man is wearing a black suit with an unbuttoned black shirt, exuding confidence and effortless charm.\nHe stands naturally with both hands in his pockets, his posture relaxed but powerful.\nHis dark hair is slightly tousled and tied in a loose bun, emphasizing his sharp jawline and intense dark eyes that reflect depth and charisma.\n\nBackground:\nSet in an elegant club privé — a luxurious, dimly lit interior with dark wood tones and soft reflections of gold and amber light.\nSoft natural lighting falls across his face and suit, producing gentle highlights that define his features and the fabric texture of his clothing.\n\nCamera & Technical Style:\nCaptured using Canon EOS R5, in a fashion editorial photography style.\nLighting: soft ambient, with cinematic tone mapping.\nDetails: sharp fabric texture, precise skin enhancement, and luxury color grading to create a high-end magazine look.\nDepth: shallow depth of field, background softly blurred for a cinematic portrait effect.\nAspect ratio: --ar 9:16\n\nMood & Tone:\nA sophisticated, modern, and commanding masculine presence — where power meets elegance.\nThe portrait feels intimate yet aspirational, like a fashion editorial cover infused with cinematic realism and natural charisma.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T05-36-25-294Z-t13ss.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T05-36-25-294Z-t13ss.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/Male1.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T05-34-45-048Z",
       "prompt": "A beautiful Indonesian woman, A bold Odalisca style outfit for the desert. Stand confidently beside the camel with a subtle trace of imagination. Flowing, shimmering fabrics in gold tones suit her style. Combined with gold accents and signature accessories, the Odalisca Tiara head accessory shows off your clear ankles and hips.\nSun-drenched sand dunes behind him in golden hour light. Editorial film sense, realistic portraits, ultra high resolution and bold fashion combine luxury, fantasy and glamor in the daring desert.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T05-34-45-048Z-0k0ce.md",
