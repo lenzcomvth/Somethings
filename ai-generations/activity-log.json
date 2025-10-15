@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-15T05:33:47.737Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Create an 8K ultra-realistic cinematic portrait, a powerful and emotional scene showing a handshake between a live-action 44-year-old Eastern European man (use the uploaded face exactly, maintain 100% likeness, do not alter or stylize the facial features) and Majin Vegeta, rendered in hyper-realistic live-action detail.\n\nScene Composition:\nThe man stands shirtless on the left — his face identical to the uploaded reference, seamlessly blended with a muscular, battle-worn physique. His skin glistens with sweat, showing subtle veins and defined anatomy. A few light scars stretch across his chest and shoulders, telling stories of resilience and past battles. His short dark-blond hair is slicked back slightly by wind and heat, while his eyes radiate determination and quiet respect toward Vegeta.\n\nOpposite him, Majin Vegeta stands on the right — his golden, spiky Super Saiyan hair glowing fiercely, with the signature “M” mark burned into his forehead. His blue battle suit appears rendered in real fabric textures — slightly torn, with scorch marks and traces of ash, giving a realistic live-action essence. His face carries that iconic mix of pride, defiance, and respect, eyes glowing faintly with golden energy.\n\nPose & Interaction:\nThey grasp each other’s forearms tightly in a firm warrior handshake — a symbol of mutual respect and strength. Around their clasped arms, two auras intertwine:\n\nFrom the man — a deep electric blue aura, faintly pulsing with raw energy.\n\nFrom Vegeta — golden lightning, flickering and wrapping around them both.\nThe fusion of these two energies creates a dramatic burst of light between them, scattering gold and blue embers across the air.\n\nBackground & Atmosphere:\nBehind them lies a dark ethereal battlefield sky, filled with swirling mist, distant lightning, and floating golden particles. The environment feels both otherworldly and grounded, evoking the final moments after an epic duel.\nThe cinematic lighting accentuates their physiques — rim lights emphasize muscle tone, armor reflections, and the texture of their skin and suits.\nThe camera angle captures them at chest level, perfectly centered, both looking directly toward the lens, acknowledging the viewer as if they, too, were part of this world of warriors.\n\nMood & Theme:\nAn intense, epic fusion of reality and legend — symbolizing mutual honor and strength. The shot embodies Dragon Ball Z: Majin Saga energy, translated into breathtaking live-action 8K hyper-realism, merging anime mythology and human realism into a single unforgettable cinematic frame."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-15T05:32:00.000Z",
     "type": "CREATE",
     "details": {
