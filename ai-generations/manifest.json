@@ -1,6 +1,16 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T10-17-45-768Z",
+      "prompt": "Một chiếc bàn nhỏ đặt dựa vào bức tường trắng trơn, hai bên là hai chiếc ghế gỗ. Không thấy bóng người, nhưng bóng người trên tường in hình một người đàn ông đang ngồi đối diện một người phụ nữ , tay nâng ly cà phê trắng, như thể đang tận hưởng một buổi gặp gỡ ấm áp. Giữa bàn là một chiếc bình trong suốt cắm ba bông hoa, phản chiếu bóng hình tuyệt đẹp lên tường. Một người đàn ông ngồi một mình trên chiếc ghế bên trái, bắt chước bóng của chính mình trong hình phản chiếu. Một sắc thái của nỗi buồn hoài niệm, khao khát và u ám. Ánh nắng chiều rọi vào từ phía trên bên trái, tạo nên hiệu ứng ấn tượng với góc sáng sắc nét, xiên xiên. Không gian tĩnh lặng, nên thơ và đầy ẩn ý.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-17-45-768Z-q1djk.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T10-17-45-768Z-q1djk.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female1.jpg",
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T10-16-11-138Z",
       "prompt": "Hãy ghép cho tôi một tấm ảnh cho 2 người này thành tư thế đứng thoải mái, thật ngầu bên trong thang máy hiện đại với tường kim loại phản chiếu. Người con gái mặc trang phục full đen : một chiếc áo blazer hở ngực, chân váy ngắn, đi boots cao cổ cá tính, đeo mắt kính mát full đen như idol nữ; tóc cô gái được tạo kiểu phù hợp với trang phục + phụ kiện toát lên vẻ cá tính và bí ấn. Đang cầm 1 ly cà phê vỏ trắng mang đi. Phong cách sexy, cá tính có chút bí ẫn. Người con trai mặc áo sơ mi đen không cài vài cúc, mặc quần dài đen không bó sát, đeo dây chuyền hiện đại và mắt kính mát full đen cho nam trông ngầu và sang trọng. Chỉnh cho ảnh có đủ ánh sáng mờ ảo đến từ đèn neon tạo hiệu ứng tinh tế, có ánh sáng tập trung 2 nhân vật chính nhưng thật rõ nét. Giữ 100% từng nét mặt của cô gái và chàng trai và không được thay đổi bất kì gì. Chàng trai dắt theo chó sói đen mắt đỏ đang ngồi với vẻ mặt bí ẩn.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-16-11-138Z-sut0e.md",
