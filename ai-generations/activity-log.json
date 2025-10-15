@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-15T10:16:20.386Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Hãy ghép cho tôi một tấm ảnh cho 2 người này thành tư thế đứng thoải mái, thật ngầu bên trong thang máy hiện đại với tường kim loại phản chiếu. Người con gái mặc trang phục full đen : một chiếc áo blazer hở ngực, chân váy ngắn, đi boots cao cổ cá tính, đeo mắt kính mát full đen như idol nữ; tóc cô gái được tạo kiểu phù hợp với trang phục + phụ kiện toát lên vẻ cá tính và bí ấn. Đang cầm 1 ly cà phê vỏ trắng mang đi. Phong cách sexy, cá tính có chút bí ẫn. Người con trai mặc áo sơ mi đen không cài vài cúc, mặc quần dài đen không bó sát, đeo dây chuyền hiện đại và mắt kính mát full đen cho nam trông ngầu và sang trọng. Chỉnh cho ảnh có đủ ánh sáng mờ ảo đến từ đèn neon tạo hiệu ứng tinh tế, có ánh sáng tập trung 2 nhân vật chính nhưng thật rõ nét. Giữ 100% từng nét mặt của cô gái và chàng trai và không được thay đổi bất kì gì. Chàng trai dắt theo chó sói đen mắt đỏ đang ngồi với vẻ mặt bí ẩn."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-15T10:14:08.980Z",
     "type": "CREATE",
     "details": {
