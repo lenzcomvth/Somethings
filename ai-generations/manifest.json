@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T11-31-02-714Z",
+      "prompt": "Create a hyper-realistic Ultra HD, powerful, cinematic portrait a dimly lit, opulent room, a man (use uploaded image don't alter the face) in a white luxury suit sits in a leather armchair, holding a cigar. Behind him, three men in dark suits stand guard, each holding an assault rifle. A black panther sits at the feet of the man in the armchair. On a marble table in the foreground, there's a bottle of Macallan 25, a glass of whiskey, and a bucket of ice. The room is decorated with dark wood paneling.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T11-31-02-714Z-b6jm9.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T11-31-02-714Z-b6jm9.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/HungChuaRemake.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T11-23-58-364Z",
       "prompt": "Generate an image of beautiful woman [exactly look like me on the reference photo] with long flowing hair wearing a strapless dress made entirely of autumn leaves in rich orange, rust, and gold hues. She is sitting on a wooden bench under an umbrella covered in large autumn leaves. The background is a softly blurred autumn park with fall foliage. Hyperrealistic style, dramatic lighting.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T11-23-58-364Z-d7qum.md",
