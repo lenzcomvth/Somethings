@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T05-29-11-196Z",
+      "prompt": "High-fashion editorial photograph, full-length portrait of a striking young woman with tousled, honey-blonde hair and piercing, sapphire-blue eyes, embodying a Wild West aesthetic, her skin a radiant, sun-kissed complexion. She wears impeccably tailored, worn, beige leather leggings with flared legs, featuring intricate, hand-stitched fringe detailing and high slits, paired with a wide, stained, ivory-white shirt artfully tied in a knot beneath her bust, sleeves casually rolled up to reveal toned forearms. A prominent, antique bronze sheriff's star brooch adorns her left chest, above a well-worn, dark brown leather cowboy hat crowning her head. Classic, hand-tooled western boots reaching mid-calf, embellished with elegant, tribal-pattern embroidery and set on medium, wooden heels, complement her attire. Crossed, wide leather belts cinch her low-slung, hand-forged hip holsters, from which the ivory handles of polished silver revolvers are visible, as she strides purposefully down a dusty, central street of a weathered, frontier town",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T05-29-11-196Z-3ypcz.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T05-29-11-196Z-3ypcz.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-13T15-02-59-381Z",
       "prompt": "Cô gái trẻ cầm bó hoa hồng cam, đứng bên hồ nước trong khung cảnh mùa thu. Cô mặc váy dài bằng lụa satin màu be sáng, dáng ôm nhẹ tôn đường cong nữ tính. Tóc dài uốn sóng tự nhiên, bay nhẹ trong gió. Ánh sáng chiều vàng tạo cảm giác ấm áp và lãng mạn. Phông nền có cành cây khô và mặt hồ phản chiếu ánh nắng. Phong cách chụp chân dung nghệ thuật, tông màu vintage nhẹ, độ phân giải cao 8K.\n\nGiữ nguyên khuôn mặt, màu da và kiểu tóc từ ảnh gốc không thay đổi.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-13T15-02-59-381Z-liy56.md",
