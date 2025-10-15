@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T10-19-21-792Z",
+      "prompt": "Medium shot Asian man 25 wavy hair, black wool coat, standing in fog looking up. Murder of crows flying overhead silhouettes, pale grey-green sky, low angle, 50mm medium DOF, cool desaturated 50%, moody atmospheric, dark fantasy.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-19-21-792Z-bcfe8.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T10-19-21-792Z-bcfe8.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/Male.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T10-17-45-768Z",
       "prompt": "Một chiếc bàn nhỏ đặt dựa vào bức tường trắng trơn, hai bên là hai chiếc ghế gỗ. Không thấy bóng người, nhưng bóng người trên tường in hình một người đàn ông đang ngồi đối diện một người phụ nữ , tay nâng ly cà phê trắng, như thể đang tận hưởng một buổi gặp gỡ ấm áp. Giữa bàn là một chiếc bình trong suốt cắm ba bông hoa, phản chiếu bóng hình tuyệt đẹp lên tường. Một người đàn ông ngồi một mình trên chiếc ghế bên trái, bắt chước bóng của chính mình trong hình phản chiếu. Một sắc thái của nỗi buồn hoài niệm, khao khát và u ám. Ánh nắng chiều rọi vào từ phía trên bên trái, tạo nên hiệu ứng ấn tượng với góc sáng sắc nét, xiên xiên. Không gian tĩnh lặng, nên thơ và đầy ẩn ý.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-17-45-768Z-q1djk.md",

@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-15T10:19:30.515Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Medium shot Asian man 25 wavy hair, black wool coat, standing in fog looking up. Murder of crows flying overhead silhouettes, pale grey-green sky, low angle, 50mm medium DOF, cool desaturated 50%, moody atmospheric, dark fantasy."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-15T10:17:54.650Z",
     "type": "CREATE",
     "details": {
