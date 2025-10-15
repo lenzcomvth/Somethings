@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T10-23-00-561Z",
+      "prompt": "Medium shot Asian man 25 wavy hair, black wool coat, standing in fog looking up. Murder of crows flying overhead silhouettes, pale grey-green sky, low angle, 50mm medium DOF, cool desaturated 50%, moody atmospheric, dark fantasy.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-23-00-561Z-bo5yb.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T10-23-00-561Z-bo5yb.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/HungChuaRemake.png"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T10-19-21-792Z",
       "prompt": "Medium shot Asian man 25 wavy hair, black wool coat, standing in fog looking up. Murder of crows flying overhead silhouettes, pale grey-green sky, low angle, 50mm medium DOF, cool desaturated 50%, moody atmospheric, dark fantasy.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T10-19-21-792Z-bcfe8.md",
