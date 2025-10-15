@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-15T17-49-48-077Z",
+      "prompt": "Generate an image of beautiful woman [exactly look like me on the reference photo] with long flowing hair wearing a strapless dress made entirely of autumn leaves in rich orange, rust, and gold hues. She is sitting on a wooden bench under an umbrella covered in large autumn leaves. The background is a softly blurred autumn park with fall foliage. Hyperrealistic style, dramatic lighting.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-15T17-49-48-077Z-0pqff.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-15T17-49-48-077Z-0pqff.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-15T11-35-12-143Z",
       "prompt": "Create a hyper-realistic Ultra HD, powerful, cinematic portrait set in a dimly lit, opulent room. A man (use uploaded image, do not alter the face) in a white luxury suit sits in a leather armchair, holding a cigar. Behind him, three men in dark suits stand guard, each holding an assault rifle.\n\nAt the man’s feet lies a large tiger, its fur glistening under the soft ambient light, exuding strength and dominance.\n\nOn a marble table in the foreground, there’s a bottle of Macallan 25, a glass of whiskey, and a bucket of ice. The room is decorated with dark wood paneling, adding to the atmosphere of luxury and authority.\n\nUltra-photorealistic, cinematic lighting, shallow depth of field, 8K resolution, dramatic tone.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-15T11-35-12-143Z-hfxci.md",
