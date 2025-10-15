@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-15T11:33:30.023Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Create a hyper-realistic Ultra HD, powerful, cinematic portrait set in a dimly lit, opulent room. A man (use uploaded image, do not alter the face) in a white luxury suit sits in a leather armchair, holding a cigar. Behind him, three men in dark suits stand guard, each holding an assault rifle.\n\nAt the man’s feet lies a large tiger, its fur glistening under the soft ambient light, exuding strength and dominance.\n\nOn a marble table in the foreground, there’s a bottle of Macallan 25, a glass of whiskey, and a bucket of ice. The room is decorated with dark wood paneling, adding to the atmosphere of luxury and authority.\n\nUltra-photorealistic, cinematic lighting, shallow depth of field, 8K resolution, dramatic tone."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-15T11:31:11.554Z",
     "type": "CREATE",
     "details": {
