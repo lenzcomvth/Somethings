@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T20-24-47-151Z",
+      "prompt": "Create a photo of a woman (using the reference photo for this upload) with long black and brown hair standing on a white staircase. Butterfly long hair Slightly messy, big chest, Hourglass body. His lips parted slightly. He was sitting on the stairs with his right leg raised, his right elbow on his knee, and his fingers in the hair on his chest. He was bathed in warm golden sunlight, which cast long shadows on the pale white wall behind him. She wore a white tank top with a dark blue denim jacket, and dark blue wide-leg jeans. Don't change my features. Vintage cinematic style. The face is clearly not blurry. Professional camera quality, HDR, 4K\n",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T20-24-47-151Z-1h9c5.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T20-24-47-151Z-1h9c5.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T20-23-44-327Z",
       "prompt": "Create: a hyper-realistic portrait photo of a stunning Asian woman (use uploaded foto) lying gracefully on a luxury white yacht deck in tropical scenery.\nShe has long, wavy brown hair flowing gently in the breeze, smooth radiant skin, and a natural elegant look.\nShe wears a minimal white string bikini and delicate jewelry — a silver necklace and bracelet.\nSoft natural sunlight illuminates her face and body, creating a warm gentle glow.\nBackground shows emerald turquoise sea water and tall limestone cliffs covered with lush green tropical vegetation.\nCamera angle eye-level, cinematic composition, 85mm lens, bokeh background, ultra sharp details, high resolution 8K, natural color grading.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T20-23-44-327Z-bmc2n.md",
