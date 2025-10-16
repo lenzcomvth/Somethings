@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T20-26-16-254Z",
+      "prompt": "Using my photo uploaded, copy face 100%, create a high-fashion studio editorial of woman (use upload photo) with long wavy hair, big breast, wearing a spaghetti strap backless white bodysuit and loose-fit high-waisted blue jeans, soft natural makeup with coral lips and flushed cheeks, casual barefoot, sitting and lounging in various relaxed poses on white seamless background, airy and modern aesthetic, soft lighting with subtle shadows, cinematic realism, emotional expression, fashion magazine shootstyle, 4K ultra-detailed skin texture, fashion photography composition, Fujifilm Pro 400H tones, light and shadow balance, studio minimalism, raw and feminine elegance, portrait editorial photography –ar 4:5 –v 6 –style raw –q 2 –lighting softbox –s 450 –c 15.\n",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T20-26-16-254Z-4knaj.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T20-26-16-254Z-4knaj.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T20-24-47-151Z",
       "prompt": "Create a photo of a woman (using the reference photo for this upload) with long black and brown hair standing on a white staircase. Butterfly long hair Slightly messy, big chest, Hourglass body. His lips parted slightly. He was sitting on the stairs with his right leg raised, his right elbow on his knee, and his fingers in the hair on his chest. He was bathed in warm golden sunlight, which cast long shadows on the pale white wall behind him. She wore a white tank top with a dark blue denim jacket, and dark blue wide-leg jeans. Don't change my features. Vintage cinematic style. The face is clearly not blurry. Professional camera quality, HDR, 4K\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T20-24-47-151Z-1h9c5.md",
