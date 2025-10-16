@@ -1,6 +1,16 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T19-03-14-860Z",
+      "prompt": "Ultra-realistic 9:16 cinematic glamour image of two people — one young woman and one man — both facing the camera and joyfully playing together in the white sand. Copy exactly the real faces and hairstyles of both the woman and the man from the reference image.\nThe woman’s face is a 100% exact copy of the reference, wearing a blue chain accessories bikini suit tied at the back and neck, with long wavy messy hair, doll makeup, and natural skin, wearing head sunglasses with blue lenses.\nThe man’s face and hairstyle are also 100% exact copies of the reference, wearing blue beach shorts.\nBoth are happily playing with the sand together in a fun, carefree moment.\nBackground at the white island beach.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T19-03-14-860Z-gi873.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T19-03-14-860Z-gi873.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/HungChuaRemake.png",
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female1.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T18-59-58-552Z",
       "prompt": "A hyper-realistic couple portrait on a moonlit tropical beach. The young Vietnames woman (face 💯 same) wears a metallic silver bikini top and high-slit wrap skirt, glistening under soft moonlight. Her long, wet hair flows over her shoulders as she looks up at the man lovingly. The man (face 💯 same) is shirtless, wearing loose white linen pants, holding her gently from behind with both arms wrapped around her waist. Ocean waves touch their feet",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T18-59-58-552Z-bv1l3.md",
