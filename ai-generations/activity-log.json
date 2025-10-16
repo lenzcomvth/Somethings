@@ -1,5 +1,21 @@
 [
   {
+    "timestamp": "2025-10-16T15:53:27.930Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 6,
+      "prompts": [
+        "Upper body, in a leaning pose, showing playful attitude with one hand brushing hair back, expression sultry and inviting, looking dynamic and professional. Captured at golden hour with soft natural lighting, creating a warm and intimate atmosphere. Shot from a Dutch angle with 85mm lens, f/1.8, shallow depth of field. Dorset Coast, featuring subtle waves and wind. Realistic heavy sweat covering the body, detailed drops on face and dripping, glistening under light.\n",
+        "Upper body, in a sitting pose, showing teasing attitude with fingers lightly touching lips, expression flirty and confident. Captured at early morning with natural light, creating fresh and vibrant mood. Dutch angle, 50mm lens, f/2.2. Dorset Coast cliffs in background, sea mist subtly visible. Skin glistening with realistic sweat, droplets tracing contours of muscles and face, emphasizing texture.\n",
+        "Upper body, in a creative variation pose (slightly twisting), showing coy attitude with one arm over chest, expression soft yet provocative. Captured at late afternoon under golden hour light, warm shadows enhancing mood. Dutch angle, 35mm lens, f/1.4. Dorset Coast rocks and surf in frame. Sweat realistically dripping, face and shoulders wet, reflecting light naturally, highly detailed droplets.\n",
+        "Upper body, in standing pose, showing seductive attitude with hips slightly angled, hands resting behind neck, expression confident and teasing. Captured at sunset with warm natural light, creating dramatic and cinematic atmosphere. Dutch angle, 70mm lens, f/2.0. Dorset Coast with rugged cliffs and crashing waves. Sweat covering torso and face in realistic detail, beads rolling down, wet skin catching light dynamically.\n",
+        "Upper body, in a creative leaning pose, showing teasing attitude with one hand running along neck and shoulder, expression playful and alluring. Captured at late morning with soft natural light, creating warm and intimate atmosphere. Dutch angle, 50mm lens, f/1.8. Dorset Coast with gentle waves and rocky textures in background. Body and face glistening with realistic heavy sweat, droplets sliding down skin naturally, highly detailed reflections under light.\n",
+        "Upper body, in a leaning pose, showing playful attitude with one hand brushing hair back, expression sultry and inviting, looking dynamic and professional. Captured at golden hour with soft natural lighting, creating a warm and intimate atmosphere. Shot from a Dutch angle with 85mm lens, f/1.8, shallow depth of field. Dorset Coast, featuring subtle waves and wind. Realistic heavy sweat covering the body, detailed drops on face and dripping, glistening under light.\n"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-16T15:50:32.198Z",
     "type": "CREATE",
     "details": {
