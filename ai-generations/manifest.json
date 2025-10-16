@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T06-01-10-416Z",
+      "prompt": "สร้างภาพเหมือนจริงสมจริงระดับ 8K Cinematic Portrait ของผู้หญิง โดยใช้ ใบหน้าจากภาพอ้างอิงที่แนบ ต้องตรงกับใบหน้าต้นฉบับ 100% โดยห้ามดัดแปลงหรือเปลี่ยนแปลงรูปหน้าแต่ให้แลดูอ่อนวัย ละมุน\nสร้างหุ่นดูผอมเพรียว ดูอ่อนช้อยและเป็นธรรมชาติ ไหล่แคบ เรียว แขนเล็กอ่อนหวาน เอวเล็ก ขาเล็กเรียวเอวคอดชัด ช่วงลำตัวยาว\nผิวขาวเนียนละเอียด ดูเปล่งประกายสุขภาพดี ผมดำ ผมยาวถึงก้น ใบหน้าของเธอมีการแต่งหน้าที่สวยฉ่ำวาวแบบบกลาสสกินที่สุด\nถ่ายภาพclose up เธอหันข้างหน้ามองกล้องเล่นน้ำอยู่ที่ทะเลยืนอยู่ในน้ำ\nเธอบิกินี่สีชมพูพีช กางเกงบิกินี่สีเหลืองมีผ้าผูกที่เอวบางๆ มีสร้อยคล้องที่เอว ให้ภาพและวิวสมจริงที่สุด ",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T06-01-10-416Z-ema4l.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T06-01-10-416Z-ema4l.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female6.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T05-54-42-218Z",
       "prompt": "Keep the original image of the person, keep face emotion same and outfit. We are all drinking tuba, each holding a clear glass in front of a wooden table. The tuba is inside a mineral water container. On the table, there is pulutan, specifically squid. I am with Ariana Grande, Taylor Swift, and Beyoncé, all facing the camera. The scene is set outside a traditional bahay kubo, using a real photo of a tropical Philippine village as the background, featuring lush greenery, palm trees, wooden huts, and natural sunlight. Ensure the atmosphere is lively, realistic, and authentic, with photo-realistic textures on the drinks, food, clothing, and surroundings, keeping expressions natural and joyful, as if captured in a real casual gathering in the Philippines.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T05-54-42-218Z-v3ctd.md",
