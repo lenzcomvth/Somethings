@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T15-50-23-021Z",
+      "prompt": "A hyperrealistic 8K fashion editorial photo of the same stunning woman standing gracefully beside a minimalist concrete kitchen counter in a warm, modern wooden interior. She is the center of attention, with the background softly blurred using a shallow depth of field and cinematic bokeh.\nShe has long, straight dark brown hair styled naturally, wearing a wide-brimmed straw hat, a white side-tie bikini, and tall brown leather buckle boots. Her golden necklace and bracelet glint subtly under natural sunlight.\nThe model stands with one hip slightly tilted, one hand resting on her waist while the other lightly holds the edge of her hat, giving an effortlessly powerful high-fashion stance. Her expression is calm yet captivating, eyes directed slightly past the camera, radiating confidence and poise.\nLighting: soft golden daylight coming from a side window, casting a warm and natural glow across her skin with gentle shadows for depth.\nCamera: full-body vertical shot, 85mm lens, f/1.8 aperture, capturing the creamy bokeh background.\nBackground: same modern kitchen interior with elegant wooden panels and minimal decor, rendered out of focus to enhance luxury depth.\nKeywords: Vogue magazine cover style, full-body editorial, golden sunlight, high-fashion aesthetic, cinematic lighting, shallow depth of field, warm tones, luxury photography, modern elegance.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T15-50-23-021Z-kd6ob.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T15-50-23-021Z-kd6ob.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T06-01-10-416Z",
       "prompt": "สร้างภาพเหมือนจริงสมจริงระดับ 8K Cinematic Portrait ของผู้หญิง โดยใช้ ใบหน้าจากภาพอ้างอิงที่แนบ ต้องตรงกับใบหน้าต้นฉบับ 100% โดยห้ามดัดแปลงหรือเปลี่ยนแปลงรูปหน้าแต่ให้แลดูอ่อนวัย ละมุน\nสร้างหุ่นดูผอมเพรียว ดูอ่อนช้อยและเป็นธรรมชาติ ไหล่แคบ เรียว แขนเล็กอ่อนหวาน เอวเล็ก ขาเล็กเรียวเอวคอดชัด ช่วงลำตัวยาว\nผิวขาวเนียนละเอียด ดูเปล่งประกายสุขภาพดี ผมดำ ผมยาวถึงก้น ใบหน้าของเธอมีการแต่งหน้าที่สวยฉ่ำวาวแบบบกลาสสกินที่สุด\nถ่ายภาพclose up เธอหันข้างหน้ามองกล้องเล่นน้ำอยู่ที่ทะเลยืนอยู่ในน้ำ\nเธอบิกินี่สีชมพูพีช กางเกงบิกินี่สีเหลืองมีผ้าผูกที่เอวบางๆ มีสร้อยคล้องที่เอว ให้ภาพและวิวสมจริงที่สุด ",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T06-01-10-416Z-ema4l.md",
