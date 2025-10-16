@@ -1,6 +1,16 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-16T15-54-39-656Z",
+      "prompt": "'Me and my plus one series: Castaway couple'\nPROMPT: An ultra realistic 8K HD cinematic portrait with a high angle view and 3x zoom, depicts a tender and funny moment between a couple on the beach. The colors are vivid and vibrant, the mood is artistic, and the atmosphere is soft. A couple castaways on a beach.\n The woman(use uploaded image as reference, preserve face 100%) on the left, is wearing a white bikini, showcasing her muscular and ripped and tan physique(with colorful tattoos on her arms), and has platinum blond hair. She gazes directly at the viewer with a neutral expression, her hair slightly damp. Her arms are wrapped around the man she holds in a bridal carry.\nThe man(use uploaded image as reference, preserve face 100%, slim build) , on the right, wears a red trunks. His eyes staring at the woman with affection, and his head rests gently on the woman's shoulder, conveying a sense of peace and intimacy. His wet hair is visible.\nBoth individuals are wet from the ocean water, which creates a shimmering effect on their skin. The clear blue water level reaches about their waist, and gentle waves and an Island with palm trees can be seen in the background, out of focus, adding depth to the scene. The lighting suggests either early morning or late afternoon, with soft, diffused light illuminating the couple. The color palette is natural, dominated by the blues and greens of the ocean and the warm tones of their skin.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-16T15-54-39-656Z-otpo1.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-16T15-54-39-656Z-otpo1.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/HungChuaRemake.png",
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-16T15-53-19-619Z",
       "prompt": "Upper body, in a leaning pose, showing playful attitude with one hand brushing hair back, expression sultry and inviting, looking dynamic and professional. Captured at golden hour with soft natural lighting, creating a warm and intimate atmosphere. Shot from a Dutch angle with 85mm lens, f/1.8, shallow depth of field. Dorset Coast, featuring subtle waves and wind. Realistic heavy sweat covering the body, detailed drops on face and dripping, glistening under light.\n",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-16T15-53-19-619Z-da0ba.md",
