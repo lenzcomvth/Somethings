@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-17T06:46:25.255Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Create the portrait using your face from the attached image, ensuring it remains 100% identical.\nHere are the details:\n- Face: Your original face as in the attached file (100% unchanged).\n- Style: High-fashion Dior portrait of a Korean woman in a field of white roses.\n- Appearance:\n- She has clear, fair skin and light green, almond-shaped Korean eyes.\n- She is wearing an oversized pastel blue knit sweater.\n- Her light ash-brown hair is styled in soft waves, draped over one shoulder.\n- She is paired with tailored beige shorts.\n- She is holding a white rose close to her face.\n- Her eyes are sweet and gentle.\n- Photography Details:\n- Shot with an 85mm lens (f/2.0).\n- Soft, diffused natural lighting.\n- It should be a small, elegant image.\n- Create a realistic, creamy bokeh.\n- Ultra-detailed skin texture.\n- Elegant and minimalist composition."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-17T06:43:59.278Z",
     "type": "CREATE",
     "details": {

@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-17T06-46-15-855Z",
+      "prompt": "Create the portrait using your face from the attached image, ensuring it remains 100% identical.\nHere are the details:\n- Face: Your original face as in the attached file (100% unchanged).\n- Style: High-fashion Dior portrait of a Korean woman in a field of white roses.\n- Appearance:\n- She has clear, fair skin and light green, almond-shaped Korean eyes.\n- She is wearing an oversized pastel blue knit sweater.\n- Her light ash-brown hair is styled in soft waves, draped over one shoulder.\n- She is paired with tailored beige shorts.\n- She is holding a white rose close to her face.\n- Her eyes are sweet and gentle.\n- Photography Details:\n- Shot with an 85mm lens (f/2.0).\n- Soft, diffused natural lighting.\n- It should be a small, elegant image.\n- Create a realistic, creamy bokeh.\n- Ultra-detailed skin texture.\n- Elegant and minimalist composition.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-17T06-46-15-855Z-xgjpv.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-17T06-46-15-855Z-xgjpv.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-17T06-43-50-835Z",
       "prompt": "Create a super-realistic 8K image set in a Thai fresh market atmosphere — lively, colorful, and full of background activity with sellers and buyers moving around.\nSubjects:\nA young woman (face 100% as attached) with beautiful makeup, wearing a blue headband, wide-legged blue jeans on one leg, short blue denim skirt on the other, and mismatched sneakers (one blue Converse, one pink). She faces the camera confidently, wearing cool Ray-Ban sunglasses and holding a pastel blue stingray leather bag with blue and gold metallic “NANO” lettering visible in the background.\nA young man (face 100% as in the reference image of me), standing close beside her, slightly behind to the right, wearing a white casual shirt with rolled sleeves, light blue jeans, and white sneakers. He looks at her with a subtle smile, one hand in pocket, showing a natural, candid presence that complements her style.\nScene & Aesthetic:\nBright daylight, soft natural lighting.\nRealistic shadows and reflections.\nMarket background should include colorful fruits, fabrics, and bustling people to capture life and depth.\nCamera angle: mid-shot, cinematic depth of field.\nQuality: ultra-realistic, detailed skin texture, accurate lighting, captured with Nikon Z9, 50mm f/1.2 lens.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-17T06-43-50-835Z-ctish.md",
