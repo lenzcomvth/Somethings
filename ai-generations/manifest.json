@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-17T03-52-55-779Z",
+      "prompt": "Use facial features from attached photo. A poised woman (copy face upload) sitting on a stone bench in a sunlit botanical garden, wearing a cream tailored blazer with a decorative brooch, paired with a sheer black tulle skirt with polka dots. Accessories include a blush-pink structured handbag and pointed-toe houndstooth heels. Long brown hair, confident couture pose. Soft warm daylight highlights textures of fabric, tulle, and leather. Green foliage, blooming flowers, and subtle garden paths create a fresh, elegant backdrop. Cool neutrals with subtle pink and black accents. Ultra-realistic, 8K, cinematic lighting, shallow depth of field, fashion editorial style.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-17T03-52-55-779Z-zq0jo.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-17T03-52-55-779Z-zq0jo.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-17T03-47-52-677Z",
       "prompt": " สร้างภาพใบหน้าเหมือนภาพต้นฉบับ 100% ห้ามแก้ไข ภาพแคนดิดสมจริงของหญิงสาว (ใช้ใบหน้าอ้างอิงตามจริง 100%)\nนั่งโพสต์ท่าเหมือนกำลังเซลฟี่บนเก้าอี้หันหน้ามองกล้องด้วยสายตาเซ็กซี่และน่ารัก มือนึงถือโทรศัพท์ทรงผม: รวบผมขึ้นแบบพองรัดไว้เป็นดังโงะข้างบนและมีปลายผมชี้ออกมาเป็นแฉกๆเล็กน้อย มีลูกผมปลิวตามแรงลมทำให้ทรงผมดูนุ่มนวลและไม่ดูแข็งจนเกินไป มีผ้าเช็ดหน้าสีน้ำตาลคาดหัวผูกเป็นโบว์ไว้ด้านบน\nชุด: เธอนุ่งกางเกงขาสั้นสีขาวและสวมเสื้อเกาะอกแดงเข้ม ช่วงเอวรัดรูป เสื้อยาวชนแค่ขอบกางเกง กลางตัวเสื้อมีกระดุมสีทองเรียงกันเป็นแนวตั้ง\nมีเสื้อหนังสีแดงเข้มแขนยาววางไว้ด้านข้าง\nรองเท้า: รองเท้า (Boots): เป็นรองเท้าบูทหุ้มข้อสูง (Ankle/Mid-Calf Boots) สีน้ำตาลเข้ม มีเชือกผูกด้านหน้าตลอดแนว (Lace-up)และมีส้นหนา ให้ลุคที่ดูเท่และมาดมั่น\nใส่สร้อยคอสีทองเส้นเล็กๆบางๆมีจี้รูปหัวใจ ,สร้อยข้อมือสีทองเส้นเล็กๆ 2 เส้นการแต่งหน้า: แต่งหน้าโทนธรรมชาติให้ความรู้สึกอ่อนหวาน ผิวขาวเนียนใส ปัดแก้มสีชมพูอ่อน ริมฝีปากโทนชมพูส้มอ่อน ดวงตากลมโตมีอายไลเนอร์บาง ๆ เพิ่มความโดดเด่น\nวิวด้านหลังเป็นเป็นบรรยากาศการตั้งแคมป์ริมทะเลสาบในช่วงเวลาพระอาทิตย์ตกดินหรือพระอาทิตย์ขึ้น ท้องฟ้ามีสีส้มและชมพูสะท้อนกับผืนน้ำอย่างสวยงาม มีเต็นท์ขนาดใหญ่ตั้งอยู่ริมน้ำ และมีรถยนต์แวนวินเทจสีน้ำตาล-เหลืองจอดอยู่ใกล้ ๆ บริเวณแคมป์มีกองไฟที่กำลังลุกโชน พร้อมเก้าอี้พับและของใช้สำหรับการพักผ่อนอื่น ๆ ที่จัดวางอย่างเป็นระเบียบ พื้นที่โดยรอบเป็นป่าสนและภูเขา ทำให้ภาพดูสงบและอบอุ่น สื่อถึงการพักผ่อนท่ามกลางธรรมชาติที่สมบูรณ์แบบ ส่วนสูง 165 cm. น้ำหนัก 48 kg. หุ่นดี ผิวขาวใส ออร่า\nขนาดภาพ9:16 ภาพคนชัด เน้นเงาและมิติ โทนอุ่นสดใส คุณภาพภาพสูงสุด Canon EOS R5 + 85mm f/1.4 lens ถ่ายระยะไกลด้านข้าง สดใส มีความสุข\nภาพสมจริง100% ความชัดระดับ 8k",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-17T03-47-52-677Z-unmso.md",
