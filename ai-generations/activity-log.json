@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-17T06:43:59.278Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Create a super-realistic 8K image set in a Thai fresh market atmosphere — lively, colorful, and full of background activity with sellers and buyers moving around.\nSubjects:\nA young woman (face 100% as attached) with beautiful makeup, wearing a blue headband, wide-legged blue jeans on one leg, short blue denim skirt on the other, and mismatched sneakers (one blue Converse, one pink). She faces the camera confidently, wearing cool Ray-Ban sunglasses and holding a pastel blue stingray leather bag with blue and gold metallic “NANO” lettering visible in the background.\nA young man (face 100% as in the reference image of me), standing close beside her, slightly behind to the right, wearing a white casual shirt with rolled sleeves, light blue jeans, and white sneakers. He looks at her with a subtle smile, one hand in pocket, showing a natural, candid presence that complements her style.\nScene & Aesthetic:\nBright daylight, soft natural lighting.\nRealistic shadows and reflections.\nMarket background should include colorful fruits, fabrics, and bustling people to capture life and depth.\nCamera angle: mid-shot, cinematic depth of field.\nQuality: ultra-realistic, detailed skin texture, accurate lighting, captured with Nikon Z9, 50mm f/1.2 lens."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-17T06:39:41.103Z",
     "type": "CREATE",
     "details": {
