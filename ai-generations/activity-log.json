@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-17T17:29:13.849Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Create a cinematic beach portrait of the woman, keeping her face 100% the same in the uploaded photo (same lips, eyes, nose). She has smooth glowing skin, natural makeup, a slim tall figure, and long wavy black hair and thin bangs. Outfit: beige bikini with beige bottoms, sheer brown wrap, gold bracelet. Pose: sitting gracefully in wood, legs crossed, one hand lifting her upper right hair, posing like a model. Expression is soft and feminine. Background: golden sunset over the sea with warm light, evoking a romantic, stylish, and luxurious summer mood.(Note: Keep my face natural and realistic from the uploaded photo. Just change hairstyle according to the situation. Don’t change hair color.)"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-17T07:01:10.183Z",
     "type": "CREATE",
     "details": {

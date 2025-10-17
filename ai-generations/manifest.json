@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-17T17-29-03-061Z",
+      "prompt": "Create a cinematic beach portrait of the woman, keeping her face 100% the same in the uploaded photo (same lips, eyes, nose). She has smooth glowing skin, natural makeup, a slim tall figure, and long wavy black hair and thin bangs. Outfit: beige bikini with beige bottoms, sheer brown wrap, gold bracelet. Pose: sitting gracefully in wood, legs crossed, one hand lifting her upper right hair, posing like a model. Expression is soft and feminine. Background: golden sunset over the sea with warm light, evoking a romantic, stylish, and luxurious summer mood.(Note: Keep my face natural and realistic from the uploaded photo. Just change hairstyle according to the situation. Don’t change hair color.)",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-17T17-29-03-061Z-d3vbf.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-17T17-29-03-061Z-d3vbf.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-17T07-00-58-880Z",
       "prompt": "Natural lighting, Korean-style blue tones, high resolution, fair skin. Long hair styled in a loose, high updo, light ash-brown hair with bangs falling across the face, appearing cute and delicate. The character wears a light blue strapless half-dress with white trim, decorated with small blue teddy bear dolls, and loosely draped with a sheer, light blue coat creating a sexy off-the-shoulder look, paired with a short, form-fitting light blue skirt. A view of Bangkok at dusk is visible through the window, with the window frame covered by a green curtain, and small and large blue and white teddy bear dolls arranged alternately. Soft light reflects on the face and body, creating a relaxed and captivating atmosphere. The character is gracefully seated on the windowsill, one leg gently bent and tucked, the other extended slightly, their body artfully twisted towards the viewer. Their right hand holds a white camera, and a delicate blue necklace with a blue bear pendant adorns their neck. Their charming and neutral face is directed straight at the camera, captured in a striking low-angle mid-shot that highlights their silhouette against the cityscape and accentuates their captivating presence. The overall style is a chic blue fashion look that feels fun, cute, and happy, with neatly arranged but artistic teddy bear dolls creating a lovely and beautiful visual element.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-17T07-00-58-880Z-6trzv.md",
