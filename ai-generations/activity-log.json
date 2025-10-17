@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-17T06:51:43.922Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Nang-Tho",
+      "count": 1,
+      "prompts": [
+        "A cinematic ultra-realistic high-resolution cute and stylish beachside café photoshoot of the same woman, keeping her original face 100% unchanged. She has a curvy yet adorable figure, flawless fair skin, and long natural wavy brown hair tied with a pastel ribbon. She is sitting at a cozy seaside café table, wearing a chic pastel-colored g-string bikini styled to perfectly match the beachside vibe, with a sheer wrap draped around her waist. She holds a tropical cocktail glass, smiling sweetly with a confident charm. The café is decorated with rattan chairs, tropical plants, and woven lamps, with the ocean waves and blue sky in the background. The atmosphere is cinematic, dreamy, and glamorous — balancing cute, fashionable, and subtly sensual summer vibes"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-17T06:48:58.882Z",
     "type": "CREATE",
     "details": {
