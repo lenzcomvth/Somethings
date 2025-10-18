@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T16:32:16.897Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Ultra photorealistic fashion portrait of the same woman from the reference photo, identity locked (do not alter facial features or glasses)\n​Subject: A beautiful young woman with striking eyes and long, wavy hair. She has a serious yet happy and determined expression. She is holding a pink lightsaber with both hands, positioned to her left.\n​Background: A dark, snow mountain, suggesting an outdoor, cold environment.\n​Camera Angle: A medium close-up shot, focusing on her face and upper torso. Eye-level.\n​Pose: She is facing directly forward, looking straight into the camera. Her body is slightly angled, and she is holding the lightsaber up, ready for action.\n​Outfit: She is wearing a dark, hooded cloak or robe that partially covers her head and shoulders, with loose strands of hair falling out. Underneath, she appears to be wearing a dark, possibly leather, low-cut top or bralette\n​Art Style: Photorealistic\n​woman in her late 20s with detailed skin texture, a genuine face, and natural lighting \n​A highly detailed, ultra-realistic\n​No deformed eyes\n​No extra fingers\n​No plastic skin\n​Avoid excessive smoothness\n​No cartoon\n​No painting\n​No artifacts\n​No watermark"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T16:28:41.771Z",
     "type": "CREATE",
     "details": {
