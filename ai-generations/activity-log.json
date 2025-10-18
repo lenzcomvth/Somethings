@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T16:27:39.308Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "\"Using a real face, we create a cinematic low-angle portrait of the woman in the image. She sits confidently against a bright, cloudy sky. She wears a tight black crop top and blue jean shorts. Her long brown hair is slightly wavy.\nHer hair is illuminated by the sun behind her, creating a soft glow. One leg, wearing a pair of dark brown boots, is extended forward. The camera tilts her head upward, creating a cool and dramatic shot."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T16:26:32.302Z",
     "type": "CREATE",
     "details": {

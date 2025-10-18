@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-18T16-27-28-265Z",
+      "prompt": "\"Using a real face, we create a cinematic low-angle portrait of the woman in the image. She sits confidently against a bright, cloudy sky. She wears a tight black crop top and blue jean shorts. Her long brown hair is slightly wavy.\nHer hair is illuminated by the sun behind her, creating a soft glow. One leg, wearing a pair of dark brown boots, is extended forward. The camera tilts her head upward, creating a cool and dramatic shot.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-18T16-27-28-265Z-mfcb8.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-18T16-27-28-265Z-mfcb8.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-18T16-26-21-451Z",
       "prompt": "A photograph of a young black woman practicing yoga in a serene outdoor setting. She is in a peaceful pose with her eyes closed, surrounded by lush greenery and vibrant wildflowers. In the background, a calm river flows gently, reflecting the sunlight. The warm morning light casts a soft, golden glow over the scene.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-18T16-26-21-451Z-zcp2t.md",
