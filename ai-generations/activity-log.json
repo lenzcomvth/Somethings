@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T02:51:58.407Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Một bức ảnh chân thực, phong cách thương mại (photorealistic, commercial style), chụp một cô gái Việt Nam có thân hình rõ nét, gợi cảm với đường cong tự nhiên.\nCô mặc bộ bikini hai mảnh đồng màu, gồm áo bikini nhỏ và quần thong g-string hồng dáng high-cut, ôm sát tôn lên vóc dáng cân đối và đôi chân dài.\n\nCô tựa nhẹ vào đầu xe hơi màu trắng, tay cầm chai nước trong suốt đang đổ nước mát xuống vai và ngực, tạo thành những giọt nước li ti lăn trên làn da dưới ánh nắng. Ánh sáng ban ngày tự nhiên, trong trẻo, phản chiếu qua những giọt nước và bọt sáng, khiến toàn khung cảnh trở nên sống động, quyến rũ và tươi mát.\n\nCô gái có mái tóc dài hơn lưng, uốn lọn gợi cảm, nhuộm màu bạch kim ánh sáng, mềm mại bay nhẹ trong gió. Cô đeo kính râm thời trang, gương mặt toát lên vẻ tự tin, quyến rũ và cuốn hút.\n\nPhông nền là hàng cây xanh mềm mờ sau lưng, làm nổi bật tông sáng chủ đạo của cảnh — trắng, hồng và xanh lá — tạo cảm giác sạch, tươi mới và cao cấp, như một ảnh quảng cáo nước khoáng, bikini hay chiến dịch mùa hè năng động."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T02:26:06.167Z",
     "type": "MOVE",
     "details": {
