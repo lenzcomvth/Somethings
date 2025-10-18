@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T00:46:39.433Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Ảnh chụp siêu chân thực, \nphong cách thương mại về một người phụ nữ Việt Nam cao ráo. có vóc dáng quyến rũ, rõ nét, mặc một chiếc áo bikini đồng bộ và quần bikini lọt khe (g-string) màu hồng cắt xẻ cao. \nCô ấy đang rửa nắp ca-pô của một chiếc ô tô trắng bằng miếng bọt biển màu vàng dính đầy bọt xà phòng trắng. \nÁnh sáng ban ngày tự nhiên, tươi sáng, với hậu cảnh là tán lá xanh mướt. \nThẩm mỹ sạch sẽ, rực rỡ. Cô ấy có mái tóc vàng rất dài và đang đeo kính râm.\n\nVòng 1 với vòng 3 do đã phẩu thuật thẩm mỹ nhưng nhìn vào rất quyến rũ. Gợi cảm \n\nCô ấy quay lưng lại nhìn camera. Trên người dính đầy bọt xà phòng"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T00:44:21.103Z",
     "type": "CREATE",
     "details": {
