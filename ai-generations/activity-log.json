@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T03:02:50.783Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "prompts": [
+        "Một người phụ nữ Việt Nam dáng siêu mẫu, thân hình thon gọn, quyến rũ với đường cong mềm mại và làn da trắng tự nhiên.\nCô có mái tóc dài màu tím nhạt, uốn lọn sóng nhẹ đến ngang lưng, mượt mà và nổi bật dưới ánh sáng thực tế.\nKhuôn mặt cô tươi tắn, có chiều sâu như người thật, đôi mắt gợi cảm, ánh nhìn tự tin, quyến rũ, môi hé nhẹ tự nhiên, không tạo dáng quá mức.\n\nTrang phục: Cô mặc bodysuit ren trắng xuyên thấu cao cấp, chất liệu thật, hoa văn ren tinh xảo, dây mảnh, khoét sâu ở ngực và hông để tôn dáng một cách thanh lịch, gợi cảm nhưng không phản cảm.\n\nBối cảnh: Phòng ngủ thật, ánh sáng tự nhiên nhẹ, giường trắng, gối trắng, đầu giường gỗ thật, rèm tối màu bên phải khung hình — ánh sáng buổi chiều lọt qua nhẹ, tạo bóng đổ thật trên da và nền.\nKhông có chi tiết hoạt hình, không CGI, mọi vật thể – da, tóc, vải, ánh sáng – đều chân thật như ảnh chụp máy ảnh DSLR độ phân giải cao.\n\nTư thế: Cô đứng nghiêng, tựa nhẹ vào bàn trang điểm, dáng tự nhiên, thoải mái, không tạo dáng gò bó, ánh mắt hướng vào ống kính, thể hiện vẻ gợi cảm và tự tin hiện đại.\n\nÁnh sáng: Ánh sáng mềm, khuếch tán thực tế từ cửa sổ bên phải, tạo bóng sáng nhẹ trên khuôn mặt và đường cong cơ thể, tone màu ấm dịu, phản chiếu chân thật, không ánh ảo, không hiệu ứng 3D.\n\nPhong cách:\nẢnh siêu chân thực (hyper-realistic / ultra-photorealistic), chụp như ảnh thật bằng ống kính 50mm – f/1.8, chất ảnh mịn, có chiều sâu, da và tóc có độ phản sáng tự nhiên, phong cách boudoir thời trang cao cấp, sang trọng, tinh tế, gợi cảm tự nhiên."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T02:55:10.338Z",
     "type": "CREATE",
     "details": {
