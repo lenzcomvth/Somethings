@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-10-18T01:38:23.604Z",
+    "type": "DELETE",
+    "details": {
+      "albumName": "Normal",
+      "count": 1,
+      "deletedPrompts": [
+        "A portrait (100% original face) of a  young woman in a red triangle top swimwear and string bottom swimwear standing beside a brown horse in a sunny open field. \nHer surgically enhanced bust and hips are noticeably fuller — roughly twice the size of an average woman’s — yet perfectly proportioned to her slender frame. The enhancements appear natural, smooth, and elegantly shaped under soft daylight, emphasizing her hourglass silhouette.\nShe has one arm resting on the horse’s head, and the background shows green trees and a bright blue sky. \nThe scene is warm, cheerful, and natural, with clear daylight and realistic detail."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-18T01:27:44.621Z",
     "type": "DELETE",
     "details": {
