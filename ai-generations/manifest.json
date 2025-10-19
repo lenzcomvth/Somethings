@@ -1,6 +1,15 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-10-19T07-02-48-540Z",
+      "prompt": "A captivating vertical portrait features a beautiful woman with long, flowing blonde hair, styled with a center part, and striking blue eyes. The image, likely captured with a prime lens on a camera such as a Nikon Z7, focuses on her upper body, highlighting her elegant features and summery attire. Her gaze is directed towards the viewer, conveying confidence and allure.\nHer makeup is expertly applied, emphasizing her eyes with defined brows and subtle eyeliner, while her lips are a soft, peachy-pink. She wears delicate gold jewelry, including a minimalist necklace with a small pendant and ornate circular drop earrings. Her hands are gently placed behind her head, allowing her long hair to cascade around her shoulders. She is dressed in a charming white dress adorned with a vibrant red strawberry and green leaf print, featuring a square neckline and small buttons down the front of the bodice. The background is softly blurred, suggesting an outdoor setting, possibly an architectural element like an archway, which adds depth without distracting from the subject.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-10-19T07-02-48-540Z-rapdy.md",
+      "imagePath": "ai-generations/Normal/image-2025-10-19T07-02-48-540Z-rapdy.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-10-18T16-33-19-367Z",
       "prompt": "Subject: A beautiful woman with long, wavy blonde hair, striking blue eyes, and bold red lipstick.\n​Camera Angle: Medium shot, eye-level.\n​Pose: Standing, facing slightly towards the viewer, with a direct and confident gaze. Her right hand is gently resting at her side, and her left arm is slightly bent.\n​Outfit: A highly detailed, intricate black lace bodysuit with long sleeves. The bodysuit features opulent gold embroidered patterns over the bust and midsection, creating a luxurious and somewhat steampunk-inspired aesthetic. The lace design includes sheer panels revealing parts of the skin. She is also wearing ornate gold dangle earrings.\n​Lighting: Dramatic and somewhat moody, with warm tones emanating from a light source on the right side of the frame (possibly a bare bulb lamp visible in the background). This creates highlights on her hair and skin and emphasizes the gold details of her outfit. The background is dimly lit, enhancing the focus on the subject.\n​Art Style: Photorealistic, with elements of fashion photography and potentially a touch of fantasy or steampunk influence due to the background elements. The image exhibits a high level of detail and a slightly stylized, artistic quality.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-18T16-33-19-367Z-c7krp.md",
