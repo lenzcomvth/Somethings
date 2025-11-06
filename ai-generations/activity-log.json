@@ -1,5 +1,17 @@
 [
   {
+    "timestamp": "2025-11-06T12:35:32.143Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Train-AI",
+      "count": 2,
+      "prompts": [
+        "Anh",
+        "Anh"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-06T12:33:59.410Z",
     "type": "CREATE",
     "details": {
