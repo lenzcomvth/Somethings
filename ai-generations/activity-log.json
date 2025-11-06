@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-11-06T20:23:20.362Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Template-Girl",
+      "count": 1,
+      "prompts": [
+        "Tóc màu tím nhạt dần xuống dưới, tự nhiên, bồng bềnh, có vài cọng tốc rối che ngang mặt hiệu ứng như gió thôi, tóc dài qua mông. Mặc bikini tam giác bị khuyết, quần bị lọt vào giữa . màu xanh chấm bi(màu cờ mỹ). v1+15%,v3+15%"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-06T12:39:11.184Z",
     "type": "CREATE",
     "details": {
