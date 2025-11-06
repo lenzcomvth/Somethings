@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-11-06T12:23:00.421Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Train-AI",
+      "count": 1,
+      "prompts": [
+        "Cinematic movie poster. A young woman stands in a narrow, dilapidated hallway, her hands handcuffed behind her back, wearing a grey hoodie, white underwear and high heels — a defiant vulnerability. The hallway is littered with broken picture frames, old boxes and exposed electrical panels. Light from a stairwell window pours in as rim light, dark shadows, a grim and raw atmosphere. 8K resolution. Vertical poster."
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-06T12:10:58.560Z",
     "type": "CREATE",
     "details": {

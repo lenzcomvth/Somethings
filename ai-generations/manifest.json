@@ -6771,5 +6771,14 @@
         "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/Female3.jpg"
       ]
     }
+  ],
+  "Train-AI": [
+    {
+      "timestamp": "2025-11-06T12-22-51-797Z",
+      "prompt": "Cinematic movie poster. A young woman stands in a narrow, dilapidated hallway, her hands handcuffed behind her back, wearing a grey hoodie, white underwear and high heels — a defiant vulnerability. The hallway is littered with broken picture frames, old boxes and exposed electrical panels. Light from a stairwell window pours in as rim light, dark shadows, a grim and raw atmosphere. 8K resolution. Vertical poster.",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-11-06T12-22-51-797Z-me3rn.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-11-06T12-22-51-797Z-me3rn.png",
+      "sourceImageUrls": []
+    }
   ]
 }
