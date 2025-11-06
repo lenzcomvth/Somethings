@@ -1,6 +1,13 @@
 {
   "Normal": [
     {
+      "timestamp": "2025-11-06T12-07-14-413Z",
+      "prompt": "Close-up, captivating portrait of a stunning Asian woman with a dreamy and seductive gaze. She has flawless skin, perfectly styled, slightly messy light brown hair, and delicately applied makeup. She is adorned in an exquisite white lace teddy bodysuit, highlighting the intricate floral lace patterns, the deep V-neck, and the satin ribbon detail. Her pose emphasizes elegance and sensuality. The background is a softly blurred, warm-toned domestic interior. High-fashion, artistic, cinematic lighting, shallow depth of field, sharp focus on her features, the lace details, and the gentle folds of the fabric. Ultra-realistic, 8K, no text, no watermark.",
+      "markdownPath": "ai-generations/Normal/prompt-2025-11-06T12-07-14-413Z-uvqlt.md",
+      "imagePath": "ai-generations/Normal/image-2025-11-06T12-07-14-413Z-uvqlt.png",
+      "sourceImageUrls": []
+    },
+    {
       "timestamp": "2025-10-28T07-27-30-852Z",
       "prompt": "Create an ultra-photorealistic portrait of a stunningly attractive, powerful, and muscular man, standing confidently indoors.\nUse the uploaded face reference exactly — preserve 100% of facial likeness, including skin tone, bone structure, expression, and lighting direction. Do not modify or stylize the face.\n\nScene Description:\nThe man is wearing a black suit with an unbuttoned black shirt, exuding confidence and effortless charm.\nHe stands naturally with both hands in his pockets, his posture relaxed but powerful.\nHis dark hair is slightly tousled and tied in a loose bun, emphasizing his sharp jawline and intense dark eyes that reflect depth and charisma.\n\nBackground:\nSet in an elegant club privé — a luxurious, dimly lit interior with dark wood tones and soft reflections of gold and amber light.\nSoft natural lighting falls across his face and suit, producing gentle highlights that define his features and the fabric texture of his clothing.\n\nCamera & Technical Style:\nCaptured using Canon EOS R5, in a fashion editorial photography style.\nLighting: soft ambient, with cinematic tone mapping.\nDetails: sharp fabric texture, precise skin enhancement, and luxury color grading to create a high-end magazine look.\nDepth: shallow depth of field, background softly blurred for a cinematic portrait effect.\nAspect ratio: --ar 9:16\n\nMood & Tone:\nA sophisticated, modern, and commanding masculine presence — where power meets elegance.\nThe portrait feels intimate yet aspirational, like a fashion editorial cover infused with cinematic realism and natural charisma.",
       "markdownPath": "ai-generations/Normal/prompt-2025-10-28T07-27-30-852Z-rqf5p.md",
