@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-11-12T05:11:14.014Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Bikini",
+      "count": 1,
+      "prompts": [
+        "Cô gái cởi hết bộ đồ bên ngoài"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-08T10:50:56.198Z",
     "type": "CREATE",
     "details": {
