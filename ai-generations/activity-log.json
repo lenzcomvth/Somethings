@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-11-12T09:09:23.706Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Bikini",
+      "count": 1,
+      "prompts": [
+        "Chiều hoàng hôn bãi biển"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-12T05:11:14.014Z",
     "type": "CREATE",
     "details": {
