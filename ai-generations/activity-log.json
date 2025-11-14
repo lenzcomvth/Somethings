@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-11-14T12:39:17.209Z",
+    "type": "DELETE",
+    "details": {
+      "albumName": "Bikini",
+      "count": 1,
+      "deletedPrompts": [
+        "Chiều hoàng hôn bãi biển"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-12T09:09:23.706Z",
     "type": "CREATE",
     "details": {
