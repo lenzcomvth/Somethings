@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2025-12-20T18:55:24.972Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Train-AI",
+      "count": 1,
+      "prompts": [
+        "mặc 1 bộ bikini"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-12-20T18:47:59.640Z",
     "type": "CREATE",
     "details": {
