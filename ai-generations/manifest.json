@@ -6864,6 +6864,60 @@
   ],
   "Train-AI": [
     {
+      "timestamp": "2025-12-20T22-25-50-380Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman in a lavender aster field at golden hour,soft backlight glow,dreamy pastel purple and blush palette,white puff-sleeve dress,loose updo with soft tendrils,holding a cream ceramic pitcher filled with white daisies and pink statice,shallow depth of field with foreground flowers blurred and creamy bokeh,cinematic soft diffusion,gentle eye contact,serene mood,\nSubject and scene,\nadult young woman,delicate features,gentle expression,\nGracefully turning, one hand gently lifting the cream ceramic pitcher while the other subtly brushes against the aster flowers, immersed amidst the blooms in foreground and background,\nholding cream ceramic pitcher with bouquet: white daisies + pink statice,\nWardrobe and styling,\nwhite dress,square neckline,puff sleeves,\nsheer peach-pink tulle draped at arm/shoulder,\nhair: loose updo,wispy bangs,a few curls framing face,\nnatural dewy makeup,soft peach lips,light blush,\nLighting and color,\ngolden hour backlighting,rim light on hair,\nsoft diffusion / Pro-Mist 1/4 feel,glow/bloom,\npastel grade: lavender/lilac (#C8A9E9),blush-peach (#F4C7C3),warm highlights,cool shadows,\nComposition and optics,\nA dynamic 3/4 portrait, captured from a slightly low angle looking up through a delicate veil of blurred foreground flowers, emphasizing her ethereal presence and the soft flow of her dress, subject slightly off-center, bouquet prominent,\nshallow DOF,creamy bokeh, foreground flowers softly blurred as framing,\nlens look:85mm f/1.4,ISO low,shutter fast, filmic softness not out-of-focus,\nMood and keywords,\nromantic,dreamy,ethereal,soft focus,fine-art portrait,magazine editorial,clean,elegant,",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-380Z-nbfkd.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-380Z-nbfkd.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20T22-25-50-379Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman in a lavender aster field at golden hour,soft backlight glow,dreamy pastel purple and blush palette,white puff-sleeve dress,loose updo with soft tendrils,holding a cream ceramic pitcher filled with white daisies and pink statice,shallow depth of field with foreground flowers blurred and creamy bokeh,cinematic soft diffusion,gentle eye contact,serene mood,\nSubject and scene,\nadult young woman,delicate features,gentle expression,\nAn adult young woman, half-kneeling amidst purple aster flowers, her body gracefully twisted and turning, one hand gently extended to brush against the surrounding blooms, while the other delicately cradles the cream ceramic pitcher with bouquet: white daisies + pink statice, surrounded by blooms in foreground and background,\nWardrobe and styling,\nwhite dress,square neckline,puff sleeves,\nsheer peach-pink tulle draped at arm/shoulder,\nhair: loose updo,wispy bangs,a few curls framing face,\nnatural dewy makeup,soft peach lips,light blush,\nLighting and color,\ngolden hour backlighting,rim light on hair,\nsoft diffusion / Pro-Mist 1/4 feel,glow/bloom,\npastel grade: lavender/lilac (#C8A9E9),blush-peach (#F4C7C3),warm highlights,cool shadows,\nComposition and optics,\nA dynamic 3/4 portrait, captured from a slightly low-angle, eye-level perspective, subject slightly off-center, bouquet prominent, emphasizing her graceful posture and the ethereal depth of the field,\nshallow DOF,creamy bokeh, foreground flowers softly blurred as framing,\nlens look:85mm f/1.4,ISO low,shutter fast, filmic softness not out-of-focus,\nMood and keywords,\nromantic,dreamy,ethereal,soft focus,fine-art portrait,magazine editorial,clean,elegant,",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-379Z-3y2qp.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-379Z-3y2qp.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20T22-25-50-377Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman, delicate features, gentle expression, captured in a moment of serene grace, her white puff-sleeve dress softly gathered as she half-kneels amidst a lavender aster field, her body gently twisted to look over her shoulder, one hand delicately holding a cream ceramic pitcher filled with white daisies and pink statice, the other lightly tracing the petals of a nearby bloom. This intimate scene is captured from a dynamic, slightly low-angle perspective, looking up towards her with gentle eye contact, emphasizing her ethereal presence against the luminous golden hour sky and the sweeping expanse of the aster field, surrounded by blooms in foreground and background, with a soft backlight glow, dreamy pastel purple and blush palette, sheer peach-pink tulle draped at arm/shoulder, loose updo with soft tendrils, wispy bangs, a few curls framing face, natural dewy makeup, soft peach lips, light blush, golden hour backlighting, rim light on hair, soft diffusion / Pro-Mist 1/4 feel, glow/bloom, pastel grade: lavender/lilac (#C8A9E9), blush-peach (#F4C7C3), warm highlights, cool shadows, shallow depth of field with foreground flowers blurred and creamy bokeh, cinematic soft diffusion, bouquet prominent, lens look:85mm f/1.4, ISO low, shutter fast, filmic softness not out-of-focus, romantic, dreamy, ethereal, soft focus, fine-art portrait, magazine editorial, clean, elegant.",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-377Z-0zq7j.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-377Z-0zq7j.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20T22-25-50-369Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman, gracefully kneeling amidst a lavender aster field, her body gently turned as if caught in a moment of serene contemplation, holding a cream ceramic pitcher filled with white daisies and pink statice. Captured from a slightly low, intimate angle, her delicate silhouette framed by the softly blurred foreground flowers, against the soft backlight glow of golden hour, creating a dreamy pastel purple and blush palette. Her white puff-sleeve dress and loose updo with soft tendrils catch the rim light, shallow depth of field with creamy bokeh, cinematic soft diffusion, gentle eye contact, serene mood.",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-369Z-6e2e8.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-369Z-6e2e8.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20T22-25-50-368Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman in a lavender aster field at golden hour,soft backlight glow,dreamy pastel purple and blush palette,white puff-sleeve dress,loose updo with soft tendrils,holding a cream ceramic pitcher filled with white daisies and pink statice,shallow depth of field with foreground flowers blurred and creamy bokeh,cinematic soft diffusion,gentle eye contact,serene mood,\nSubject and scene,\nadult young woman,delicate features,gentle expression,\ngracefully poised with one hand gently resting among the lavender aster flowers, her body softly angled as if in a moment of tranquil reflection, surrounded by blooms in foreground and background,\nholding cream ceramic pitcher with bouquet: white daisies + pink statice,\nWardrobe and styling,\nwhite dress,square neckline,puff sleeves,\nsheer peach-pink tulle draped at arm/shoulder,\nhair: loose updo,wispy bangs,a few curls framing face,\nnatural dewy makeup,soft peach lips,light blush,\nLighting and color,\ngolden hour backlighting,rim light on hair,\nsoft diffusion / Pro-Mist 1/4 feel,glow/bloom,\npastel grade: lavender/lilac (#C8A9E9),blush-peach (#F4C7C3),warm highlights,cool shadows,\nComposition and optics,\nCaptured from a slightly low, medium-close perspective, looking up through a delicate foreground blur of aster blooms, subtly framing her serene posture, with the subject positioned slightly off-center and the bouquet prominent,\nshallow DOF,creamy bokeh, foreground flowers softly blurred as framing,\nlens look:85mm f/1.4,ISO low,shutter fast, filmic softness not out-of-focus,\nMood and keywords,\nromantic,dreamy,ethereal,soft focus,fine-art portrait,magazine editorial,clean,elegant,",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-368Z-p9512.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-368Z-p9512.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
+      "timestamp": "2025-12-20T22-25-50-366Z",
+      "prompt": "quynhhuongstudio Romantic portrait of an adult young woman in a lavender aster field at golden hour,soft backlight glow,dreamy pastel purple and blush palette,white puff-sleeve dress,loose updo with soft tendrils,holding a cream ceramic pitcher filled with white daisies and pink statice,shallow depth of field with foreground flowers blurred and creamy bokeh,cinematic soft diffusion,gentle eye contact,serene mood,\nSubject  and  scene,\nadult young woman,delicate features,gentle expression,\nseated/half-kneeling among purple aster flowers,surrounded by blooms in foreground  and  background,\nholding cream ceramic pitcher with bouquet: white daisies + pink statice,\nWardrobe  and  styling,\nwhite dress,square neckline,puff sleeves,\nsheer peach-pink tulle draped at arm/shoulder,\nhair: loose updo,wispy bangs,a few curls framing face,\nnatural dewy makeup,soft peach lips,light blush,\nLighting  and  color,\ngolden hour backlighting,rim light on hair,\nsoft diffusion / Pro-Mist 1/4 feel,glow/bloom,\npastel grade: lavender/lilac (#C8A9E9),blush-peach (#F4C7C3),warm highlights,cool shadows,\nComposition  and  optics,\n3/4 portrait,subject slightly off-center, bouquet prominent,\nshallow DOF,creamy bokeh, foreground flowers softly blurred as framing,\nlens look:85mm f/1.4,ISO low,shutter fast, filmic softness not out-of-focus,\nMood  and  keywords,\nromantic,dreamy,ethereal,soft focus,fine-art portrait,magazine editorial,clean,elegant,",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T22-25-50-366Z-59htf.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T22-25-50-366Z-59htf.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Female/frame_12.00s.png"
+      ]
+    },
+    {
       "timestamp": "2025-11-26T01-00-59-483Z",
       "prompt": "Hình ảnh được tải lên từ máy tính",
       "markdownPath": "ai-generations/Train-AI/prompt-2025-11-26T01-00-59-483Z-em1g9.md",
