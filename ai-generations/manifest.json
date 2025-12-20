@@ -6864,6 +6864,15 @@
   ],
   "Train-AI": [
     {
+      "timestamp": "2025-12-20T18-47-46-744Z",
+      "prompt": "mặc 1 bộ bikini",
+      "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T18-47-46-744Z-3hhwf.md",
+      "imagePath": "ai-generations/Train-AI/image-2025-12-20T18-47-46-744Z-3hhwf.png",
+      "sourceImageUrls": [
+        "https://raw.githubusercontent.com/lenzcomvth/Somethings/main/Models/Male/z7348355681043_e82b579de66b46a69ecfcf5a285a6d73.jpg"
+      ]
+    },
+    {
       "timestamp": "2025-12-20T18-43-33-836Z",
       "prompt": "mặc 1 bộ bikini",
       "markdownPath": "ai-generations/Train-AI/prompt-2025-12-20T18-43-33-836Z-cpxtz.md",
