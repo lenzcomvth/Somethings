@@ -1,5 +1,18 @@
 [
   {
+    "timestamp": "2025-12-20T22:09:49.182Z",
+    "type": "DELETE",
+    "details": {
+      "albumName": "Train-AI",
+      "count": 3,
+      "deletedPrompts": [
+        "mặc 1 bộ bikini",
+        "mặc 1 bộ bikini",
+        "girlvaytrang"
+      ]
+    }
+  },
+  {
     "timestamp": "2025-12-20T22:09:21.938Z",
     "type": "DELETE",
     "details": {
