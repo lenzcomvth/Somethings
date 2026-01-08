@@ -1,5 +1,19 @@
 [
   {
+    "timestamp": "2026-01-08T21:03:00.328Z",
+    "type": "CREATE",
+    "details": {
+      "albumName": "Black-Girl-China",
+      "count": 4,
+      "prompts": [
+        "Upload file from my computer at 04:01:55 09-01-2026 (Hình ảnh được tải lên từ máy tính vào lúc 04:02:50 9/1/2026)",
+        "Upload file from my computer at 04:01:55 09-01-2026 (Hình ảnh được tải lên từ máy tính vào lúc 04:02:50 9/1/2026)",
+        "Upload file from my computer at 04:01:55 09-01-2026 (Hình ảnh được tải lên từ máy tính vào lúc 04:02:50 9/1/2026)",
+        "Upload file from my computer at 04:01:55 09-01-2026 (Hình ảnh được tải lên từ máy tính vào lúc 04:02:50 9/1/2026)"
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-07T07:46:10.636Z",
     "type": "CREATE",
     "details": {
