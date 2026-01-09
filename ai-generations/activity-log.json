@@ -1,21 +1,15 @@
 [
   {
-    "timestamp": "2026-01-09T14:10:02.111Z",
+    "timestamp": "2026-01-09T14:10:48.206Z",
     "type": "CREATE",
     "details": {
       "albumName": "Bikini-Part-2",
-      "count": 10,
+      "count": 4,
       "prompts": [
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)",
-        "(Hình ảnh được tải lên từ máy tính vào lúc 21:08:56 9/1/2026)"
+        "(Hình ảnh được tải lên từ máy tính vào lúc 21:10:28 9/1/2026)",
+        "(Hình ảnh được tải lên từ máy tính vào lúc 21:10:28 9/1/2026)",
+        "(Hình ảnh được tải lên từ máy tính vào lúc 21:10:28 9/1/2026)",
+        "(Hình ảnh được tải lên từ máy tính vào lúc 21:10:28 9/1/2026)"
       ]
     }
   },
