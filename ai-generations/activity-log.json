@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-09T14:13:39.092Z",
+    "type": "DELETE",
+    "details": {
+      "albumName": "Bikini",
+      "count": 1,
+      "deletedPrompts": [
+        "(Hình ảnh được tải lên từ máy tính vào lúc 04:15:59 9/1/2026)"
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-09T14:10:48.206Z",
     "type": "CREATE",
     "details": {
